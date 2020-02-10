@@ -1,0 +1,12 @@
+neo4j
+xmltodict
+
+# Allen sdk and dependencies
+allensdk
+NumPy
+SciPy
+matplotlib
+h5py
+pandas
+pynrrd
+Jinja2
