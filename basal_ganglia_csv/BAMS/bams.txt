@@ -1,0 +1,61 @@
+
+BAMS 1 .csv: brain region to brain region relationship
+e_uid: int, unique ID
+region1_nomenclature1: nvarchar, Region and from which nomenclature ()
+region_nomenclature2: nvarchar, Region and belonging nomenclature
+topological_relation: ex. identitical/overlap etc.
+annotation: nvarchar: Notes about nomenclatures
+reference: nvarchar, Ref to the nomenclatures
+url: URL to nomenclature
+id:. int
+v_uid int
+v_uuid: Guid (uuid)
+v_lastmodified: DatTime
+v_status: Nvarchar(1). Letter
+v_lastmodified_epoch: seconds since jan1. 1970
+
+
+## Basal Nuclei:
+351, Basal nucleus of the dorsal horn (Swanson-1998),
+Basal nucleus of the spinal cord (Swanson-2004), identical,
+Collator note: Swanson 2004 nomenclature is very similar to Swanson 1998 version. For changes that were performed between Swanson 1998 and 2004 versions; please check "Changes to the original Atlas" ; page 7.,
+Swanson L.W.; (2004),
+http://scholar.google.com/scholar?hl=en&q=Swanson L.W.; (2004),
+613,351,ef4e29bf-5cc9-5b3b-aabd-15b802de5ed2,2016-05-09 16:57:11,
+C,1.4628130310509E9
+
+
+Tasks:
+1. List all nomenclatures referenced.
+2. Check uniqueness of e_uid, id and v_uid
+3. v_status is a letter, print it out to se distinct
+
+
+BAMS 2: (Brain Parts)
+e_uid: int, unique ID
+part_id: int
+species: Rat, Mouse, Human
+brain_part, e.g Basal Nuclei
+brain_part_type: e.g. gray matter
+abbreviation: brain part abbreviation
+nomenclature:  e.g Swanson
+nomenclature_version: e.g Swanson-1998
+general_description: long text
+associated_information: Mostly N/A, but also urls.
+reference: The nomenclature author
+referenceforfacet: Much the same as reference
+v_uid int
+v_uuid: Guid (uuid)
+v_lastmodified: DatTime
+v_status: Nvarchar(1). Letter
+v_lastmodified_epoch: seconds since jan1. 1970
+
+## Basal Nuclei
+101,101,Rat,Basal Nuclei,gray matter,BG,Swanson,Swanson-1998,
+In mammals; lateral and medial ventricular ridges develop into the classical striatum and pallidum; respectively (see Alvarez-Bolado and Swanson 1996 for review). To simplify endbrain organization; we have placed all regions that appear to develop from the ventricular ridges into either the pallidum or striatum; broadly defined. In general; cortex projects to striatum (and sometimes pallidum) via excitatory inputs; striatum projects to pallidum via inhibitory inputs; and both striatum and pallidum generate inhibitory decending projections. Justification for the organization scheme presented here; based on connections; is in preparation.,
+N/A, Swanson LW , Swanson LW , 
+101,377fa77f-1dca-5ed7-8d18-69833b59d3a2,
+2016-05-05 18:36:57, C, 1.462473417509692E9
+
+
+BAMS 3 is the same as BAMS 1 :(

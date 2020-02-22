@@ -1,0 +1,108 @@
+ID,Cell_type_name,Ontological_identifier
+5,Glutamate receptor 1 expressing,null
+7,NMDA receptor expressing,null
+8,Dopamine 1 receptor expressing,null
+9,Dopamine 2 receptor expressing,null
+13,Medium spiny neuron,null
+14,Tyrosine hydroxylase expressing,null
+17,Dynorphin expressing,null
+18,nNOS-expressing,null
+21,Substance P expressing,null
+22,Small sized cell,null
+23,Medium sized cell,null
+25,Dopamine receptor 3 / enkephalin co-expressing,null
+26,Dopamine receptor 3 expressing / enkephalin negative,null
+27,Substance P / PPA co-expressing,null
+29,Dopamine receptor 2  / enkephalin co-expressing,null
+30,Dopamine receptor 1  / enkephalin co-expressing,null
+31,Pre proenkephalin expressing,null
+32,Vesicular monoamine transporter-2 expressing,null
+33,Cholinergic neuron,NLX:148005
+34,Phosphate activated glutaminase expressing,null
+36,Calbindin expressing,null
+37,Parvalbumin expressing,null
+38,Somatostatin expressing,null
+39,Calretinin expressing,null
+40,NADPHd expressing,null
+41,Neuropeptide Y expressing,null
+42,Neuron,ILX:0107497
+43,Tyrosine hydroxylase negative,null
+44,Calbindin negative,null
+45,Low huntingtin expressing/calbindin expressing,null
+46,Moderate huntingtin expressing/calbindin expressing,null
+47,Strong huntingtin expressing/calbindin expressing,null
+48,Low huntingtin expressing/calbindin negative,null
+49,Moderate huntingtin expressing/calbindin negative,null
+50,Strong huntingtin expressing/calbindin negative,null
+51,Huntingtin negative/calbindin expressing,null
+53,Glial cell,null
+54,GAD67 expressing,null
+55,GAD67 / parvalbumin coexpressing,null
+56,Large sized cell,null
+57,Basic fibroblast growth factor expressing,null
+58,Basic fibroblast growth factor expressing - small size,null
+59,Basic fibroblast growth factor expressing - medium size,null
+60,Basic fibroblast growth factor expressing - large size,null
+61,GABAergic neuron,NLX:148043
+62,GAD65 - lightly expressing,null
+63,GAD65 - heavily expressing,null
+64,GAD67 - lightly expressing,null
+65,GAD67 - heavily expressing,null
+66,Glutamine synthetase expressing,null
+67,GAD expressing,null
+68,ApoD expressing,null
+69,CB1R expressing,null
+70,Astrocyte,SAO:1394521419
+71,Macrophage,SAO:185843373
+72,Lipocortin 1 expressing,null
+73,Phosphotyrosine expressing,null
+74,Kappa opioid receptor expressing,null
+75,NADPHd - weakly expressing,null
+76,NADPHd - strongly expressing,null
+77,VGLUT1 expressing,null
+78,VGLUT1 negative,null
+79,Substance P / enkephalin co-expressing,null
+80,VGLUT2 expressing,null
+81,VGAT expressing,null
+82,XPA expressing,null
+83,XPB expressing,null
+85,Enkephalin expressing,null
+86,Glucocorticoid receptor expressing,null
+87,C-fos expressing,null
+88,Cell,null
+89,Microglia,SAO:789292116
+90,Inner globus pallidus neuron,null
+91,Outer globus pallidus neuron,null
+92,PSA-NCAM expressing,null
+93,Somatostatin / calretinin co-expressing,null
+94,Somatostatin / nNOS co-expressing,null
+95,VIP / CCK co-expressing,null
+96,VIP / calretinin co-expressing,null
+97,VIP expressing,null
+98,Non-neuronal cell,null
+100,Acidic fibroblast growth factor expressing,null
+101,Dopaminergic neuron - normal morphology,null
+102,Dopaminergic neuron,null
+103,cAMP response element-positive,null
+104,Prototypic pallidal neuron,null
+105,Nigrostriatal neuron,null
+106,Dopaminergic nigrostriatal neuron,null
+107,Non-dopaminergic nigrostriatal neuron,null
+108,Subthalamic nucleus projection neuron,null
+109,Rostral subthalamic nucleus projection neuron,null
+110,Caudal subthalamic nucleus projection neuron,null
+111,Lateral subthalamic nucleus projection neuron,null
+112,Medial subthalamic nucleus projection neuron,null
+113,Astrocyte - S100b expressing,null
+114,Astrocyte - GFAP expressing,null
+115,Oligodendrocyte,null
+116,Perineuronal net-surrounded neuron,null
+117,Serotonergic neuron,null
+118,Microglia - resting,null
+119,Microglia - active,null
+120,Non-dopaminergic neuron,null
+121,GAD65 expressing,null
+122,p75 neurotrophin receptor expressing,null
+123,TrkA expressing,null
+124,Corticostriatal neuron,null
+125,Pre-enkephalin expressing,null
