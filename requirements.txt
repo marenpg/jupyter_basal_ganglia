@@ -3,6 +3,9 @@ jupyter
 neo4j
 xmltodict
 
+# blue brain nexus
+nexus-sdk
+
 # Allen sdk and dependencies
 allensdk
 NumPy
