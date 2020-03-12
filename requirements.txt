@@ -13,6 +13,6 @@ pandas
 pynrrd
 Jinja2
 
-# BAMS
+# BAMS2 connectivity
 requests
 beautifulsoup4
