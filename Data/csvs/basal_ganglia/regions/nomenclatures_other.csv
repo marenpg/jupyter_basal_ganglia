@@ -1,0 +1,17 @@
+,ID,Nomenclature_name,Version,Authors,Species,Strain,Published,Publication_type
+0,6,Swanson_2004,3.0,"Swanson, LW",1,11.0,2004.0,Atlas
+1,7,Paxinos & Watson_2007,6.0,"Paxinos, G; Watson, C",1,12.0,2007.0,Atlas
+2,9,Paxinos et al_2015,1.0,"Paxinos, G; Watson, C; Calabrese, E; Badea, A; Johnson, AG",1,12.0,2015.0,Atlas
+3,10,Paxinos et al_chemoarchitectonic_2009,2.0,"Paxinos, G; Watson, C; Carrive, P; Kirkcaldie, M; Ashwell, KWS",1,12.0,2009.0,Atlas
+4,11,Paxinos & Watson_ 1998,4.0,"Paxinos, G; Watson, C",1,12.0,1998.0,Atlas
+5,12,Swanson_1992,1.0,"Swanson, LW",1,11.0,1992.0,Atlas
+6,13,Franklin & Paxinos_2007,3.0,"Franklin, KBJ; Paxinos, G",2,1.0,2007.0,Atlas
+7,14,Paxinos & Watson_2013,7.0,"Paxinos, G; Watson, C",1,12.0,2013.0,Atlas
+8,17,Allen mouse brain atlas_2008,1.0,"Dong, HW",2,1.0,2008.0,Atlas
+9,19,Paxinos & Watson_2005,5.0,"Paxinos, G; Watson, C",1,12.0,2005.0,Atlas
+10,20,Paxinos & Franklin_2001,2.0,"Paxinos, G; Franklin, KBJ",2,1.0,2001.0,Atlas
+11,21,Custom_mouse,,,2,,,
+12,22,Custom_rat,,,1,,,
+13,27,Swanson_1998,2.0,"Swanson, LW",1,11.0,1998.0,Atlas
+14,28,Paxinos_Watson_1986,2.0,"Paxinos, G; Watson, C",1,12.0,1986.0,Atlas
+15,29,Franklin_Paxinos_1996,1.0,"Franklin, KBJ; Paxinos, G",2,1.0,1996.0,Atlas
