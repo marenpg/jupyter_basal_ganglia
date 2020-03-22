@@ -1,0 +1,28 @@
+,ID,EM_details_name,Microscope,Grid_type,Magnification
+0,1,Itzev_2008_Emdetails,4,Unspecified,29000
+1,2,Neuhofer_2015_Emdetails,4,Slot grid,20000
+2,3,O'Kusky_1999_Emdetails,4,Mesh grid,
+3,4,Pickel_1998_Emdetails,4,Mesh grid,
+4,5,Pickel_2006_Emdetails,4,Unspecified,
+5,6,Roberts_1995_Emdetails,4,Unspecified,30000
+6,7,Sizemore_2010_Emdetails,4,Slot grid,33000
+7,8,Sizemore_2016_Emdetails,4,Slot grid,
+8,9,Svingos_1999_Emdetails,4,Mesh grid,
+9,10,Uryu_1999_Emdetails,4,Unspecified,20000
+10,11,Walker_2012_Emdetails,4,Mesh grid,40000
+11,12,Wissman_2012_Emdetails,4,Slot grid,20000
+12,13,Oorschot_2013_Emdetails,4,Slot grid,13000
+13,14,NMO_Henny_2013_ultrathin_Emdetails,4,Slot grid,
+14,15,Zhao_2002_Emdetails,4,Unspecified,500
+15,16,Butler_1999_Emdetails,4,Unspecified,20000
+16,17,Ihara_1986_Emdetails,4,Unspecified,8000
+17,18,Meshul_1995_Emdetails,4,Unspecified,42000
+18,19,Mu_2014_Emdetails,4,Mesh grid,
+19,20,Roberts_2001_Emdetails,4,Unspecified,10000
+20,21,Roberts_1995b_Emdetails,4,Unspecified,15000
+21,22,Robinson_1995_Emdetails,4,Unspecified,
+22,23,Rodriguez_1999_Emdetails,4,Mesh grid,5200
+23,24,Sharpe_1998_Emdetails,4,,21000
+24,25,Uryu_2001_Emdetails,4,,20000
+25,26,Zhang_2016_Emdetails,4,Slot grid,12000
+26,27,Zheng_2018_Emdetails,4,Slot grid,

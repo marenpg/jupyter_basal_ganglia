@@ -1,0 +1,1006 @@
+,ID,Specimen_ID,Solution,Purpose,Time,Time_unit,Temperature
+0,154,75,38,Freezing,,,
+1,155,76,18,Fixation,,,
+2,156,77,18,Fixation,,,
+3,157,78,18,Fixation,,,
+4,158,79,18,Fixation,,,
+5,159,80,18,Fixation,,,
+6,160,81,18,Fixation,,,
+7,161,82,18,Fixation,,,
+8,162,83,18,Fixation,,,
+9,163,84,18,Fixation,,,
+10,164,85,18,Fixation,,,
+11,165,76,39,Blocking,,,
+12,166,77,39,Blocking,,,
+13,167,78,39,Blocking,,,
+14,168,79,39,Blocking,,,
+15,169,80,39,Blocking,,,
+16,170,81,39,Blocking,,,
+17,171,82,39,Blocking,,,
+18,172,83,39,Blocking,,,
+19,173,84,39,Blocking,,,
+20,174,85,39,Blocking,,,
+21,175,76,40,Signal amplification,,,
+22,176,77,40,Signal amplification,,,
+23,177,78,40,Signal amplification,,,
+24,178,79,40,Signal amplification,,,
+25,179,80,40,Signal amplification,,,
+26,180,81,40,Signal amplification,,,
+27,181,82,40,Signal amplification,,,
+28,182,83,40,Signal amplification,,,
+29,183,84,40,Signal amplification,,,
+30,184,85,40,Signal amplification,,,
+31,185,86,42,Fixation,30.0,Minutes,
+32,186,86,43,Storage,12.0,,
+33,187,86,44,Dehydration,,,
+34,188,86,45,Embedding,,,
+35,189,87,42,Fixation,30.0,Minutes,
+36,190,87,43,Storage,12.0,Hours,
+37,191,87,44,Dehydration,,,
+38,192,87,45,Embedding,,,
+39,193,89,46,General stain,,,
+40,194,88,46,General stain,,,
+41,195,91,45,Embedding,,,
+42,196,92,49,Deparaffinization,,,
+43,197,92,44,Rehydration,,,
+44,198,92,50,General stain,,,
+45,199,93,49,Deparaffinization,,,
+46,200,93,44,Rehydration,,,
+47,201,93,50,General stain,,,
+48,202,93,44,Dehydration,,,
+49,203,93,49,Clearing,,,
+50,204,94,18,Fixation,12.0,Hours,4.0
+51,205,96,53,Permeabilization,10.0,Minutes,
+52,206,96,54,Blocking,30.0,Minutes,
+53,207,96,55,Visualization,,,
+54,208,96,56,Signal amplification,60.0,Minutes,
+55,209,97,18,Fixation,,,
+56,210,98,57,Unspecified,10.0,Minutes,
+57,211,98,18,Fixation,5.0,Minutes,
+58,212,98,58,Unspecified,10.0,Minutes,
+59,213,98,59,Unspecified,10.0,Minutes,
+60,214,98,60,Unspecified,30.0,Minutes,37.0
+61,215,98,61,Unspecified,,,55.0
+62,217,98,62,Visualization,,,
+63,218,99,57,Unspecified,10.0,Minutes,
+64,219,99,18,Fixation,5.0,Minutes,
+65,220,99,58,Unspecified,10.0,Minutes,
+66,221,99,59,Unspecified,10.0,Minutes,
+67,222,99,60,Unspecified,30.0,Minutes,37.0
+68,223,99,61,Unspecified,,,55.0
+69,224,99,62,Visualization,,,
+70,225,100,18,Fixation,4.0,Hours,21.0
+71,226,100,64,Cryoprotection,12.0,Hours,4.0
+72,227,100,65,Embedding,,,
+73,228,100,66,Freezing,,,
+74,229,101,53,Permeabilization,4.0,Hours,
+75,230,101,53,Permeabilization,12.0,Hours,4.0
+76,4,,,,,,
+77,231,101,67,Signal amplification,,,
+78,232,101,68,Visualization,,,
+79,233,102,18,Fixation,7.5,Days,
+80,237,104,67,Signal amplification,,,
+81,240,105,67,Signal amplification,,,
+82,249,106,71,General stain,,,
+83,250,106,72,General stain,,,
+84,251,107,73,Freezing,,,-30.0
+85,264,110,18,Fixation,,,
+86,265,110,74,Acetylation,,,
+87,266,110,44,Dehydration,,,
+88,267,110,60,Unspecified,20.0,Minutes,
+89,268,110,44,Dehydration,,,
+90,270,111,18,Fixation,,,
+91,271,111,74,Acetylation,,,
+92,272,111,44,Dehydration,,,
+93,273,111,60,Unspecified,20.0,Minutes,
+94,274,111,44,Dehydration,,,
+95,276,112,18,Fixation,,,
+96,277,112,74,Acetylation,,,
+97,278,112,44,Dehydration,,,
+98,279,112,60,Unspecified,20.0,Minutes,
+99,280,112,44,Dehydration,,,
+100,282,113,18,Fixation,,,
+101,283,113,74,Acetylation,,,
+102,284,113,44,Dehydration,,,
+103,285,113,60,Unspecified,20.0,Minutes,
+104,286,113,44,Dehydration,,,
+105,288,110,54,Blocking,,,
+106,289,110,53,Permeabilization,,,
+107,290,110,76,Visualization,3.0,Months,
+108,291,110,77,Visualization,12.0,Hours,21.0
+109,292,111,54,Blocking,,,
+110,293,111,53,Permeabilization,,,
+111,294,111,76,Visualization,3.0,Months,
+112,295,111,77,Visualization,12.0,Hours,21.0
+113,296,112,54,Blocking,,,
+114,297,112,53,Permeabilization,,,
+115,298,112,76,Visualization,3.0,Months,
+116,299,112,77,Visualization,12.0,Hours,21.0
+117,300,113,54,Blocking,,,
+118,301,113,53,Permeabilization,,,
+119,302,113,76,Visualization,3.0,Months,
+120,303,113,77,Visualization,12.0,Hours,21.0
+121,304,114,78,Staining,5.0,Days,37.0
+122,305,115,78,Staining,5.0,Days,37.0
+123,306,116,64,Unspecified,30.0,Minutes,
+124,307,116,44,Dehydration,5.0,Minutes,
+125,308,116,79,Unspecified,30.0,Minutes,
+126,309,116,80,Unspecified,30.0,Minutes,
+127,310,116,44,Dehydration,30.0,Minutes,
+128,311,116,81,Unspecified,10.0,Minutes,
+129,312,116,49,Clearing,10.0,Minutes,
+130,313,117,64,Unspecified,30.0,Minutes,
+131,314,117,44,Dehydration,5.0,Minutes,
+132,315,117,79,Unspecified,,,
+133,316,117,80,Unspecified,30.0,Minutes,
+134,317,117,81,Unspecified,10.0,Minutes,
+135,318,117,49,Clearing,15.0,Minutes,
+136,319,117,44,Dehydration,30.0,Minutes,
+137,320,120,84,Storage,1.0,Weeks,4.0
+138,321,120,43,Storage,12.0,Hours,4.0
+139,4,,,,,,
+140,322,120,83,General stain,,,
+141,323,121,84,Storage,1.0,Weeks,4.0
+142,4,,,,,,
+143,4,,,,,,
+144,324,121,43,Storage,12.0,Hours,4.0
+145,325,121,83,General stain,,,
+146,339,127,90,Fixation,8.5,Days,
+147,340,128,70,Blocking,30.0,Minutes,
+148,341,128,86,Blocking,30.0,Minutes,
+149,342,128,56,Visualization,60.0,Minutes,
+150,343,128,91,Visualization,,,
+151,344,129,44,Dehydration,,,
+152,345,130,92,Fixation,12.0,Hours,4.0
+153,346,130,64,Cryoprotection,72.0,Hours,4.0
+154,347,130,,Freezing,,,-50.0
+155,348,130,,Storage,,,-80.0
+156,349,131,93,Blocking,,,
+157,350,131,56,Signal amplification,,,
+158,351,131,94,Visualization,15.0,Minutes,
+159,352,132,93,Blocking,,,
+160,353,132,56,Signal amplification,,,
+161,354,132,95,Visualization,13.0,Minutes,
+162,355,133,93,Blocking,,,
+163,356,133,56,Signal amplification,,,
+164,357,133,94,Visualization,17.0,Minutes,
+165,358,131,96,Counterstaining,,,
+166,359,132,96,Counterstaining,,,
+167,360,133,96,Counterstaining,,,
+168,361,134,18,Fixation,12.0,Hours,
+169,362,134,64,Cryoprotection,,,
+170,363,135,84,Storage,,,4.0
+171,364,135,53,Permeabilization,60.0,Hours,4.0
+172,365,135,85,Blocking,20.0,Minutes,
+173,366,135,97,Signal amplification,3.0,Hours,
+174,367,135,55,Visualization,,,
+175,368,136,84,Storage,,,4.0
+176,369,136,53,Permeabilization,60.0,Hours,4.0
+177,370,136,85,Blocking,20.0,Minutes,
+178,371,136,97,Signal amplification,3.0,Hours,
+179,372,136,55,Visualization,,,
+180,373,137,84,Storage,,,4.0
+181,374,137,53,Permeabilization,60.0,Hours,4.0
+182,375,137,85,Blocking,20.0,Minutes,
+183,376,137,97,Signal amplification,3.0,Hours,
+184,377,137,55,Visualization,,,
+185,378,138,84,Storage,,,4.0
+186,379,138,53,Permeabilization,60.0,Hours,4.0
+187,4,,,,,,
+188,380,138,85,Blocking,20.0,Minutes,
+189,381,138,97,Signal amplification,3.0,Hours,
+190,382,138,55,Visualization,,,
+191,383,139,84,Storage,,,4.0
+192,384,139,53,Permeabilization,60.0,Hours,4.0
+193,385,139,85,Blocking,20.0,Minutes,
+194,386,139,97,Signal amplification,3.0,Hours,
+195,387,139,55,Visualization,,,
+196,388,140,84,Storage,,,4.0
+197,389,140,53,Permeabilization,60.0,Hours,4.0
+198,390,140,85,Blocking,20.0,Minutes,
+199,391,140,97,Signal amplification,3.0,Hours,
+200,392,140,55,Visualization,,,
+201,393,141,44,Dehydration,,,
+202,394,141,49,Clearing,,,
+203,395,142,18,Fixation,24.0,Hours,
+204,396,142,64,Dehydration,48.0,Hours,
+205,397,142,66,Freezing,,,
+206,399,143,100,Storage,,,
+207,400,143,101,General stain,7.0,Minutes,
+208,401,144,64,Cryoprotection,,,
+209,402,145,44,Unspecified,,,
+210,403,145,102,Blocking,,,
+211,404,145,54,Blocking,,,
+212,405,145,67,Signal amplification,1.0,Hours,
+213,406,145,87,Visualization,10.0,Minutes,
+214,407,145,55,Visualization,5.0,Minutes,
+215,408,148,44,Dehydration,,,
+216,409,148,49,Dehydration,,,
+217,410,146,44,Unspecified,,,
+218,411,146,102,Blocking,,,
+219,412,146,54,Blocking,,,
+220,413,146,67,Signal amplification,1.0,Hours,
+221,414,146,87,Visualization,10.0,Minutes,
+222,415,146,55,Visualization,5.0,Minutes,
+223,416,147,46,General stain,,,
+224,417,145,46,General stain,,,
+225,418,150,53,Permeabilization,48.0,Hours,4.0
+226,419,150,67,Signal amplification,90.0,Minutes,
+227,421,151,53,Permeabilization,48.0,Hours,4.0
+228,422,151,67,Signal amplification,90.0,Minutes,
+229,423,152,104,Visualization,15.0,Minutes,
+230,424,152,106,Visualization,1.0,Hours,37.0
+231,425,153,44,Dehydration,,,
+232,426,153,49,Clearing,,,
+233,427,155,109,Fixation,40.0,Minutes,4.0
+234,428,156,110,Postfixation,90.0,Minutes,
+235,429,156,44,Dehydration,,,
+236,430,156,111,Dehydration,,,
+237,431,156,112,Embedding,,,
+238,432,157,113,Counterstaining,,,
+239,433,157,114,Counterstaining,,,
+240,434,158,18,Fixation,18.0,Hours,4.0
+241,435,159,115,Blocking,15.0,Minutes,21.0
+242,436,159,54,Blocking,15.0,Minutes,21.0
+243,437,159,56,Visualization,60.0,Minutes,21.0
+244,438,159,55,Visualization,6.0,Minutes,21.0
+245,439,161,78,Visualization,6.0,Days,37.0
+246,440,162,78,Visualization,10.0,Days,37.0
+247,441,163,64,Unspecified,,,
+248,442,163,44,Dehydration,5.0,Minutes,
+249,443,163,79,Unspecified,30.0,Minutes,
+250,444,163,117,Unspecified,30.0,Minutes,
+251,445,163,81,Clearing,10.0,Minutes,
+252,446,164,64,Unspecified,,,
+253,447,164,44,Dehydration,25.0,Minutes,
+254,448,164,79,Unspecified,30.0,Minutes,
+255,449,164,81,Clearing,10.0,Minutes,
+256,450,164,117,Unspecified,30.0,Minutes,
+257,452,165,89,Fixation,,,
+258,453,165,45,Embedding,,,
+259,454,166,118,Signal amplification,2.0,Hours,
+260,455,166,87,Visualization,,,
+261,456,166,46,Counterstaining,,,
+262,457,167,18,Fixation,1.0,Hours,21.0
+263,458,167,64,Cryoprotection,12.0,Hours,4.0
+264,459,167,73,Freezing,,,
+265,460,168,86,Blocking,1.0,Hours,
+266,461,169,18,Fixation,4.0,Hours,
+267,462,170,64,Storage,,,-80.0
+268,463,170,122,Blocking,1.0,Hours,
+269,464,170,67,Signal amplification,1.0,Hours,21.0
+270,465,170,87,Visualization,,,
+271,466,170,110,Postfixation,,,
+272,467,170,113,Counterstaining,,,
+273,468,170,112,Embedding,,,
+274,469,171,114,Counterstaining,,,
+275,470,172,18,Fixation,12.0,Hours,
+276,471,172,64,Unspecified,,,
+277,472,172,,Freezing,,,-80.0
+278,473,173,83,General stain,,,
+279,474,175,18,Fixation,,,
+280,475,175,123,Fixation,,,
+281,476,175,60,Unspecified,,,
+282,477,175,53,Permeabilization,30.0,Minutes,
+283,478,175,76,Unspecified,,,
+284,479,175,124,Visualization,3.5,Minutes,
+285,480,175,50,Counterstaining,,,
+286,481,175,125,Counterstaining,,,
+287,482,178,92,Fixation,12.0,Hours,4.0
+288,483,178,64,Unspecified,2.0,Days,4.0
+289,484,179,92,Fixation,12.0,Hours,4.0
+290,485,179,64,Unspecified,2.0,Days,4.0
+291,486,180,53,Permeabilization,12.0,Hours,4.0
+292,487,180,56,Visualization,,,
+293,488,180,55,Visualization,,,
+294,489,180,110,Unspecified,0.5,Minutes,
+295,490,181,83,General stain,,,
+296,491,182,53,Permeabilization,12.0,Hours,4.0
+297,492,182,56,Visualization,,,
+298,493,182,55,Visualization,,,
+299,494,182,110,Unspecified,0.5,Minutes,
+300,495,183,83,General stain,,,
+301,496,182,93,Blocking,48.0,Hours,4.0
+302,497,180,93,Blocking,48.0,Hours,4.0
+303,498,184,64,Unspecified,2.0,Days,
+304,499,185,58,Unspecified,,,
+305,500,185,53,Permeabilization,,,
+306,501,185,57,Unspecified,,,
+307,502,185,122,Blocking,1.0,Hours,
+308,503,185,60,Unspecified,,,
+309,504,185,126,Unspecified,5.5,Hours,
+310,505,185,123,Fixation,1.0,Hours,
+311,506,186,58,Unspecified,,,
+312,507,186,53,Permeabilization,,,
+313,508,186,57,Unspecified,,,
+314,509,186,123,Fixation,1.0,Hours,
+315,510,186,122,Blocking,1.0,Hours,
+316,511,186,60,Unspecified,,,
+317,512,186,126,Unspecified,,,
+318,513,187,70,Blocking,30.0,Minutes,
+319,514,187,122,Blocking,60.0,Minutes,
+320,515,187,118,Visualization,90.0,Minutes,
+321,516,187,91,Visualization,15.0,Minutes,
+322,517,188,18,Fixation,23.0,Hours,
+323,518,188,64,Cryoprotection,72.0,Hours,
+324,519,188,38,Freezing,,,
+325,520,188,,Storage,,,-80.0
+326,521,189,18,Fixation,23.0,Hours,
+327,522,189,64,Cryoprotection,72.0,,
+328,523,189,38,Freezing,,,
+329,524,189,,Storage,,,-80.0
+330,525,190,54,Blocking,1.0,Hours,21.0
+331,526,190,86,Permeabilization,5.0,Minutes,
+332,527,190,128,General stain,5.0,Minutes,
+333,528,191,54,Blocking,1.0,Hours,21.0
+334,529,191,86,Permeabilization,5.0,Minutes,
+335,530,191,128,General stain,5.0,Minutes,
+336,531,195,18,Fixation,2.0,Hours,
+337,532,196,18,Fixation,2.0,Hours,
+338,533,197,18,Fixation,2.0,Hours,
+339,537,201,46,General stain,,,
+340,538,202,46,General stain,,,
+341,539,203,46,General stain,,,
+342,540,205,53,Permeabilization,,,
+343,541,205,56,Visualization,1.0,Hours,4.0
+344,542,205,55,Visualization,,,
+345,543,205,54,Blocking,,,
+346,548,207,,Fixation,12.0,Hours,4.0
+347,549,207,131,Storage,24.0,Hours,
+348,550,208,56,Visualization,1.0,Hours,21.0
+349,551,208,53,Permeabilization,74.0,Hours,
+350,552,208,87,Visualization,10.0,Minutes,
+351,553,208,55,Visualization,10.0,Minutes,
+352,554,209,53,Permeabilization,45.0,Minutes,37.0
+353,555,209,106,Visualization,45.0,Minutes,37.0
+354,557,210,46,General stain,,,
+355,558,211,56,Visualization,1.0,Hours,21.0
+356,559,211,87,Visualization,10.0,Minutes,
+357,560,211,55,Visualization,10.0,Minutes,
+358,561,211,53,Permeabilization,74.0,Hours,
+359,562,213,,Fixation,2.0,Hours,
+360,563,214,64,Unspecified,15.0,Minutes,
+361,564,214,64,Unspecified,12.0,Hours,
+362,565,214,99,Unspecified,,,
+363,566,214,54,Blocking,45.0,Minutes,
+364,567,214,110,Unspecified,20.0,Minutes,4.0
+365,568,214,44,Dehydration,,,
+366,569,214,134,Dehydration,,,
+367,570,214,112,Embedding,,,
+368,571,214,113,Counterstaining,15.0,Minutes,4.0
+369,572,214,133,Visualization,,,
+370,573,215,114,Counterstaining,,,
+371,574,216,18,Fixation,12.0,Hours,
+372,575,216,64,Cryoprotection,,,
+373,576,216,,Freezing,,,-80.0
+374,577,217,67,Signal amplification,,,
+375,578,217,87,Visualization,,,
+376,579,218,18,Fixation,12.0,Hours,4.0
+377,580,219,138,Cryoprotection,,,
+378,581,219,138,Storage,,,-20.0
+379,582,220,138,Cryoprotection,,,
+380,583,220,138,Storage,,,-20.0
+381,584,219,140,Permeabilization,,,
+382,585,219,123,Fixation,1.0,Hours,
+383,586,219,77,Visualization,2.5,Hours,
+384,587,219,67,Signal amplification,,,
+385,588,219,55,Visualization,5.0,Minutes,
+386,589,220,140,Permeabilization,,,
+387,590,220,123,Fixation,1.0,Hours,
+388,591,220,77,Visualization,2.5,Hours,
+389,592,220,67,Signal amplification,,,
+390,593,220,55,Visualization,5.0,Minutes,
+391,594,221,103,Fixation,24.0,Hours,4.0
+392,595,222,103,Fixation,24.0,Hours,4.0
+393,596,223,103,Fixation,24.0,Hours,4.0
+394,597,224,142,General stain,,,
+395,598,226,142,General stain,,,
+396,599,227,142,General stain,,,
+397,600,225,110,Postfixation,3.0,Hours,
+398,601,225,113,Counterstaining,2.0,Hours,
+399,602,225,44,Dehydration,,,
+400,603,225,111,Unspecified,,,
+401,604,225,143,Embedding,,,
+402,605,228,113,Counterstaining,,,
+403,606,228,114,Counterstaining,,,
+404,607,230,54,Blocking,1.0,Hours,
+405,608,230,67,Signal amplification,1.0,Hours,
+406,609,230,55,Visualization,5.0,Minutes,
+407,610,230,145,Counterstaining,,,
+408,611,231,18,Fixation,90.0,Minutes,
+409,612,232,64,Unspecified,12.0,Hours,
+410,613,232,144,Freezing,,,
+411,614,234,85,Blocking,30.0,Minutes,
+412,615,234,54,Blocking,30.0,Minutes,
+413,616,234,53,Permeabilization,135.0,Minutes,
+414,617,234,118,Signal amplification,1.0,Hours,
+415,618,234,55,Visualization,10.0,Minutes,
+416,619,235,85,Blocking,30.0,Minutes,
+417,620,235,53,Permeabilization,135.0,Minutes,
+418,621,235,54,Blocking,30.0,Minutes,
+419,622,235,118,Signal amplification,1.0,Hours,
+420,623,235,55,Visualization,10.0,Minutes,
+421,624,236,18,Fixation,20.0,Minutes,4.0
+422,625,236,146,Fixation,15.0,Minutes,4.0
+423,626,236,106,Staining,50.0,Minutes,37.0
+424,627,236,53,Permeabilization,50.0,Minutes,37.0
+425,628,236,146,Dehydration,,,
+426,629,236,49,Dehydration,,,
+427,630,235,18,Fixation,30.0,Minutes,
+428,631,234,18,Fixation,30.0,Minutes,
+429,632,237,18,Fixation,30.0,Minutes,
+430,633,237,44,Dehydration,8.0,Minutes,
+431,634,237,49,Clearing,2.0,Minutes,
+432,635,237,,Storage,,,-20.0
+433,636,237,123,Fixation,24.0,Hours,37.0
+434,637,237,77,Visualization,48.0,Hours,21.0
+435,638,237,146,Dehydration,,,
+436,639,237,49,Clearing,,,
+437,640,238,18,Fixation,30.0,Minutes,
+438,641,238,44,Dehydration,8.0,Minutes,
+439,642,238,49,Clearing,2.0,Minutes,
+440,643,238,,Storage,,,-20.0
+441,644,238,123,Fixation,24.0,Hours,37.0
+442,645,238,77,Visualization,48.0,Hours,21.0
+443,646,238,146,Dehydration,,,
+444,647,238,49,Clearing,,,
+445,648,239,18,Fixation,30.0,Minutes,
+446,649,239,44,Dehydration,8.0,Minutes,
+447,650,239,49,Clearing,2.0,Minutes,
+448,651,239,,Storage,,,-20.0
+449,652,239,123,Fixation,24.0,Hours,37.0
+450,653,239,77,Visualization,48.0,Hours,21.0
+451,654,239,146,Dehydration,,,
+452,655,239,49,Clearing,,,
+453,656,240,64,Unspecified,12.0,Hours,4.0
+454,657,241,89,Fixation,0.5,Minutes,
+455,658,241,86,Blocking,15.0,Minutes,
+456,659,241,118,Signal amplification,2.0,Hours,
+457,660,241,148,Visualization,15.0,Minutes,
+458,661,241,149,Visualization,5.0,Minutes,
+459,662,241,44,Dehydration,,,
+460,663,242,86,Blocking,15.0,Minutes,
+461,664,242,118,Signal amplification,2.0,Hours,
+462,665,242,148,Visualization,,,
+463,668,242,96,Counterstaining,,,
+464,669,244,96,Counterstaining,,,
+465,670,245,100,Cryoprotection,,,
+466,672,245,110,Postfixation,2.0,Hours,
+467,673,245,143,Embedding,,,
+468,674,246,113,Counterstaining,,,
+469,675,246,114,Counterstaining,,,
+470,676,247,18,Fixation,30.0,Minutes,
+471,677,248,152,Antigen retrieval,30.0,Minutes,
+472,678,248,131,Cryoprotection,15.0,Minutes,
+473,679,248,153,Freezing,,,
+474,680,248,99,Freezing,,,
+475,681,248,67,Signal amplification,,,
+476,682,248,55,Visualization,,,
+477,683,248,133,Visualization,,,
+478,684,248,110,Postfixation,,,
+479,685,249,113,Counterstaining,,,
+480,686,249,114,Counterstaining,,,
+481,687,250,18,Fixation,4.0,Hours,4.0
+482,688,250,64,Cryoprotection,,,4.0
+483,689,250,73,Freezing,,,-40.0
+484,690,250,,Storage,,,-80.0
+485,691,251,70,Blocking,20.0,Minutes,
+486,692,251,67,Signal amplification,,,
+487,693,251,155,Visualization,,,
+488,694,252,,Fixation,24.0,Hours,
+489,695,252,43,Storage,,,4.0
+490,696,253,110,Postfixation,1.0,Hours,
+491,697,253,113,Counterstaining,1.0,Hours,
+492,698,253,44,Dehydration,,,
+493,699,253,156,Embedding,,,
+494,700,255,157,Fixation,48.0,Hours,
+495,701,256,45,Embedding,,,
+496,702,257,157,Fixation,48.0,Hours,
+497,703,258,45,Embedding,,,
+498,704,263,,Fixation,12.0,Hours,4.0
+499,705,263,64,Cryoprotection,48.0,Hours,4.0
+500,706,263,38,Freezing,,,
+501,707,263,,Storage,,,-80.0
+502,708,264,,Storage,,,-20.0
+503,709,264,122,Blocking,1.0,Hours,21.0
+504,710,264,71,General stain,12.0,Hours,4.0
+505,711,264,,Drying,1.0,Hours,55.0
+506,712,264,158,Defatting,15.0,Minutes,
+507,713,264,44,Unspecified,30.0,Minutes,
+508,714,264,159,Heating,,,95.0
+509,715,264,160,Heating,10.0,Minutes,95.0
+510,716,264,159,Cooling,15.0,Minutes,
+511,717,265,109,Fixation,6.0,Hours,21.0
+512,718,265,44,Storage,12.0,Hours,4.0
+513,719,265,45,Embedding,,,
+514,720,266,70,Blocking,,,
+515,721,266,54,Blocking,30.0,Minutes,
+516,722,266,87,Visualization,,,
+517,723,266,67,Signal amplification,,,
+518,724,266,162,Counterstaining,,,
+519,725,267,70,Blocking,,,
+520,726,267,54,Blocking,30.0,Minutes,
+521,727,267,67,Signal amplification,,,
+522,728,267,87,Visualization,,,
+523,729,267,162,Counterstaining,,,
+524,730,268,70,Blocking,,,
+525,731,268,54,Blocking,30.0,Minutes,
+526,732,268,67,Signal amplification,,,
+527,733,268,87,Visualization,,,
+528,734,268,162,Counterstaining,,,
+529,735,269,18,Fixation,1.0,Hours,
+530,736,270,43,Visualization,36.0,Hours,4.0
+531,737,270,18,Fixation,1.0,Hours,
+532,738,271,,Fixation,,,
+533,739,272,44,Permeabilization,30.0,Minutes,
+534,740,272,70,Blocking,,,
+535,741,272,122,Blocking,30.0,Minutes,21.0
+536,742,272,93,Blocking,55.0,Minutes,
+537,743,272,118,Signal amplification,1.0,Hours,21.0
+538,744,272,164,Visualization,,,
+539,745,272,87,Visualization,,,
+540,747,272,118,Signal amplification,1.0,Hours,
+541,748,272,110,Postfixation,1.0,Hours,
+542,749,272,44,Dehydration,,,
+543,750,272,111,Infiltration,,,
+544,751,272,165,Infiltration,,,
+545,752,272,156,Infiltration,,,
+546,753,272,156,Embedding,24.0,Hours,60.0
+547,754,273,156,Polymerization,24.0,Hours,60.0
+548,755,274,113,Counterstaining,30.0,Minutes,40.0
+549,756,274,114,Counterstaining,80.0,Seconds,20.0
+550,757,275,,Fixation,,,
+551,758,276,44,Permeabilization,30.0,Minutes,
+552,759,276,54,Blocking,60.0,Minutes,21.0
+553,760,276,118,Signal amplification,1.0,Hours,21.0
+554,761,276,87,Visualization,,,
+555,762,276,110,Postfixation,1.0,Hours,
+556,763,276,44,Dehydration,,,
+557,764,276,111,Infiltration,,,
+558,765,276,165,Infiltration,,,
+559,766,276,156,Infiltration,,,
+560,767,276,156,Embedding,24.0,Hours,60.0
+561,768,277,113,Counterstaining,30.0,Minutes,40.0
+562,769,277,114,Counterstaining,80.0,Seconds,20.0
+563,770,278,50,General stain,,,
+564,771,278,125,General stain,,,
+565,772,279,18,Fixation,30.0,Minutes,
+566,773,280,152,Blocking,,,21.0
+567,774,280,131,Cryoprotection,,,21.0
+568,775,280,166,Freezing,,,
+569,776,280,99,Freezing,,,
+570,777,280,93,Blocking,30.0,Minutes,21.0
+571,778,280,67,Signal amplification,,,21.0
+572,779,280,55,Visualization,6.0,Minutes,21.0
+573,780,280,110,Postfixation,1.0,Hours,
+574,781,280,44,Dehydration,,,
+575,782,280,111,Dehydration,,,
+576,783,280,143,Embedding,,,
+577,784,281,113,Counterstaining,,,
+578,785,281,114,Counterstaining,,,
+579,786,282,,Fixation,2.0,Hours,
+580,787,282,64,Cryoprotection,12.0,Hours,
+581,788,283,106,Visualization,,,37.0
+582,789,284,44,Dehydration,,,
+583,790,285,18,Fixation,12.0,Hours,
+584,791,286,100,Storage,,,-20.0
+585,792,286,73,Freezing,10.0,Seconds,
+586,793,286,54,Blocking,1.0,Hours,
+587,794,286,118,Signal amplification,1.0,Hours,
+588,795,286,87,Visualization,30.0,Minutes,
+589,796,286,55,Visualization,,,
+590,797,286,110,Unspecified,,,
+591,798,286,113,Counterstaining,,,
+592,799,286,44,Dehydration,,,
+593,800,286,111,Unspecified,,,
+594,801,286,156,Unspecified,12.0,Hours,
+595,802,288,,Fixation,24.0,Hours,
+596,803,289,,Fixation,24.0,Hours,
+597,804,290,,Fixation,24.0,Hours,
+598,805,291,,Fixation,24.0,Hours,
+599,806,292,168,Cryoprotection,,,
+600,807,292,130,Embedding,,,
+601,808,293,168,Cryoprotection,,,
+602,809,293,130,Embedding,,,
+603,810,294,168,Cryoprotection,,,
+604,811,294,130,Embedding,,,
+605,812,295,168,Cryoprotection,,,
+606,813,295,130,Embedding,,,
+607,814,295,73,Freezing,,,-70.0
+608,815,294,73,Freezing,,,-70.0
+609,816,293,73,Freezing,,,-70.0
+610,817,292,73,Freezing,,,-70.0
+611,818,299,67,Signal amplification,,,
+612,819,299,87,Visualization,,,
+613,820,298,67,Signal amplification,,,
+614,821,298,87,Visualization,,,
+615,822,297,67,Signal amplification,,,
+616,823,297,87,Visualization,,,
+617,824,296,67,Signal amplification,,,
+618,825,296,87,Visualization,,,
+619,826,300,18,Fixation,36.0,Hours,4.0
+620,827,301,18,Fixation,36.0,Hours,
+621,828,302,43,Epitope retrieval,20.0,Minutes,98.0
+622,829,302,85,Blocking,,,
+623,830,302,93,Blocking,4.0,Hours,21.0
+624,831,302,67,Signal amplification,,,
+625,832,302,55,Visualization,,,
+626,833,302,53,Permeabilization,,,
+627,834,303,43,Epitope retrieval,20.0,Minutes,98.0
+628,835,303,85,Blocking,,,
+629,836,303,93,Blocking,4.0,Hours,21.0
+630,837,303,67,Signal amplification,,,
+631,838,303,55,Visualization,,,
+632,839,303,53,Permeabilization,,,
+633,840,300,64,Cryoprotection,,,
+634,841,301,64,Cryoprotection,,,
+635,842,305,85,Blocking,1.0,Minutes,35.0
+636,843,305,53,Permeabilization,5.0,Minutes,35.0
+637,844,305,67,Signal amplification,11.0,Minutes,35.0
+638,845,305,55,Visualization,10.0,Minutes,21.0
+639,846,305,156,Embedding,,,
+640,847,306,170,Unspecified,,,
+641,848,307,,Storage,,,-80.0
+642,849,307,18,Fixation,5.0,Minutes,
+643,850,307,74,Acetylation,10.0,Minutes,
+644,851,307,44,Dehydration,,,
+645,852,307,60,Unspecified,30.0,Minutes,37.0
+646,853,307,44,Dehydration,,,
+647,854,307,104,Visualization,,,
+648,855,307,76,Visualization,28.0,Days,4.0
+649,856,307,124,Unspecified,,,
+650,857,307,171,Unspecified,,,
+651,858,307,123,Fixation,12.0,Hours,58.0
+652,859,308,18,Fixation,13.5,Hours,
+653,861,309,100,Storage,1.0,Weeks,-14.0
+654,862,309,77,Visualization,40.0,Hours,21.0
+655,863,310,96,Counterstaining,,,
+656,864,310,146,Dehydration,8.0,Minutes,
+657,865,310,173,Softening,30.0,Minutes,
+658,866,310,49,Clearing,,,
+659,867,311,103,Fixation,12.0,Hours,4.0
+660,868,311,64,Cryoprotection,,,
+661,869,312,103,Fixation,12.0,Hours,4.0
+662,870,312,64,Cryoprotection,,,
+663,871,313,110,Unspecified,,,
+664,872,313,156,Embedding,,,
+665,873,314,110,Unspecified,,,
+666,874,314,156,Embedding,,,
+667,875,315,113,Counterstaining,,,
+668,876,315,114,Counterstaining,,,
+669,877,316,113,Counterstaining,,,
+670,878,316,114,Counterstaining,,,
+671,879,317,,Fixation,1.0,Hours,4.0
+672,880,317,64,Cryoprotection,,,
+673,881,318,53,Permeabilization,,,
+674,882,318,122,Blocking,1.0,Hours,21.0
+675,883,321,53,Permeabilization,,,
+676,884,321,122,Blocking,1.0,Hours,21.0
+677,885,322,53,Permeabilization,,,
+678,886,322,122,Blocking,1.0,Hours,21.0
+679,887,323,18,Fixation,6.0,Hours,
+680,888,323,64,Cryoprotection,,,4.0
+681,889,324,100,Storage,,,-20.0
+682,890,324,70,Blocking,30.0,Minutes,
+683,891,324,86,Blocking,13.0,Hours,
+684,892,324,67,Signal amplification,,,
+685,893,324,55,Visualization,,,
+686,894,325,100,Storage,,,-20.0
+687,895,325,86,Blocking,13.0,Hours,
+688,896,325,67,Signal amplification,,,
+689,897,325,55,Visualization,,,
+690,898,325,70,Blocking,30.0,Minutes,
+691,899,326,18,Fixation,1.0,Hours,
+692,900,327,46,General stain,,,
+693,901,328,56,Visualization,,,
+694,902,329,56,Signal amplification,,,
+695,903,330,56,Signal amplification,,,
+696,904,331,18,Fixation,37.5,Minutes,4.0
+697,905,331,64,Storage,32.0,Hours,
+698,906,332,86,Blocking,,,
+699,907,332,67,Signal amplification,90.0,Minutes,
+700,908,332,68,Visualization,,,
+701,909,332,91,Visualization,3.0,Minutes,
+702,910,333,,Fixation,12.0,Hours,
+703,911,333,44,Dehydration,,,
+704,912,333,49,Defatting,,,
+705,913,333,45,Embedding,,,
+706,914,334,67,Signal amplification,,,
+707,915,334,96,Counterstaining,,,
+708,916,335,,Fixation,12.0,Hours,
+709,917,335,64,Cryoprotection,,,
+710,918,336,67,Signal amplification,,,
+711,919,336,96,Counterstaining,,,
+712,921,337,73,Freezing,,,-120.0
+713,922,338,89,Fixation,30.0,Seconds,
+714,923,338,86,Blocking,15.0,Minutes,
+715,924,338,53,Permeabilization,12.0,Hours,4.0
+716,925,338,118,Signal amplification,1.5,Hours,
+717,926,338,148,Visualization,,,
+718,927,338,96,General stain,,,
+719,928,339,45,Embedding,,,
+720,929,340,176,Staining,,,
+721,930,341,18,Fixation,12.0,Hours,
+722,931,341,64,Unspecified,,,
+723,932,342,53,Permeabilization,15.0,Hours,4.0
+724,933,342,95,Visualization,,,
+725,935,343,18,Fixation,12.0,Hours,
+726,936,343,64,Unspecified,,,
+727,937,344,53,Permeabilization,15.0,Hours,4.0
+728,938,344,95,Visualization,,,
+729,939,345,,Fixation,12.0,Hours,
+730,940,345,44,Dehydration,,,
+731,941,345,49,Defatting,,,
+732,942,345,45,Embedding,,,
+733,943,346,,Fixation,12.0,Hours,
+734,944,346,44,Dehydration,,,
+735,945,346,49,Defatting,,,
+736,946,346,45,Embedding,,,
+737,947,347,,Fixation,,,
+738,948,347,44,Dehydration,,,
+739,949,347,49,Defatting,,,
+740,950,347,45,Embedding,,,
+741,951,348,,Fixation,,,
+742,952,348,44,Dehydration,,,
+743,953,348,49,Defatting,,,
+744,954,348,45,Embedding,,,
+745,955,349,,Fixation,,,
+746,956,349,44,Dehydration,,,
+747,957,349,49,Defatting,,,
+748,958,349,45,Embedding,,,
+749,959,350,,Fixation,,,
+750,960,350,44,Dehydration,,,
+751,961,350,49,Defatting,,,
+752,962,350,45,Embedding,,,
+753,963,351,,Fixation,,,
+754,964,351,44,Dehydration,,,
+755,965,351,49,Defatting,,,
+756,966,351,45,Embedding,,,
+757,967,352,,Fixation,,,
+758,968,352,44,Dehydration,,,
+759,969,352,49,Defatting,,,
+760,970,352,45,Embedding,,,
+761,971,353,49,Deparaffinization,,,
+762,972,353,44,Deparaffinization,,,
+763,973,353,53,Permeabilization,1.0,Hours,41.0
+764,974,353,67,Signal amplification,,,
+765,975,353,87,Visualization,,,
+766,976,353,83,Counterstaining,,,
+767,977,353,44,Dehydration,,,
+768,978,353,49,Clearing,,,
+769,979,354,49,Deparaffinization,,,
+770,980,354,44,Deparaffinization,,,
+771,981,354,53,Permeabilization,1.0,Hours,41.0
+772,982,354,67,Signal amplification,,,
+773,983,354,87,Visualization,,,
+774,984,354,49,Clearing,,,
+775,985,354,44,Dehydration,,,
+776,986,354,83,Counterstaining,,,
+777,987,355,49,Deparaffinization,,,
+778,988,355,44,Deparaffinization,,,
+779,989,355,53,Permeabilization,1.0,Hours,41.0
+780,990,355,67,Signal amplification,,,
+781,991,355,87,Visualization,,,
+782,992,355,83,Counterstaining,,,
+783,993,355,49,Clearing,,,
+784,994,355,44,Dehydration,,,
+785,995,356,49,Deparaffinization,,,
+786,996,356,44,Deparaffinization,,,
+787,997,356,53,Permeabilization,1.0,Hours,41.0
+788,998,356,67,Signal amplification,,,
+789,999,356,87,Visualization,,,
+790,1000,356,83,Counterstaining,,,
+791,1001,356,49,Clearing,,,
+792,1002,356,44,Dehydration,,,
+793,1003,357,49,Deparaffinization,,,
+794,1004,357,44,Deparaffinization,,,
+795,1005,357,53,Permeabilization,1.0,Hours,41.0
+796,1006,357,67,Signal amplification,,,
+797,1007,357,87,Visualization,,,
+798,1008,357,83,Counterstaining,,,
+799,1009,357,49,Clearing,,,
+800,1010,357,44,Dehydration,,,
+801,1011,358,49,Deparaffinization,,,
+802,1012,358,44,Deparaffinization,,,
+803,1013,358,53,Permeabilization,1.0,Hours,41.0
+804,1014,358,67,Signal amplification,,,
+805,1015,358,87,Visualization,,,
+806,1016,358,83,Counterstaining,,,
+807,1017,358,44,Dehydration,,,
+808,1018,358,49,Clearing,,,
+809,1019,359,49,Deparaffinization,,,
+810,1020,359,44,Deparaffinization,,,
+811,1021,359,53,Permeabilization,1.0,Hours,41.0
+812,1022,359,67,Signal amplification,,,
+813,1023,359,87,Visualization,,,
+814,1024,359,83,Counterstaining,,,
+815,1025,359,44,Dehydration,,,
+816,1026,359,49,Clearing,,,
+817,1027,360,49,Deparaffinization,,,
+818,1028,360,44,Deparaffinization,,,
+819,1029,360,53,Permeabilization,1.0,Hours,41.0
+820,1030,360,67,Signal amplification,,,
+821,1031,360,87,Visualization,,,
+822,1032,360,83,Counterstaining,,,
+823,1033,360,44,Dehydration,,,
+824,1034,360,49,Clearing,,,
+825,1035,361,103,Fixation,,,4.0
+826,1036,362,103,Fixation,,,4.0
+827,1037,363,103,Fixation,,,4.0
+828,1038,364,103,Fixation,,,4.0
+829,1039,365,103,Fixation,,,4.0
+830,1040,366,103,Fixation,,,4.0
+831,1041,368,89,Fixation,2.0,Weeks,
+832,1042,368,177,Washing,24.0,Hours,
+833,1043,368,44,Dehydration,3.0,Days,
+834,1044,368,178,Embedding,10.0,Days,
+835,1045,369,89,Fixation,2.0,Weeks,
+836,1046,369,177,Washing,24.0,Hours,
+837,1047,369,44,Dehydration,3.0,Days,
+838,1048,369,178,Embedding,10.0,Days,
+839,1049,370,89,Fixation,2.0,Weeks,
+840,1050,370,177,Washing,24.0,Hours,
+841,1051,370,44,Dehydration,3.0,Days,
+842,1052,370,178,Embedding,10.0,Days,
+843,1053,371,89,Fixation,2.0,Weeks,
+844,1054,371,177,Washing,24.0,Hours,
+845,1055,371,44,Dehydration,3.0,Days,
+846,1056,371,178,Embedding,10.0,Days,
+847,1057,372,89,Fixation,2.0,Weeks,
+848,1058,372,177,Washing,24.0,Hours,
+849,1059,372,44,Dehydration,3.0,Days,
+850,1060,372,178,Embedding,10.0,Days,
+851,1061,373,89,Fixation,2.0,Weeks,
+852,1062,373,177,Washing,24.0,Hours,
+853,1063,373,44,Dehydration,3.0,Days,
+854,1064,373,178,Embedding,10.0,Days,
+855,1065,374,46,General stain,,,
+856,1066,379,46,General stain,,,
+857,1067,378,46,General stain,,,
+858,1068,377,46,General stain,,,
+859,1069,376,46,General stain,,,
+860,1070,375,46,General stain,,,
+861,1071,380,,Fixation,12.0,Hours,4.0
+862,1072,380,70,Blocking,,,
+863,1073,382,181,Unspecified,5.0,Minutes,
+864,1074,382,44,Dehydration,80.0,Minutes,
+865,1075,382,118,Signal amplification,36.0,Hours,
+866,1076,382,53,Permeabilization,36.0,Hours,
+867,1077,382,91,Visualization,22.5,Minutes,
+868,1078,382,110,Postfixation,1.0,Hours,
+869,1079,382,43,Storage,12.0,Hours,
+870,1080,382,44,Dehydration,30.0,Minutes,
+871,1081,382,111,Infiltration,10.0,Minutes,
+872,1082,382,165,Infiltration,1.5,Hours,
+873,1083,382,156,Infiltration,1.0,Hours,
+874,1084,382,156,Infiltration,24.0,Hours,60.0
+875,1085,383,156,Polymerization,24.0,Hours,60.0
+876,1086,384,113,Counterstaining,,,
+877,1087,384,114,Counterstaining,,,
+878,1088,385,,Fixation,12.0,Hours,
+879,1089,385,44,Dehydration,,,
+880,1090,385,49,Defatting,,,
+881,1091,385,182,Embedding,,,
+882,1092,386,,Fixation,12.0,Hours,
+883,1093,386,44,Dehydration,,,
+884,1094,386,49,Defatting,,,
+885,1095,386,182,Embedding,,,
+886,1096,387,67,Signal amplification,,,
+887,1097,387,87,Visualization,,,
+888,1098,387,155,Visualization,,,
+889,1099,388,67,Signal amplification,,,
+890,1100,388,87,Visualization,,,
+891,1101,388,155,Visualization,,,
+892,1102,389,67,Signal amplification,,,
+893,1103,389,87,Visualization,,,
+894,1104,389,155,Visualization,,,
+895,1105,390,67,Signal amplification,,,
+896,1106,390,87,Visualization,,,
+897,1107,390,155,Visualization,,,
+898,1108,391,67,Signal amplification,,,
+899,1109,391,155,Visualization,,,
+900,1110,392,67,Signal amplification,,,
+901,1111,392,155,Unspecified,,,
+902,1112,393,184,Fixation,1.5,Days,
+903,1113,394,184,Fixation,1.5,Days,
+904,1114,395,53,Permeabilization,36.0,Hours,4.0
+905,1115,395,68,Visualization,,,
+906,1116,396,53,Permeabilization,36.0,Hours,4.0
+907,1117,396,68,Visualization,,,
+908,1118,397,18,Fixation,24.0,Hours,
+909,1119,397,64,Unspecified,24.0,Hours,
+910,1120,398,70,Blocking,20.0,Minutes,
+911,1121,398,86,Blocking,12.0,Hours,
+912,1122,398,67,Signal amplification,,,
+913,1123,398,87,Visualization,,,
+914,1124,399,106,Staining,2.0,Hours,37.0
+915,1125,399,53,Permeabilization,2.0,Hours,37.0
+916,1126,401,53,Permeabilization,,,
+917,1127,401,67,Signal amplification,21.0,Hours,21.0
+918,1128,401,55,Visualization,22.5,Hours,
+919,1129,402,38,Freezing,,,
+920,1130,402,,Storage,,,-80.0
+921,1131,402,65,Embedding,,,
+922,1132,403,18,Fixation,20.0,Minutes,
+923,1133,403,74,Acetylation,,,
+924,1134,403,44,Dehydration,,,
+925,1135,403,85,Blocking,25.0,Minutes,24.0
+926,1136,403,58,Permeabilization,10.0,Minutes,24.0
+927,1137,403,57,Permeabilization,20.0,Minutes,24.0
+928,1138,403,18,Fixation,20.0,Minutes,24.0
+929,1139,403,123,Blocking,110.0,Minutes,63.5
+930,1140,403,189,Blocking,30.0,Minutes,24.0
+931,1141,403,54,Blocking,30.0,Minutes,24.0
+932,1142,403,190,Signal amplification,30.0,Minutes,24.0
+933,1143,403,191,Signal amplification,40.0,Minutes,24.0
+934,1144,403,62,Visualization,60.0,Minutes,24.0
+935,1145,403,18,Fixation,10.0,Minutes,24.0
+936,1146,404,18,Fixation,24.0,Hours,
+937,1147,404,43,Storage,,,
+938,1148,405,18,Fixation,24.0,Hours,
+939,1149,405,43,Storage,,,
+940,1150,406,18,Fixation,24.0,Hours,
+941,1151,406,43,Storage,,,
+942,1152,407,18,Fixation,24.0,Hours,
+943,1153,407,43,Storage,,,
+944,1154,408,18,Fixation,24.0,Hours,
+945,1155,408,43,Storage,,,
+946,1156,409,18,Fixation,24.0,Hours,
+947,1157,409,43,Storage,,,
+948,1158,410,18,Fixation,24.0,Hours,
+949,1159,410,43,Storage,,,
+950,1160,410,193,Embedding,,,
+951,1161,410,152,Antigen retrieval,12.0,Hours,4.0
+952,1162,409,193,Embedding,,,
+953,1163,409,152,Antigen retrieval,12.0,Hours,4.0
+954,1164,408,193,Embedding,,,
+955,1165,408,152,Antigen retrieval,12.0,Hours,4.0
+956,1166,407,193,Embedding,,,
+957,1167,407,152,Antigen retrieval,12.0,Hours,4.0
+958,1168,406,193,Embedding,,,
+959,1169,406,152,Antigen retrieval,12.0,Hours,4.0
+960,1170,405,193,Embedding,,,
+961,1171,405,152,Antigen retrieval,12.0,Hours,4.0
+962,1172,404,193,Embedding,,,
+963,1173,404,152,Antigen retrieval,12.0,Hours,4.0
+964,1174,411,194,Unspecified,3.0,Days,
+965,1175,411,195,Unspecified,2.0,Days,
+966,1176,412,78,Staining,,,
+967,1177,415,18,Fixation,12.0,Hours,4.0
+968,1178,415,43,Washing,2.0,Hours,
+969,1179,415,78,Staining,16.0,Days,
+970,1180,415,64,Cryoprotection,2.5,Days,
+971,1181,416,122,Blocking,12.0,Hours,4.0
+972,1182,416,53,Permeabilization,12.0,Hours,4.0
+973,1183,416,196,Unspecified,3.0,Hours,21.0
+974,1184,418,197,Visualization,,,
+975,1185,418,54,Blocking,,,
+976,1186,418,67,Signal amplification,,,
+977,1187,418,149,Visualization,,,
+978,1188,418,56,Visualization,,,
+979,1189,418,55,Visualization,,,
+980,1190,419,197,Visualization,,,
+981,1191,419,54,Blocking,,,
+982,1192,419,91,Visualization,,,
+983,1193,419,55,Visualization,,,
+984,1194,419,67,Signal amplification,,,
+985,1195,419,56,Visualization,,,
+986,1196,420,110,Postfixation,,,
+987,1197,420,156,Infiltration,,,
+988,1198,421,114,Counterstaining,,,
+989,1199,422,64,Cryoprotection,8.0,Days,4.0
+990,1200,422,92,Postfixation,2.0,Hours,
+991,1201,423,70,Blocking,10.0,Minutes,
+992,1202,423,54,Blocking,40.0,Minutes,21.0
+993,1203,423,67,Signal amplification,,,
+994,1204,423,55,Visualization,,,
+995,1205,423,46,General stain,,,
+996,1206,423,,Dehydration,,,
+997,1208,424,18,Postfixation,12.0,Hours,
+998,1209,424,45,Embedding,,,
+999,1210,425,,Rehydration,,,
+1000,1211,425,,Heating,10.0,Minutes,
+1001,1212,425,54,Blocking,,,
+1002,1213,425,67,Signal amplification,,,
+1003,1214,425,87,Visualization,,,
+1004,1215,425,50,Counterstaining,,,

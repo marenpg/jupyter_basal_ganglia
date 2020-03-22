@@ -1,0 +1,250 @@
+,ID,Reporter_name,Reporter_type,Reporter_unique_ID,Target,Label,Comment,Origin_species
+0,31,Unspecified anti D1A,"Antibody, unspecified clonality",,2,4,,Unspecified
+1,32,Unspecified anti D2,"Antibody, unspecified clonality",,3,4,,Unspecified
+2,33,Unspecified anti NMDAR1,"Antibody, unspecified clonality",,17,4,,Unspecified
+3,34,Unspecified anti GluR1,"Antibody, unspecified clonality",,15,4,,Unspecified
+4,36,Unspecified fluorescent antibody,"Antibody, unspecified clonality",,,3,,Unspecified
+5,37,Unspecified anti TH,"Antibody, unspecified clonality",,14,4,,Unspecified
+6,38,Unspecified anti ChAT,"Antibody, monoclonal",,22,4,,Unspecified
+7,39,Rabbit anti rat_biotin,"Antibody, unspecified clonality",,78,11,,Rabbit
+8,40,Sheep anti digoxigenin_AP,"Antibody, unspecified clonality",,81,5,,Sheep
+9,41,Unspecified anti nNOS,"Antibody, unspecified clonality",,82,4,,Unspecified
+10,42,Goat anti rabbit_1,"Antibody, unspecified clonality",,80,10,,Goat
+11,44,Unspecified anti met-enk,"Antibody, polyclonal",,26,4,,Unspecified
+12,45,Unspecified anti SP,"Antibody, polyclonal",,27,4,,Unspecified
+13,46,Unspecified anti digoxigenin_AP,"Antibody, unspecified clonality",,81,5,,Unspecified
+14,47,Mouse anti TH_2,"Antibody, unspecified clonality",,14,4,,Mouse
+15,50,Goat anti rabbit_biotin,"Antibody, polyclonal",RRID:AB_2313606,80,11,,Goat
+16,51,Rabbit anti TH_3,"Antibody, polyclonal",,14,4,,Rabbit
+17,52,Sheep anti rabbit,"Antibody, unspecified clonality",,80,4,,Sheep
+18,53,Rabbit anti ChAT_1,"Antibody, polyclonal",RRID:AB_2079760,22,4,,Rabbit
+19,54,Rabbit anti PAG,"Antibody, unspecified clonality",,32,4,,Rabbit
+20,55,Rabbit anti GAD_2,"Antibody, unspecified clonality",RRID:AB_2314495,25,4,,Rabbit
+21,56,Donkey anti rabbit,"Antibody, unspecified clonality",,80,10,,Donkey
+22,57,Rabbit anti calbindin,"Antibody, unspecified clonality",,5,4,,Rabbit
+23,58,Rabbit anti PV,"Antibody, unspecified clonality",,4,4,,Rabbit
+24,59,Rabbit anti ChAT_2,"Antibody, unspecified clonality",,22,4,,Rabbit
+25,60,Rabbit anti somatostatin,"Antibody, unspecified clonality",,8,4,,Rabbit
+26,61,Rabbit anti nNOS,"Antibody, unspecified clonality",,82,4,,Rabbit
+27,62,Rabbit anti GAD_3,"Antibody, unspecified clonality",,25,4,,Rabbit
+28,63,Horse anti mouse_biotin,"Antibody, polyclonal",RRID:AB_2313581,79,11,,Horse
+29,65,Mouse anti PV,"Antibody, monoclonal",,4,4,,Mouse
+30,67,Horse anti mouse_biotin,"Antibody, unspecified clonality",,79,11,,Horse
+31,68,Rabbit anti CR,"Antibody, polyclonal",,6,4,,Rabbit
+32,69,Rabbit anti NPY,"Antibody, unspecified clonality",,10,4,,Rabbit
+33,70,Swine anti rabbit,"Antibody, unspecified clonality",,80,4,,Swine
+34,71,Rabbit anti TH_1,"Antibody, unspecified clonality",,14,4,,Rabbit
+35,72,Rabbit anti huntingtin,"Antibody, polyclonal",,35,4,,Rabbit
+36,73,Mouse anti calbindin,"Antibody, monoclonal",,5,4,,Mouse
+37,75,Rabbit anti Cbln1,"Antibody, unspecified clonality",,83,4,,Rabbit
+38,76,Rabbit anti bFGF,"Antibody, unspecified clonality",,39,4,,Rabbit
+39,77,Mouse anti GABA,"Antibody, monoclonal",,40,4,,Mouse
+40,78,Rabbit anti mouse_biotin,"Antibody, unspecified clonality",,79,11,,Rabbit
+41,79,Mouse anti TH_1,"Antibody, monoclonal",,14,4,,Mouse
+42,80,Rabbit anti glutamin synthetase,"Antibody, polyclonal",,42,4,,Rabbit
+43,81,Goat anti mouse_alexa594,"Antibody, unspecified clonality",,79,14,,Goat
+44,82,Sheep anti TH,"Antibody, unspecified clonality",,14,4,,Sheep
+45,83,Rat anti ChAT_1,"Antibody, monoclonal",,22,4,,Rat
+46,84,Rabbit anti sheep_1,"Antibody, unspecified clonality",,84,10,,Rabbit
+47,85,Rat anti ChAT_2,"Antibody, unspecified clonality",,22,4,,Rat
+48,88,Goat anti rat_biotin,"Antibody, unspecified clonality",,78,11,,Goat
+49,89,Donkey anti mouse,"Antibody, unspecified clonality",,79,4,,Donkey
+50,90,Unspecified anti diacylglycerol lipase-a,"Antibody, unspecified clonality",,76,4,,Unspecified
+51,91,Goat anti rabbit_gold,"Antibody, unspecified clonality",,80,15,,Goat
+52,92,Mouse anti digoxigenin_AP,"Antibody, monoclonal",,81,5,,Mouse
+53,93,Rabbit anti apoD,"Antibody, polyclonal",,44,4,,Rabbit
+54,94,Unspecified anti somatostatin,"Antibody, polyclonal",,8,4,,Unspecified
+55,95,Unspecified anti NPY,"Antibody, polyclonal",,10,4,,Unspecified
+56,96,Rat anti DAT,"Antibody, unspecified clonality",,77,4,,Rat
+57,97,Rabbit anti D2,"Antibody, unspecified clonality",,3,4,,Rabbit
+58,98,Goat anti rCB1,"Antibody, polyclonal",,45,4,,Goat
+59,99,Donkey anti goat_gold,"Antibody, unspecified clonality",,85,15,,Donkey
+60,100,Rabbit anti GFAP,"Antibody, unspecified clonality",,46,4,,Rabbit
+61,101,Unspecified antibody,"Antibody, unspecified clonality",,,4,,Unspecified
+62,102,Mouse anti GFAP,"Antibody, unspecified clonality",,46,4,,Mouse
+63,104,Rabbit anti LC1,"Antibody, polyclonal",,48,4,,Rabbit
+64,105,Rabbit anti PT,"Antibody, polyclonal",,49,4,,Rabbit
+65,106,Rabbit anti S100-b,"Antibody, polyclonal",,50,4,,Rabbit
+66,107,Rabbit anti m2R,"Antibody, polyclonal",,51,4,,Rabbit
+67,108,Mouse anti ChAT,"Antibody, monoclonal",RRID:AB_94647,22,4,,Mouse
+68,109,Rabbit anti TH_2,"Antibody, polyclonal",RRID:AB_390204,14,4,,Rabbit
+69,110,Unspecified anti kappa opioid receptor,"Antibody, unspecified clonality",,52,4,,Unspecified
+70,111,Unspecified anti PSA-NCAM,"Antibody, monoclonal",,53,4,,Unspecified
+71,112,Unspecified anti mouse_biotin,"Antibody, unspecified clonality",,79,11,,Unspecified
+72,113,Goat anti calbindin,"Antibody, polyclonal",,5,4,,Goat
+73,114,Unspecified anti goat_biotin,"Antibody, unspecified clonality",,85,11,,Unspecified
+74,115,Rabbit anti VGlut1,"Antibody, polyclonal",,54,4,,Rabbit
+75,116,Rabbit anti glutamate,"Antibody, polyclonal",,86,4,,Rabbit
+76,117,Guinea pig anti VGlut1,"Antibody, polyclonal",,54,4,,Guinea pig
+77,118,Rabbit anti VGlut2,"Antibody, polyclonal",,60,4,,Rabbit
+78,119,Rabbit anti VGAT,"Antibody, polyclonal",,61,4,,Rabbit
+79,120,Donkey anti guinea pig_fluorescent,"Antibody, unspecified clonality",,87,3,,Donkey
+80,121,Rabbit anti XPA,"Antibody, unspecified clonality",,62,4,,Rabbit
+81,122,Rabbit anti XPB,"Antibody, unspecified clonality",,63,4,,Rabbit
+82,123,Rabbit anti enkephalin,"Antibody, unspecified clonality",,65,4,,Rabbit
+83,124,Mouse anti glucocorticoid receptor,"Antibody, monoclonal",,66,4,,Mouse
+84,125,Unspecified anti DARPP-32,"Antibody, monoclonal",,64,4,,Unspecified
+85,126,Sheep anti c-fos,"Antibody, polyclonal",,67,4,,Sheep
+86,128,Rabbit anti TH,"Antibody, polyclonal",RRID:AB_461064,14,4,,Rabbit
+87,129,Unspecified anti TH_2,"Antibody, monoclonal",,14,4,,Unspecified
+88,130,Unspecified anti GFAP,"Antibody, polyclonal",,46,4,,Unspecified
+89,131,Unspecified anti S100b,"Antibody, polyclonal",,50,4,,Unspecified
+90,132,Unspecified anti CD11b,"Antibody, unspecified clonality",,47,4,,Unspecified
+91,133,Unspecified anti rabbit_biotin,"Antibody, unspecified clonality",,80,11,,Unspecified
+92,134,Mouse anti PSD-95,"Antibody, monoclonal",,88,4,,Mouse
+93,135,Rat anti DAT,"Antibody, monoclonal",,77,4,,Rat
+94,136,Goat anti calbindin_2,"Antibody, unspecified clonality",,5,4,,Goat
+95,137,Donkey anti goat_alexa488,"Antibody, unspecified clonality",,85,2,,Donkey
+96,138,Donkey anti mouse_Cy5,"Antibody, unspecified clonality",,79,9,,Donkey
+97,139,Rabbit anti VGlut2_2,"Antibody, unspecified clonality",,60,4,,Rabbit
+98,140,Rabbit anti VGAT_2,"Antibody, unspecified clonality",,61,4,,Rabbit
+99,141,D1A oligo_fluorescent,Oligonucleotide,PMID:2168556,18,3,bp 1424-1463,
+100,142,D2 oligo_fluorescent,Oligonucleotide,PMID:2480527,19,3,bp 823-862,
+101,143,GluR1 oligo_fluorescent,Oligonucleotide,PMID:2166337,16,3,bp 1702-1737,
+102,145,NMDAR1 oligo_fluorescent,Oligonucleotide,PMID:8394966,17,3,bp 1009-1045,
+103,146,SP cRNA_35S,RNA probe,,75,8,,
+104,147,Enkephalin cRNA_digoxigenin,RNA probe,,23,1,,
+105,148,Dynorphin cRNA_digoxigenin,RNA probe,,24,1,,
+106,149,D1 cRNA_35S,RNA probe,,18,8,,
+107,150,Mouse D2 cRNA_35S,RNA probe,,19,8,370-bp fragment of third intracytoplasmic loop and spanning exon 6,Mouse
+108,151,D3 cRNA_35S,RNA probe,,30,8,,
+109,152,Rat PPA cRNA_digoxigenin,RNA probe,,29,1,390-bp fragment of exon 3,Rat
+110,153,Cat GAD67 cRNA_35sUTP,RNA probe,,36,6,A 2.3 kilobase sequence from a feline cortical library,Cat
+111,154,Rat parvalbumin cRNA_digoxigenin,RNA probe,,37,1,240 base pair parvalbumin rat cDNA,Rat
+112,155,GAD65 RNA_digoxigenin,RNA probe,,41,1,,
+113,156,GAD67 RNA_digoxigenin,RNA probe,,36,1,,
+114,157,vGluT2 RNA_digoxigenin,RNA probe,,60,1,Forward: 5'-GCGCTAATACGACTCACTATAGGGGATTTGGTT GCGTTAAGAC-3',
+115,Reverse: 5'-GCGCAATTAACCCTCACTAAAGGCGGTTATCCT GCTTCTTCTC-3,Rat,,,,,,
+116,158,Rat preprosomatostatin RNA_AP,RNA probe,,89,5,bp 310-339 of rat preproSS,Rat
+117,159,NPY RNA_AP,RNA probe,,90,5,bp 87-116 of preproNPY,
+118,160,Enkephalin RNA_AP,RNA probe,,23,5,bp 10-39 of preproENK,
+119,161,Preproenkephalin cRNA_digoxigenin-UTP,RNA probe,,55,7,,
+120,162,Preprotachykinin cRNA_35S-UTP,RNA probe,,56,6,,
+121,163,Pre-prosomatostatin oligo_AP,Oligonucleotide,,59,5,,
+122,164,Parvalbumin RNA_digoxigenin,RNA probe,NM_013645.2,37,1,,
+123,165,Rabbit anti rat,"Antibody, unspecified clonality",,78,4,,
+124,166,Goat anti rabbit_alexa488,"Antibody, unspecified clonality",,80,2,,Goat
+125,167,Goat anti rabbit_biotin,"Antibody, unspecified clonality",,80,11,,Goat
+126,168,Goat anti rabbit_Cy3,"Antibody, unspecified clonality",,80,12,,Goat
+127,169,Unspecified anti digoxigenin_HRP,"Antibody, unspecified clonality",,81,13,,Unspecified
+128,170,Donkey anti rabbit_biotin,"Antibody, unspecified clonality",,80,11,,Donkey
+129,171,Goat anti mouse_biotin,"Antibody, unspecified clonality",,79,11,,Goat
+130,172,Rabbit anti sheep_biotin,"Antibody, unspecified clonality",,84,11,,Rabbit
+131,173,Unspecified anti rabbit_alexa546,"Antibody, unspecified clonality",,80,16,,Unspecified
+132,175,Donkey anti rabbit_fluorescent,"Antibody, unspecified clonality",,80,3,,Donkey
+133,176,Goat anti rabbit_nolabel,"Antibody, unspecified clonality",,80,4,,Goat
+134,177,Mouse anti bGFG,"Antibody, monoclonal",,39,4,,Mouse
+135,178,Rabbit anti S100,"Antibody, polyclonal",,91,4,,Rabbit
+136,179,Unspecified antibody_biotin,"Antibody, unspecified clonality",,,11,,Unspecified
+137,180,Rabbit anti FGF-2,"Antibody, polyclonal",,39,4,,Rabbit
+138,181,Rabbit anti FGF-1,"Antibody, polyclonal",,92,4,,Rabbit
+139,183,Unspecified anti GAD,"Antibody, unspecified clonality",,25,4,,Unspecified
+140,184,Unspecified anti TH,"Antibody, polyclonal",,14,4,,Unspecified
+141,185,Unspecified antibody_HRP,"Antibody, unspecified clonality",,,13,,Unspecified
+142,186,Unspecified anti rabbit_alexa488,"Antibody, unspecified clonality",,80,2,,Unspecified
+143,187,Donkey anti mouse_biotin,"Antibody, unspecified clonality",,79,11,,Donkey
+144,188,Unspecified anti Iba-1,"Antibody, polyclonal",,93,4,,Unspecified
+145,189,Mouse anti TH,"Antibody, monoclonal",RRID:AB_477569,14,4,,Mouse
+146,190,Chicken anti mouse,"Antibody, polyclonal",RRID:AB_954881,79,11,,Chicken
+147,191,Goat anti rabbit_texas red,"Antibody, unspecified clonality",,80,17,,Goat
+148,192,Rabbit anti calretinin,"Antibody, polyclonal",,6,4,,Rabbit
+149,193,Mouse anti TH,"Antibody, monoclonal",RRID:AB_2201528,14,4,,Mouse
+150,194,Horse anti mouse_biotin,"Antibody, unspecified clonality",RRID:AB_2336180,79,11,,Horse
+151,195,Goat anti rabbit_alexa594,"Antibody, unspecified clonality",,80,14,,Goat
+152,196,Rabbit anti TH,"Antibody, polyclonal",RRID:AB_2201413,14,4,,Rabbit
+153,197,Donkey anti rabbit_alexa594,"Antibody, unspecified clonality",,80,14,,Donkey
+154,198,Rabbit anti GFAP,"Antibody, polyclonal",,46,4,,Rabbit
+155,199,Sheep anti nNOS,"Antibody, polyclonal",,82,4,,Sheep
+156,200,Unspecified anti sheep_biotin,"Antibody, unspecified clonality",,84,11,,Unspecified
+157,201,Sheep anti TH,"Antibody, polyclonal",,14,4,,Sheep
+158,202,Donkey anti sheep_biotin,"Antibody, unspecified clonality",,84,11,,Donkey
+159,203,Rabbit anti GFP,"Antibody, unspecified clonality",,94,4,,Rabbit
+160,204,Mouse anti calbindin,"Antibody, monoclonal",RRID:AB_476894,5,4,,Mouse
+161,205,Mouse anti OX-42,"Antibody, monoclonal",,95,4,,Mouse
+162,206,Rabbit anti c-fos,"Antibody, polyclonal",,67,4,,Rabbit
+163,207,Goat anti mouse_AP,"Antibody, unspecified clonality",RRID:AB_430871,79,5,,Goat
+164,208,Rabbit anti F4/80,"Antibody, polyclonal",,96,4,,Rabbit
+165,209,Unspecified antibody_rhodamine,"Antibody, unspecified clonality",,,18,,Unspecified
+166,210,Rabbit anti TH,"Antibody, monoclonal",,14,4,,Rabbit
+167,211,Donkey anti mouse_alexa 568,"Antibody, unspecified clonality",,79,19,,Donkey
+168,212,Rabbit anti parvalbumin,"Antibody, polyclonal",RRID:AB_10000344,4,4,,Rabbit
+169,213,Goat anti ChAT,"Antibody, polyclonal",RRID:AB_2079751,22,4,,Goat
+170,214,Rabbit anti GAD67,"Antibody, unspecified clonality",,97,4,,Rabbit
+171,215,Goat anti ChAT,"Antibody, unspecified clonality",,22,4,,Goat
+172,216,Mouse anti calbinidn,"Antibody, unspecified clonality",,5,4,,Mouse
+173,217,Mouse anti parvalbumin,"Antibody, unspecified clonality",,4,4,,Mouse
+174,218,Rabbit anti calretinin,"Antibody, unspecified clonality",,6,4,,Rabbit
+175,219,Unspecified anti Olig2,"Antibody, unspecified clonality",,98,4,,Unspecified
+176,220,Chicken anti GFP,"Antibody, polyclonal",RRID:AB_300798,94,4,,Chicken
+177,221,Goat anti chicken,"Antibody, unspecified clonality",,99,11,,Goat
+178,222,Unspecified anti VVA_biotin,Lectin,,100,11,,Unspecified
+179,223,Unspecified anti rabbit_Cy3,"Antibody, unspecified clonality",,80,12,,Unspecified
+180,225,Unspecified anti biotin_streptavidin-alexa 488,"Antibody, unspecified clonality",,101,20,,Unspecified
+181,226,Rabbit anti nNOS,"Antibody, polyclonal",RRID:AB_630935,82,4,,Rabbit
+182,227,Unspecified anti NGFr,"Antibody, monoclonal",,102,4,,Unspecified
+183,228,Rabbit anti ChAT_3,"Antibody, polyclonal",,22,4,,Rabbit
+184,229,Unspecified anti 5-HT,"Antibody, unspecified clonality",,103,4,,Unspecified
+185,230,Unspecified anti rabbit,"Antibody, unspecified clonality",,80,10,,Unspecified
+186,231,Rabbit anti GFAP,"Antibody, polyclonal",RRID:AB_10013382,46,4,,Rabbit
+187,232,Rabbit anti Iba-1,"Antibody, polyclonal",RRID:AB_839504,93,4,,Rabbit
+188,233,Mouse anti NeuN,"Antibody, monoclonal",RRID:AB_2314889,104,4,,Mouse
+189,234,Rabbit anti Vglut1,"Antibody, unspecified clonality",,54,4,,Rabbit
+190,235,Guinea pig anti Vglut2,"Antibody, unspecified clonality",,60,4,,Guinea pig
+191,236,Donkey anti guinea pig_alexa 647,"Antibody, unspecified clonality",,87,21,,Donkey
+192,237,Goat anti ChAT,"Antibody, polyclonal",,22,4,,Goat
+193,238,Horse anti goat_biotin,"Antibody, unspecified clonality",,85,11,,Horse
+194,239,Rabbit anti goat,"Antibody, unspecified clonality",,85,4,,Rabbit
+195,240,Unspecified anti rabbit_alexa 594,"Antibody, unspecified clonality",,80,14,,Unspecified
+196,241,Rat D2 oligo,Oligonucleotide,,19,22,Nucleotides 643-690,Rat
+197,242,Rat GAD65 cRNA,RNA probe,,41,6,,Rat
+198,243,Rat PPE cRNA,RNA probe,,55,7,,Rat
+199,244,Mouse anti p75 neurotrophin receptor,"Antibody, monoclonal",,105,4,,Mouse
+200,245,Mouse anti ChAT,"Antibody, monoclonal",,22,4,,Mouse
+201,246,Mouse anti DARPP-32,"Antibody, monoclonal",,64,4,,Mouse
+202,247,Rabbit anti NPY,"Antibody, polyclonal",,10,4,,Rabbit
+203,248,Rabbit anti PV,"Antibody, polyclonal",,4,4,,Rabbit
+204,249,Rabbit anti TrkA,"Antibody, polyclonal",,106,4,,Rabbit
+205,250,Unspecified anti biotin_streptavidin Cy2,"Antibody, unspecified clonality",,101,23,,Unspecified
+206,251,Unspecified anti NeuN,"Antibody, unspecified clonality",,104,4,,Unspecified
+207,252,Horse antibody,"Antibody, unspecified clonality",,107,10,,Horse
+208,253,Unspecified anti MOR,"Antibody, unspecified clonality",,108,4,,Unspecified
+209,254,Rabbit antibody_biotin,"Antibody, unspecified clonality",,107,11,,Rabbit
+210,255,Unspecified anti CB,"Antibody, unspecified clonality",,5,4,,Unspecified
+211,256,Unspecified anti CR,"Antibody, unspecified clonality",,6,4,,Unspecified
+212,257,Unspecified anti PV,"Antibody, unspecified clonality",,4,4,,Unspecified
+213,258,Unspecified anti DAPP32,"Antibody, unspecified clonality",,64,4,,Unspecified
+214,259,Unspecified anti PV,"Antibody, monoclonal",,4,4,,Unspecified
+215,260,Rat anti dopamine 1 receptor,"Antibody, unspecified clonality",,2,4,,Rat
+216,261,Unspecified anti rat_biotin,"Antibody, unspecified clonality",,78,11,,Unspecified
+217,262,Rat PPA cDNA_35S-dATP,RNA probe,,29,22,,Rat
+218,263,Unspecified anti goat_fluo,"Antibody, unspecified clonality",,85,3,,Unspecified
+219,264,Rabbit anti trka,"Antibody, unspecified clonality",,106,4,,Rabbit
+220,265,Unspecified anti rabbit_fluo,"Antibody, unspecified clonality",,80,3,,Rabbit
+221,266,Unspecified anti NPY,"Antibody, unspecified clonality",,10,4,,Unspecified
+222,267,D1 oligo_unspecified label,Oligonucleotide,,2,10,"5' -CCT CTC CGC TGG CAG CCC GGC CTC ATC CAT, oligo no. 14606 complementary to bases 25–54 of the amino terminus",Unspecified
+223,268,D1 oligo_unspecified label2,Oligonucleotide,,2,10,"5'-GGA CTG CTG CCC TCT CCA AGG CTG AGA TGC, oligo no. 16551 complementary to bases 683–712 of the third cytoplasmic loop",Unspecified
+224,269,Goat anti D2R,"Antibody, polyclonal",RRID:AB_2094849,3,4,,Goat
+225,270,Goat anti rabbit_alexa 647,"Antibody, polyclonal",RRID:AB_2535814,80,21,,Goat
+226,271,Donkey anti goat_alexa 647,"Antibody, polyclonal",RRID:AB_2535864,85,21,,Donkey
+227,272,Rabbit anti D1,"Antibody, unspecified clonality",,2,4,ab81296,Rabbit
+228,273,Rabbit anti NMDAR1,"Antibody, polyclonal",,109,4,,Rabbit
+229,274,Rat pre-prosomatostatin cRNA_35S-UTP,RNA probe,,59,6,,Rat
+230,275,Rat proenkephalin oligo_35S,Oligonucleotide,,110,22,Complementary to bases 388-432 of the rat preproenkephalin gene,Rat
+231,276,Unspecified anti ChAT,"Antibody, unspecified clonality",,22,4,,Unspecified
+232,277,Rabbit anti Lucifer yellow,"Antibody, unspecified clonality",,111,4,,Rabbit
+233,278,Mouse anti GAP-43,"Antibody, monoclonal",,112,4,,Mouse
+234,279,Mouse anti NeuN,"Antibody, monoclonal",,104,4,,Mouse
+235,280,Rabbit anti DARPP-32,"Antibody, polyclonal",,64,4,,Rabbit
+236,281,Rabbit anti PV,"Antibody, polyclonal",RRID:AB_2631173,4,4,,Rabbit
+237,282,Goat anti ChAT,"Antibody, polyclonal",RRID:AB_1945698,22,4,,Goat
+238,283,Mouse preprotachykinin oligo_digoxigenin-dUTP,Oligonucleotide,,56,7,5-'dTCG GGC GAT TCT CTG AAG AAG ATG CTC AAA GGG CTC GGG CAT TGC CTC-3' (corresponded to amino acids 124–171 of the mouse proprotein),Mouse
+239,284,Rat anti dopamine 1 receptor,"Antibody, monoclonal",RRID:AB_1840787,2,4,,Rat
+240,285,Rabbit anti dopamine 2 receptor,"Antibody, polyclonal",RRID:AB_2094980,3,4,,Rabbit
+241,286,Goat anti rat,"Antibody, unspecified clonality",RRID:AB_2336202,78,11,,Goat
+242,287,Goat anti rabbit,"Antibody, polyclonal",RRID:AB_11214051,85,4,,Goat
+243,288,Rat GAD67 cRNA_digoxigenin,RNA probe,,36,1,,Rat
+244,289,Rat GAD65 cRNA_digoxigenin,RNA probe,,41,1,,Rat
+245,290,Rat GAD65 cRNA_digoxigenin_2,RNA probe,,41,1,Forward: 5'CTGTAATACGACTCACTATAGGGCACTTCTCCAC GCAACAGACC-3',
+246,Reverse = 5'ACTGAATTAACCCTCACTAAAGGCGCTGTCTGTT CCGATCCCC-3',Rat,,,,,,
+247,291,Rat GAD67 cRNA_digoxigenin_2,RNA probe,,36,1,Forward: 5'-ACTGTAATACGACTCACTATAGGGGCAGGCCTC CAAGAACCT-3,
+248,Reverse: 5'-ACTGAATTAACCCTCACTAAAGGAGCCCCATCAC CGTAGCAACC-3,Rat,,,,,,
