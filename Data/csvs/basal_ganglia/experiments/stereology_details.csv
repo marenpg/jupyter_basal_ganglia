@@ -1,4 +1,4 @@
-,ID,Stereology_details_name,Probe,Identification_feature,Disector_height,Area_subfraction,Height_subfraction,Investigated_sections,Investigated_fields,Counted_objects,Coefficient_of_error,Estimated_volume,Volume_unit,any except probe,SSMA_TimeStamp
+,ID,Stereology_details_name,Probe,Identification_feature,Disector_height,Area_subfraction,Height_subfraction,Investigated_sections,Investigated_fields,Counted_objects,Coefficient_of_error,Estimated_volume,Volume_unit,any_except_probe,SSMA_TimeStamp
 0,4,Gritti_2006_sections_cells_quantitation_stereology,Optical disector,Top of cell,8,0.2,0.8,6,356,545,0.04,4.91,mm3,1,0x0000000000002243
 1,5,Gritti_2006_sections_PAG_neurons_quantitation_stereology,Optical disector,Top of cell,8,0.2,0.8,6,356,495,0.02,4.91,mm3,1,0x0000000000002244
 2,6,Gritti_2006_sections_GAD_neurons_quantitation_stereology,Optical disector,Top of cell,8,0.2,0.8,6,359,353,0.04,4.93,mm3,1,0x0000000000002245
