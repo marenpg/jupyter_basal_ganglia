@@ -1,4 +1,4 @@
-,ID,Microscopy_details_name,Microscope,Mounting_medium,Refraction_medium,Numerical_aperture,Objective_lens,Total_magnification,Pixel size,Z_stack,Optical_slice_size
+,ID,Microscopy_details_name,Microscope,Mounting_medium,Refraction_medium,Numerical_aperture,Objective_lens,Total_magnification,Pixel_size,Z_stack,Optical_slice_size
 0,35,Ariano_1997_LFMdetails,1,52,Unspecified,,Unspecified,Unspecified,,0,
 1,36,Baker_1980_LFMdetails,2,52,Unspecified,,Unspecified,500X,,0,
 2,37,Bayer_1994_sections_Msneuron_quantitation_LFMdetails,2,52,Unspecified,,25X,Unspecified,,0,
