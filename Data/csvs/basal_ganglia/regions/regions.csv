@@ -1,31 +1,31 @@
-,ID,Region_name,Nomenclature
-0,1,WHS_Caudoputamen,3
-1,2,AMBA_Caudoputamen,2
-2,3,WHS_Accumbens nucleus,3
-3,8,WHS_Substantia nigra compact part,3
-4,9,WHS_Substantia nigra reticular part,3
-5,10,AMBA_pars compacta,2
-6,11,AMBA_pars reticulata,2
-7,13,AMBA_striatum ventral region,2
-8,14,AMBA_pallidum dorsal region,2
-9,15,AMBA_pallidum ventral region,2
-10,16,WHS_Substantia nigra lateral part,3
-11,17,AMBA_Internal segment,2
-12,18,AMBA_External segment,2
-13,19,AMBA_Nucleus accumbens,2
-14,20,AMBA_Fundus of striatum,2
-15,21,AMBA_Substantia innominata,2
-16,22,WHS_Subthalamic nucleus,3
-17,23,AMBA_Subthalamic nucleus,2
-18,24,WHS_Striatum,3
-19,25,WHS_Substantia nigra,3
-20,26,AMBA_Substantia nigra,2
-21,27,AMBA_Striatum,2
-22,28,AMBA_Pallidum,2
-23,29,WHS_Globus pallidus,3
-24,30,WHS_Entopeduncular nucleus,3
-25,31,AMBA_Midbrain,2
-26,32,WHS_Brainstem,3
-27,33,Brain,
-28,34,Basal ganglia,
-29,35,AMBA_Ventral tegmental area,2
+,Unnamed: 0,ID,Region_name,Nomenclature
+0,0,1,Caudoputamen,3
+1,1,2,Caudoputamen,2
+2,2,3,Accumbens nucleus,3
+3,3,8,Substantia nigra compact part,3
+4,4,9,Substantia nigra reticular part,3
+5,5,10,pars compacta,2
+6,6,11,pars reticulata,2
+7,7,13,striatum ventral region,2
+8,8,14,pallidum dorsal region,2
+9,9,15,pallidum ventral region,2
+10,10,16,Substantia nigra lateral part,3
+11,11,17,Internal segment,2
+12,12,18,External segment,2
+13,13,19,Nucleus accumbens,2
+14,14,20,Fundus of striatum,2
+15,15,21,Substantia innominata,2
+16,16,22,Subthalamic nucleus,3
+17,17,23,Subthalamic nucleus,2
+18,18,24,Striatum,3
+19,19,25,Substantia nigra,3
+20,20,26,Substantia nigra,2
+21,21,27,Striatum,2
+22,22,28,Pallidum,2
+23,23,29,Globus pallidus,3
+24,24,30,Entopeduncular nucleus,3
+25,25,31,Midbrain,2
+26,26,32,Brainstem,3
+27,27,33,Brain,
+28,28,34,Basal ganglia,
+29,29,35,Ventral tegmental area,2
