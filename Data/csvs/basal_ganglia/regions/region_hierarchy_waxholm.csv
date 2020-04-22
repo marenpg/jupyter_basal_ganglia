@@ -5,11 +5,11 @@
 4,4,9,Substantia nigra reticular part,25
 10,10,16,Substantia nigra lateral part,25
 16,16,22,Subthalamic nucleus,32
-18,18,24,Striatum,34
+18,18,24,Striatum,37
 19,19,25,Substantia nigra,32
-23,23,29,Globus pallidus,34
+23,23,29,Globus pallidus,37
 24,24,30,Entopeduncular nucleus,29
-26,26,32,Brainstem,33
-27,27,33,Brain,
-28,28,34,Basal ganglia,33
+26,26,32,Brainstem,36
+27,36,36,Brain,
+28,37,37,Basal ganglia,36
 
