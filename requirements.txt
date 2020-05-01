@@ -19,3 +19,7 @@ Jinja2
 # BAMS2 connectivity
 requests
 beautifulsoup4
+
+
+# secrets
+python-dotenv
