@@ -1,0 +1,151 @@
+,bg_id,bams_id,relation_type
+0,43,1,overlapping
+1,45,1,includes
+2,44,1,overlapping
+3,46,1,overlapping
+4,47,2,identical
+5,48,3,overlapping
+6,52,3,overlapping
+7,49,4,overlapping
+8,50,4,overlapping
+9,67,4,overlapping
+10,80,4,overlapping
+11,49,5,overlapping
+12,50,5,overlapping
+13,67,5,overlapping
+14,80,5,overlapping
+15,50,6,part of
+16,51,7,part of
+17,51,8,part of
+18,51,9,part of
+19,52,10,part of
+20,52,11,part of
+21,52,12,part of
+22,48,13,part of
+23,48,14,part of
+24,1,15,overlapping
+25,53,15,overlapping
+26,48,15,overlapping
+27,1,16,overlapping
+28,53,16,overlapping
+29,48,16,overlapping
+30,53,17,part of
+31,53,18,overlapping
+32,48,18,overlapping
+33,53,19,overlapping
+34,48,19,overlapping
+35,48,20,part of
+36,48,21,part of
+37,1,22,identical
+38,54,23,overlapping
+39,32,24,part of
+40,54,25,overlapping
+41,48,26,overlapping
+42,52,26,overlapping
+43,48,27,part of
+44,78,28,part of
+45,55,29,part of
+46,56,29,part of
+47,51,30,part of
+48,57,31,overlapping
+49,58,31,overlapping
+50,60,31,includes
+51,61,32,overlapping
+52,59,32,overlapping
+53,62,32,overlapping
+54,63,32,overlapping
+55,1,33,overlapping
+56,94,33,overlapping
+57,48,33,overlapping
+58,30,34,overlapping
+59,92,34,overlapping
+60,93,34,overlapping
+61,92,35,overlapping
+62,93,35,overlapping
+63,30,36,overlapping
+64,92,36,overlapping
+65,93,36,overlapping
+66,92,37,overlapping
+67,93,37,overlapping
+68,30,38,overlapping
+69,92,38,overlapping
+70,93,38,overlapping
+71,43,39,overlapping
+72,45,39,overlapping
+73,64,39,overlapping
+74,65,39,overlapping
+75,66,40,identical
+76,67,40,overlapping
+77,32,41,part of
+78,68,42,includes
+79,69,42,includes
+80,48,43,overlapping
+81,51,43,overlapping
+82,32,43,overlapping
+83,51,44,part of
+84,48,45,part of
+85,52,46,part of
+86,48,47,part of
+87,70,48,part of
+88,32,49,part of
+89,48,50,overlapping
+90,51,50,overlapping
+91,48,51,overlapping
+92,51,51,overlapping
+93,94,53,overlapping
+94,95,53,part of
+95,56,54,part of
+96,56,55,part of
+97,71,56,part of
+98,72,57,identical
+99,32,58,part of
+100,55,59,part of
+101,57,60,part of
+102,51,61,overlapping
+103,32,61,overlapping
+104,48,62,overlapping
+105,52,62,overlapping 
+106,73,63,overlapping
+107,74,63,overlapping
+108,75,63,overlapping
+109,76,63,overlapping
+110,77,63,overlapping
+111,78,63,overlapping
+112,52,64,overlapping
+113,61,64,overlapping
+114,55,65,part of
+115,79,66,overlapping
+116,71,66,overlapping
+117,67,66,overlapping
+118,43,67,overlapping
+119,90,67,overlapping
+120,80,67,overlapping
+121,91,67,overlapping
+122,32,68,part of
+123,32,69,part of
+124,79,70,overlapping
+125,80,70,overlapping
+126,49,70,overlapping
+127,81,70,overlapping
+128,32,71,part of
+129,96,72,overlapping
+130,48,72,overlapping
+131,8,73,includes
+132,9,73,includes
+133,16,73,overlapping
+134,8,74,includes
+135,16,74,overlapping
+136,9,75,includes
+137,16,75,overlapping
+138,22,76,identical
+139,51,77,part of
+140,82,78,overlapping
+141,83,78,overlapping
+142,84,78,overlapping
+143,97,79,overlapping
+144,64,80,overlapping
+145,85,81,overlapping
+146,86,81,overlapping
+147,87,81,overlapping
+148,88,81,overlapping
+149,89,81,overlapping
