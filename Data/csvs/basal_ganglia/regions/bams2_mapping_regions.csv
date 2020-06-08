@@ -1,151 +1,151 @@
-,bg_id,bams_id,relation_type
-0,43,1,overlapping
-1,45,1,includes
-2,44,1,overlapping
-3,46,1,overlapping
-4,47,2,identical
-5,48,3,overlapping
-6,52,3,overlapping
-7,49,4,overlapping
-8,50,4,overlapping
-9,67,4,overlapping
-10,80,4,overlapping
-11,49,5,overlapping
-12,50,5,overlapping
-13,67,5,overlapping
-14,80,5,overlapping
-15,50,6,part of
-16,51,7,part of
-17,51,8,part of
-18,51,9,part of
-19,52,10,part of
-20,52,11,part of
-21,52,12,part of
-22,48,13,part of
-23,48,14,part of
-24,1,15,overlapping
-25,53,15,overlapping
-26,48,15,overlapping
-27,1,16,overlapping
-28,53,16,overlapping
-29,48,16,overlapping
-30,53,17,part of
-31,53,18,overlapping
-32,48,18,overlapping
-33,53,19,overlapping
-34,48,19,overlapping
-35,48,20,part of
-36,48,21,part of
-37,1,22,identical
-38,54,23,overlapping
-39,32,24,part of
-40,54,25,overlapping
-41,48,26,overlapping
-42,52,26,overlapping
-43,48,27,part of
-44,78,28,part of
-45,55,29,part of
-46,56,29,part of
-47,51,30,part of
-48,57,31,overlapping
-49,58,31,overlapping
-50,60,31,includes
-51,61,32,overlapping
-52,59,32,overlapping
-53,62,32,overlapping
-54,63,32,overlapping
-55,1,33,overlapping
-56,94,33,overlapping
-57,48,33,overlapping
-58,30,34,overlapping
-59,92,34,overlapping
-60,93,34,overlapping
-61,92,35,overlapping
-62,93,35,overlapping
-63,30,36,overlapping
-64,92,36,overlapping
-65,93,36,overlapping
-66,92,37,overlapping
-67,93,37,overlapping
-68,30,38,overlapping
-69,92,38,overlapping
-70,93,38,overlapping
-71,43,39,overlapping
-72,45,39,overlapping
-73,64,39,overlapping
-74,65,39,overlapping
-75,66,40,identical
-76,67,40,overlapping
-77,32,41,part of
-78,68,42,includes
-79,69,42,includes
-80,48,43,overlapping
-81,51,43,overlapping
-82,32,43,overlapping
-83,51,44,part of
-84,48,45,part of
-85,52,46,part of
-86,48,47,part of
-87,70,48,part of
-88,32,49,part of
-89,48,50,overlapping
-90,51,50,overlapping
-91,48,51,overlapping
-92,51,51,overlapping
-93,94,53,overlapping
-94,95,53,part of
-95,56,54,part of
-96,56,55,part of
-97,71,56,part of
-98,72,57,identical
-99,32,58,part of
-100,55,59,part of
-101,57,60,part of
-102,51,61,overlapping
-103,32,61,overlapping
-104,48,62,overlapping
-105,52,62,overlapping 
-106,73,63,overlapping
-107,74,63,overlapping
-108,75,63,overlapping
-109,76,63,overlapping
-110,77,63,overlapping
-111,78,63,overlapping
-112,52,64,overlapping
-113,61,64,overlapping
-114,55,65,part of
-115,79,66,overlapping
-116,71,66,overlapping
-117,67,66,overlapping
-118,43,67,overlapping
-119,90,67,overlapping
-120,80,67,overlapping
-121,91,67,overlapping
-122,32,68,part of
-123,32,69,part of
-124,79,70,overlapping
-125,80,70,overlapping
-126,49,70,overlapping
-127,81,70,overlapping
-128,32,71,part of
-129,96,72,overlapping
-130,48,72,overlapping
-131,8,73,includes
-132,9,73,includes
-133,16,73,overlapping
-134,8,74,includes
-135,16,74,overlapping
-136,9,75,includes
-137,16,75,overlapping
-138,22,76,identical
-139,51,77,part of
-140,82,78,overlapping
-141,83,78,overlapping
-142,84,78,overlapping
-143,97,79,overlapping
-144,64,80,overlapping
-145,85,81,overlapping
-146,86,81,overlapping
-147,87,81,overlapping
-148,88,81,overlapping
-149,89,81,overlapping
+,bg_id,bams_id,relation_type,description
+0,43,1,overlapping,"The rostral part of Swanson's Agranular insular area, dorsal part overlaps with WHS dorsolateral orbital cortex. More posteriorly, it includes WHS agranular insular cortex, both dorsal part, but also overlaps with WHS agranular insular cortex, ventral part and the anterior part of the dysgranular insular cortex. "
+1,45,1,includes,"The rostral part of Swanson's Agranular insular area, dorsal part overlaps with WHS dorsolateral orbital cortex. More posteriorly, it includes WHS agranular insular cortex, both dorsal part, but also overlaps with WHS agranular insular cortex, ventral part and the anterior part of the dysgranular insular cortex. "
+2,44,1,overlapping,"The rostral part of Swanson's Agranular insular area, dorsal part overlaps with WHS dorsolateral orbital cortex. More posteriorly, it includes WHS agranular insular cortex, both dorsal part, but also overlaps with WHS agranular insular cortex, ventral part and the anterior part of the dysgranular insular cortex. "
+3,46,1,overlapping,"The rostral part of Swanson's Agranular insular area, dorsal part overlaps with WHS dorsolateral orbital cortex. More posteriorly, it includes WHS agranular insular cortex, both dorsal part, but also overlaps with WHS agranular insular cortex, ventral part and the anterior part of the dysgranular insular cortex. "
+4,47,2,identical,"Swanson's Agranular insular area posterior part (AIp) is largely identical to the WHS agranular insular cortex, posterior part"
+5,48,3,overlapping,Swanson's anterior amygdaloid area overlaps with both the basal forebrain and the neocortex in WHS
+6,52,3,overlapping,Swanson's anterior amygdaloid area overlaps with both the basal forebrain and the neocortex in WHS
+7,49,4,overlapping,"Swanson's anterior cingulate area consists of a dorsal and a ventral part (ACAd and ACAv) that should broadly correpond to WHS cingulate cortex area 1 and 2, respectively. However, Swanson's ACAd is more narrowly defined dorsally than the corresponding area in WHS and also overlaps with prelimbic and secondary motor cortices in WHS at its rostral extreme. Swanson's ACAv is part of WHS cingulate cortex area 2, but the latter extends more caudally compared to Swanson's ACAv."
+8,50,4,overlapping,"Swanson's anterior cingulate area consists of a dorsal and a ventral part (ACAd and ACAv) that should broadly correpond to WHS cingulate cortex area 1 and 2, respectively. However, Swanson's ACAd is more narrowly defined dorsally than the corresponding area in WHS and also overlaps with prelimbic and secondary motor cortices in WHS at its rostral extreme. Swanson's ACAv is part of WHS cingulate cortex area 2, but the latter extends more caudally compared to Swanson's ACAv."
+9,67,4,overlapping,"Swanson's anterior cingulate area consists of a dorsal and a ventral part (ACAd and ACAv) that should broadly correpond to WHS cingulate cortex area 1 and 2, respectively. However, Swanson's ACAd is more narrowly defined dorsally than the corresponding area in WHS and also overlaps with prelimbic and secondary motor cortices in WHS at its rostral extreme. Swanson's ACAv is part of WHS cingulate cortex area 2, but the latter extends more caudally compared to Swanson's ACAv."
+10,80,4,overlapping,"Swanson's anterior cingulate area consists of a dorsal and a ventral part (ACAd and ACAv) that should broadly correpond to WHS cingulate cortex area 1 and 2, respectively. However, Swanson's ACAd is more narrowly defined dorsally than the corresponding area in WHS and also overlaps with prelimbic and secondary motor cortices in WHS at its rostral extreme. Swanson's ACAv is part of WHS cingulate cortex area 2, but the latter extends more caudally compared to Swanson's ACAv."
+11,49,5,overlapping,"Swanson's anterior cingulate area dorsal part overlaps with secondary motor cortex and prelimbic cortex at its rostral extreme. From AP level 5.51, it overlaps with WHS prelimbic cortex and cingulate cortex, area 1. In general, the WHS cingulate cortex, area 1 extends far more dorsally than Swanson's ACAd at these levels. From AP level 6.63-7.91, Swanson's ACAd is part of WHS cingulate cortex, area 2. More posteriorly, it corresponds well to WHS cingulate cortex, area 1. Thus, the Swanson ACAd is more narrowly defined than its WHS counterpart (cingulate cortex, area 1), except for in the rostral extreme."
+12,50,5,overlapping,"Swanson's anterior cingulate area dorsal part overlaps with secondary motor cortex and prelimbic cortex at its rostral extreme. From AP level 5.51, it overlaps with WHS prelimbic cortex and cingulate cortex, area 1. In general, the WHS cingulate cortex, area 1 extends far more dorsally than Swanson's ACAd at these levels. From AP level 6.63-7.91, Swanson's ACAd is part of WHS cingulate cortex, area 2. More posteriorly, it corresponds well to WHS cingulate cortex, area 1. Thus, the Swanson ACAd is more narrowly defined than its WHS counterpart (cingulate cortex, area 1), except for in the rostral extreme."
+13,67,5,overlapping,"Swanson's anterior cingulate area dorsal part overlaps with secondary motor cortex and prelimbic cortex at its rostral extreme. From AP level 5.51, it overlaps with WHS prelimbic cortex and cingulate cortex, area 1. In general, the WHS cingulate cortex, area 1 extends far more dorsally than Swanson's ACAd at these levels. From AP level 6.63-7.91, Swanson's ACAd is part of WHS cingulate cortex, area 2. More posteriorly, it corresponds well to WHS cingulate cortex, area 1. Thus, the Swanson ACAd is more narrowly defined than its WHS counterpart (cingulate cortex, area 1), except for in the rostral extreme."
+14,80,5,overlapping,"Swanson's anterior cingulate area dorsal part overlaps with secondary motor cortex and prelimbic cortex at its rostral extreme. From AP level 5.51, it overlaps with WHS prelimbic cortex and cingulate cortex, area 1. In general, the WHS cingulate cortex, area 1 extends far more dorsally than Swanson's ACAd at these levels. From AP level 6.63-7.91, Swanson's ACAd is part of WHS cingulate cortex, area 2. More posteriorly, it corresponds well to WHS cingulate cortex, area 1. Thus, the Swanson ACAd is more narrowly defined than its WHS counterpart (cingulate cortex, area 1), except for in the rostral extreme."
+15,50,6,part of,"Swanson's ACAv is part of WHS cingulate cortex area 2, but the latter extends more caudally compared to Swanson's ACAv."
+16,51,7,part of,Swanson's Anterior hypothalamic central part (AHNc) is part of the WHS hypothalamic region
+17,51,8,part of,Swanson's Anterior hypothalamic nucleus anterior part (AHNa) is part of the WHS hypothalamic region
+18,51,9,part of,Swanson's Anterior hypothalamic posterior part (AHNp) is part of the WHS hypothalamic region
+19,52,10,part of,Swanson's Basolateral nucleus of the amygdala (BLA) is part of the WHS neocortex
+20,52,11,part of,Swanson's Basomedial nucleus of the amygdala anterior part (BMAa) is part of the WHS neocortex
+21,52,12,part of,Swanson's Basomedial nucleus of the amygdala posterior part (BMAp) is part of the WHS neocortex
+22,48,13,part of,Swanson's Bed nuclei of the stria terminalis anterior division fusiform nucleus (BSTfu) is part of the WHS basal forebrain region
+23,48,14,part of,Swanson's Bed nuclei of the stria terminalis anterior division ventral nucleus (BSTv) is part of the WHS basal forebrain region
+24,1,15,overlapping,"At its rostral extreme, Swanson's bed nucleus of the stria terminalis anterolateral area (BSTal) is part of the WHS caudoputamen. More caudally, the part dorsal to the anterior commissure is part of the WHS bed nucleus of the stria terminalis while the subcommissural part is part of the basal forebrain region."
+25,53,15,overlapping,"At its rostral extreme, Swanson's bed nucleus of the stria terminalis anterolateral area (BSTal) is part of the WHS caudoputamen. More caudally, the part dorsal to the anterior commissure is part of the WHS bed nucleus of the stria terminalis while the subcommissural part is part of the basal forebrain region."
+26,48,15,overlapping,"At its rostral extreme, Swanson's bed nucleus of the stria terminalis anterolateral area (BSTal) is part of the WHS caudoputamen. More caudally, the part dorsal to the anterior commissure is part of the WHS bed nucleus of the stria terminalis while the subcommissural part is part of the basal forebrain region."
+27,1,16,overlapping,"At its rostral extreme, Swanson's bed nucleus of the stria terminalis anteromedial area (BSTam) overlaps with WHS basal forebrain and caudoputamen. More caudally, the part dorsal to the anterior commissure is part of the WHS bed nucleus of the stria terminalis while the subcommissural part is part of the basal forebrain region."
+28,53,16,overlapping,"At its rostral extreme, Swanson's bed nucleus of the stria terminalis anteromedial area (BSTam) overlaps with WHS basal forebrain and caudoputamen. More caudally, the part dorsal to the anterior commissure is part of the WHS bed nucleus of the stria terminalis while the subcommissural part is part of the basal forebrain region."
+29,48,16,overlapping,"At its rostral extreme, Swanson's bed nucleus of the stria terminalis anteromedial area (BSTam) overlaps with WHS basal forebrain and caudoputamen. More caudally, the part dorsal to the anterior commissure is part of the WHS bed nucleus of the stria terminalis while the subcommissural part is part of the basal forebrain region."
+30,53,17,part of,Swanson's Bed nuclei of the stria terminalis dorsal nucleus (BSTd) is part of the WHS bed nucleus of the stria terminalis
+31,53,18,overlapping,"The dorsal part of Swanson's Bed nuclei of the stria terminalis juxtacapsular nucleus overlaps the WHS bed nucleus of the stria terminalis, while the ventral part overlaps basal forebrain."
+32,48,18,overlapping,"The dorsal part of Swanson's Bed nuclei of the stria terminalis juxtacapsular nucleus overlaps the WHS bed nucleus of the stria terminalis, while the ventral part overlaps basal forebrain."
+33,53,19,overlapping,The anterodorsal part of Swanson's bed nuclei of stria terminalis oveal nucleus overlaps with WHS bed nucleus of the stria terminalis while the posteroventral part overlaps with WHS basal forebrain region
+34,48,19,overlapping,The anterodorsal part of Swanson's bed nuclei of stria terminalis oveal nucleus overlaps with WHS bed nucleus of the stria terminalis while the posteroventral part overlaps with WHS basal forebrain region
+35,48,20,part of,Swanson's Bed nuclei of the stria terminalis rhomboid nucleus (BSTrh) is part of the WHS basal forebrain
+36,48,21,part of,"Swanson's Bed nuclei of the stria terminalis, anterior division, subcommisural zone (BSTsc) is part of the WHS basal forebrain"
+37,1,22,identical,"WHS' caudoputamen can be considered identical to Swanson's caudoputamen with only minor discrepancies. Rostral to and including at bregma 1.20 (0.65 from Waxholm bregma), Swanson's caudoputamen is contained in Waxholm's striatum, with borders more or less identical. At 0.95 from bregma (0.33 from Waxholm bregma), Swanson's fundus of striatum is situated inside WHS' caudoputamen. However, this is the only overlap between WHS caudoputamen and Swanson's fundus of striatum. More posteriorly, Swanson's fundus of striatum is situated within Waxholm's basal forebrain. In the remaining sections, WHS' caudoputamen seems more or less identical to Swanson's caudoputamen, although note that the ventral border of Swanson's caudoputamen is not always defined, and might be defined slightly differently in some of these posterior sections."
+38,54,23,overlapping,"Swanson's central lateral and central medial nucleus of the thalamus are both part of the WHS central medial thalamic nucleus. However, they are not continuous as the WHS structure is, and do not together make up the whole WHS region."
+39,32,24,part of,Swanson's Central linear nucleus raphe (CLI) is part of the WHS Brainstem
+40,54,25,overlapping,"Swanson's central lateral and central medial nucleus of the thalamus are both part of the WHS central medial thalamic nucleus. However, they are not continuous as the WHS structure is, and do not together make up the whole WHS region."
+41,48,26,overlapping,Swanson's Central nucleus of amygdala (CEA) overlaps WHS basal forebrain region and neocortex
+42,52,26,overlapping,Swanson's Central nucleus of amygdala (CEA) overlaps WHS basal forebrain region and neocortex
+43,48,27,part of,Swanson's Central nucleus of amygdala lateral part (CEAl) is part of the WHS basal forebrain region
+44,78,28,part of,"Swanson's dorsal auditory areas largely correspond to WHS secondary auditory cortex, dorsal area, but the latter seems slightly larger and in particular extends further caudally than the former."
+45,55,29,part of,"The anterior part of Swanson's dorsal raphe nucleus is part of the WHS periaqueductal gray, the posterior part is part of WHS periventricular gray"
+46,56,29,part of,"The anterior part of Swanson's dorsal raphe nucleus is part of the WHS periaqueductal gray, the posterior part is part of WHS periventricular gray"
+47,51,30,part of,Swanson's Dorsal premammillary nucleus (PMd) is part of the WHS hypothalamic region
+48,57,31,overlapping,"Anteriorly, Swanson's ectorhinal cortex overlaps both perirhinal areas 35 and 36 in the WHS. Its WHS counterpart should be the perirhinal area 36 (PER36), but the WHS PER36 seems to have a much larger dorsal extent than Swanson's ectorhinal area. Posteriorly, Swanson's ectorhinal area extends to include the entire WHS postrhinal cortex and also overlaps with WHS temporal association cortex."
+49,58,31,overlapping,"Anteriorly, Swanson's ectorhinal cortex overlaps both perirhinal areas 35 and 36 in the WHS. Its WHS counterpart should be the perirhinal area 36 (PER36), but the WHS PER36 seems to have a much larger dorsal extent than Swanson's ectorhinal area. Posteriorly, Swanson's ectorhinal area extends to include the entire WHS postrhinal cortex and also overlaps with WHS temporal association cortex."
+50,60,31,includes,"Anteriorly, Swanson's ectorhinal cortex overlaps both perirhinal areas 35 and 36 in the WHS. Its WHS counterpart should be the perirhinal area 36 (PER36), but the WHS PER36 seems to have a much larger dorsal extent than Swanson's ectorhinal area. Posteriorly, Swanson's ectorhinal area extends to include the entire WHS postrhinal cortex and also overlaps with WHS temporal association cortex."
+51,61,32,overlapping,"Swanson's entorhinal area comprises a lateral part, a medial part, and a medial part, ventral zone. The lateral part largely overlaps with WHS lateral entorhinal cortex but also has areas overlapping with the WHS postrhinal cortex. The medial part has some overlap with the parasubiculum rostrally, but otherwise largely corresponds to WHS medial entorhinal cortex."
+52,59,32,overlapping,"Swanson's entorhinal area comprises a lateral part, a medial part, and a medial part, ventral zone. The lateral part largely overlaps with WHS lateral entorhinal cortex but also has areas overlapping with the WHS postrhinal cortex. The medial part has some overlap with the parasubiculum rostrally, but otherwise largely corresponds to WHS medial entorhinal cortex."
+53,62,32,overlapping,"Swanson's entorhinal area comprises a lateral part, a medial part, and a medial part, ventral zone. The lateral part largely overlaps with WHS lateral entorhinal cortex but also has areas overlapping with the WHS postrhinal cortex. The medial part has some overlap with the parasubiculum rostrally, but otherwise largely corresponds to WHS medial entorhinal cortex."
+54,63,32,overlapping,"Swanson's entorhinal area comprises a lateral part, a medial part, and a medial part, ventral zone. The lateral part largely overlaps with WHS lateral entorhinal cortex but also has areas overlapping with the WHS postrhinal cortex. The medial part has some overlap with the parasubiculum rostrally, but otherwise largely corresponds to WHS medial entorhinal cortex."
+55,1,33,overlapping,"At +0.95 from bregma (+0.33 from Waxholm bregma), the fundus of striatum is situated inside the WHS' caudoputamen. However, this is the only overlap between WHS caudoputamen and Swanson's fundus of striatum. At 1.20 (0.65 from Waxholm bregma), the fundus of striatum appears in Swanson's atlas in the area corresponding to the lateral part of the WHS accumbens nucleus, shell. However, it is only situated in WHS' nucleus accumbens in this one section. More posteriorly, Swanson's fundus of striatum is situated within Waxholm's basal forebrain. "
+56,94,33,overlapping,"At +0.95 from bregma (+0.33 from Waxholm bregma), the fundus of striatum is situated inside the WHS' caudoputamen. However, this is the only overlap between WHS caudoputamen and Swanson's fundus of striatum. At 1.20 (0.65 from Waxholm bregma), the fundus of striatum appears in Swanson's atlas in the area corresponding to the lateral part of the WHS accumbens nucleus, shell. However, it is only situated in WHS' nucleus accumbens in this one section. More posteriorly, Swanson's fundus of striatum is situated within Waxholm's basal forebrain. "
+57,48,33,overlapping,"At +0.95 from bregma (+0.33 from Waxholm bregma), the fundus of striatum is situated inside the WHS' caudoputamen. However, this is the only overlap between WHS caudoputamen and Swanson's fundus of striatum. At 1.20 (0.65 from Waxholm bregma), the fundus of striatum appears in Swanson's atlas in the area corresponding to the lateral part of the WHS accumbens nucleus, shell. However, it is only situated in WHS' nucleus accumbens in this one section. More posteriorly, Swanson's fundus of striatum is situated within Waxholm's basal forebrain. "
+58,30,34,overlapping,"Swanson's globus pallidus consists of a lateral and a medial segment (called external and internal segment in version 3). The WHS has an globus pallidus external part consisting of a lateral and a medial part. Both of Swanson's lateral and medial segment overlap with both of the WHS globus pallidus external parts. In addition, Swanson's globus pallidus internal segment overlaps with the WHS entopeduncular nucleus."
+59,92,34,overlapping,"Swanson's globus pallidus consists of a lateral and a medial segment (called external and internal segment in version 3). The WHS has an globus pallidus external part consisting of a lateral and a medial part. Both of Swanson's lateral and medial segment overlap with both of the WHS globus pallidus external parts. In addition, Swanson's globus pallidus internal segment overlaps with the WHS entopeduncular nucleus."
+60,93,34,overlapping,"Swanson's globus pallidus consists of a lateral and a medial segment (called external and internal segment in version 3). The WHS has an globus pallidus external part consisting of a lateral and a medial part. Both of Swanson's lateral and medial segment overlap with both of the WHS globus pallidus external parts. In addition, Swanson's globus pallidus internal segment overlaps with the WHS entopeduncular nucleus."
+61,92,35,overlapping,"Swanson's globus pallidus external segment (GPe) overlaps with the WHS globus pallidus external, lateral part (GPEl). The rostral part of Swanson's GPe is very similar to the WHS GPEl, but the WHS GPEl appear to be sligthly larger at its rostral extreme. From Swanson's plate 21, the GPe overlaps with WHS GPEl, but not fully because of the globus pallidus external, medial part (GPEm) appearing in the WHS. In these intermediate levels, it seems that Swanson's GPE has a larger ventral extent than the combined WHS GPEl and GPEm. Caudally, from Swanson's plate 25, the GPe is part of the WHS GPEl, but covers only its most lateral part. The anteroposterior extent of the structures appear to be equal. At intermediate levels of Swanson's globus pallidus external segment (from plate 21), its medial part inculdes WHS globus pallidus external, medial part (GPEm). The most posterior end of the WHS GPEm is situated in the ventral part of Swanson's globus pallidus internal segment, however."
+62,93,35,overlapping,"Swanson's globus pallidus external segment (GPe) overlaps with the WHS globus pallidus external, lateral part (GPEl). The rostral part of Swanson's GPe is very similar to the WHS GPEl, but the WHS GPEl appear to be sligthly larger at its rostral extreme. From Swanson's plate 21, the GPe overlaps with WHS GPEl, but not fully because of the globus pallidus external, medial part (GPEm) appearing in the WHS. In these intermediate levels, it seems that Swanson's GPE has a larger ventral extent than the combined WHS GPEl and GPEm. Caudally, from Swanson's plate 25, the GPe is part of the WHS GPEl, but covers only its most lateral part. The anteroposterior extent of the structures appear to be equal. At intermediate levels of Swanson's globus pallidus external segment (from plate 21), its medial part inculdes WHS globus pallidus external, medial part (GPEm). The most posterior end of the WHS GPEm is situated in the ventral part of Swanson's globus pallidus internal segment, however."
+63,30,36,overlapping,"At -1.08 from bregma (-1.85 from Waxholm bregma), Swanson's globus pallidus internal segment (GPi) appears directly medially to the external segment. It overlaps both the WHS globus pallidus external lateral part (GPEl) and globus pallidus external, medial part (GPEm). At these levels, the overlap with the GPEl is primarily in the dorsal part of Swanson's GPi, while the overlap with the GPEm is in the ventral Swanson GPi. However, Swanson's GPi appears to have a larger ventral extent than the WHS GPEm. It overlaps the external globus pallidus region in WHS until -1.78 from bregma (-2.39 from Waxholm bregma), where Swanson's internal segment becomes incapsulated in the internal capsule. At -1.78 from bregma (-2.39 from Waxholm bregma), Swanson's internal segment becomes incapsulated in the internal capsule, but is much more elongated than Waxholms entopeduncular nucleus and does not match the shape. These seem to have quite similar anteroposterior extent, but still only seem to overlap slightly."
+64,92,36,overlapping,"At -1.08 from bregma (-1.85 from Waxholm bregma), Swanson's globus pallidus internal segment (GPi) appears directly medially to the external segment. It overlaps both the WHS globus pallidus external lateral part (GPEl) and globus pallidus external, medial part (GPEm). At these levels, the overlap with the GPEl is primarily in the dorsal part of Swanson's GPi, while the overlap with the GPEm is in the ventral Swanson GPi. However, Swanson's GPi appears to have a larger ventral extent than the WHS GPEm. It overlaps the external globus pallidus region in WHS until -1.78 from bregma (-2.39 from Waxholm bregma), where Swanson's internal segment becomes incapsulated in the internal capsule. At -1.78 from bregma (-2.39 from Waxholm bregma), Swanson's internal segment becomes incapsulated in the internal capsule, but is much more elongated than Waxholms entopeduncular nucleus and does not match the shape. These seem to have quite similar anteroposterior extent, but still only seem to overlap slightly."
+65,93,36,overlapping,"At -1.08 from bregma (-1.85 from Waxholm bregma), Swanson's globus pallidus internal segment (GPi) appears directly medially to the external segment. It overlaps both the WHS globus pallidus external lateral part (GPEl) and globus pallidus external, medial part (GPEm). At these levels, the overlap with the GPEl is primarily in the dorsal part of Swanson's GPi, while the overlap with the GPEm is in the ventral Swanson GPi. However, Swanson's GPi appears to have a larger ventral extent than the WHS GPEm. It overlaps the external globus pallidus region in WHS until -1.78 from bregma (-2.39 from Waxholm bregma), where Swanson's internal segment becomes incapsulated in the internal capsule. At -1.78 from bregma (-2.39 from Waxholm bregma), Swanson's internal segment becomes incapsulated in the internal capsule, but is much more elongated than Waxholms entopeduncular nucleus and does not match the shape. These seem to have quite similar anteroposterior extent, but still only seem to overlap slightly."
+66,92,37,overlapping,"Swanson's globus pallidus lateral segment (GPl) overlaps with the WHS globus pallidus external, lateral part (GPEl). The rostral part of Swanson's GPl is very similar to the WHS GPEl, but the WHS GPEl appear to be sligthly larger at its rostral extreme. From Swanson's plate 21, the GPl overlaps with WHS GPEl, but not fully because of the globus pallidus external, medial part (GPEm) appearing in the WHS. In these intermediate levels, it seems that Swanson's GPl has a larger ventral extent than the combined WHS GPEl and GPEm. Caudally, from Swanson's plate 25, the GPl is part of the WHS GPEl, but covers only its most lateral part. The anteroposterior extent of the structures appear to be equal. At intermediate levels of Swanson's globus pallidus lateral segment (from plate 21), its medial part includes WHS globus pallidus external, medial part (GPEm). The most posterior end of the WHS GPEm is situated in the ventral part of Swanson's globus pallidus internal segment, however."
+67,93,37,overlapping,"Swanson's globus pallidus lateral segment (GPl) overlaps with the WHS globus pallidus external, lateral part (GPEl). The rostral part of Swanson's GPl is very similar to the WHS GPEl, but the WHS GPEl appear to be sligthly larger at its rostral extreme. From Swanson's plate 21, the GPl overlaps with WHS GPEl, but not fully because of the globus pallidus external, medial part (GPEm) appearing in the WHS. In these intermediate levels, it seems that Swanson's GPl has a larger ventral extent than the combined WHS GPEl and GPEm. Caudally, from Swanson's plate 25, the GPl is part of the WHS GPEl, but covers only its most lateral part. The anteroposterior extent of the structures appear to be equal. At intermediate levels of Swanson's globus pallidus lateral segment (from plate 21), its medial part includes WHS globus pallidus external, medial part (GPEm). The most posterior end of the WHS GPEm is situated in the ventral part of Swanson's globus pallidus internal segment, however."
+68,30,38,overlapping,"At -1.78 from bregma (-2.39 from Waxholm bregma), Swanson's medial segment becomes incapsulated in the internal capsule, but is much more elongated than Waxholms entopeduncular nucleus and does not match the shape. These seem to have quite similar anteroposterior extent, but still only seem to overlap slightly."
+69,92,38,overlapping,"At -1.78 from bregma (-2.39 from Waxholm bregma), Swanson's medial segment becomes incapsulated in the internal capsule, but is much more elongated than Waxholms entopeduncular nucleus and does not match the shape. These seem to have quite similar anteroposterior extent, but still only seem to overlap slightly."
+70,93,38,overlapping,"At -1.78 from bregma (-2.39 from Waxholm bregma), Swanson's medial segment becomes incapsulated in the internal capsule, but is much more elongated than Waxholms entopeduncular nucleus and does not match the shape. These seem to have quite similar anteroposterior extent, but still only seem to overlap slightly."
+71,43,39,overlapping,"At its rostral extreme, Swanson's gustatory areas overlap with the WHS dorsolateral orbital cortex. After this, Swanson's area overlaps with several cortical regions in the WHS, primarily the dysgranular insular cortex and granular insular cortex. However, at some intermediate levels it seems that the most dorsal part of Swanson's gustatory areas also overlap with WHS primary somatosensory area, upper lip region (face)"
+72,45,39,overlapping,"At its rostral extreme, Swanson's gustatory areas overlap with the WHS dorsolateral orbital cortex. After this, Swanson's area overlaps with several cortical regions in the WHS, primarily the dysgranular insular cortex and granular insular cortex. However, at some intermediate levels it seems that the most dorsal part of Swanson's gustatory areas also overlap with WHS primary somatosensory area, upper lip region (face)"
+73,64,39,overlapping,"At its rostral extreme, Swanson's gustatory areas overlap with the WHS dorsolateral orbital cortex. After this, Swanson's area overlaps with several cortical regions in the WHS, primarily the dysgranular insular cortex and granular insular cortex. However, at some intermediate levels it seems that the most dorsal part of Swanson's gustatory areas also overlap with WHS primary somatosensory area, upper lip region (face)"
+74,65,39,overlapping,"At its rostral extreme, Swanson's gustatory areas overlap with the WHS dorsolateral orbital cortex. After this, Swanson's area overlaps with several cortical regions in the WHS, primarily the dysgranular insular cortex and granular insular cortex. However, at some intermediate levels it seems that the most dorsal part of Swanson's gustatory areas also overlap with WHS primary somatosensory area, upper lip region (face)"
+75,66,40,identical,"The infralimbic area in Swanson's atlas is very similar to WHS infralimbic cortex. However, at one level close to the genu of the corpus callosum, Swanson's infralimbic area overlaps WHS prelimbic cortex. At this level, the WHS infralimbic cortex is situated ventral to the corpus callosum while the Swanson version is dorsal to it."
+76,67,40,overlapping,"The infralimbic area in Swanson's atlas is very similar to WHS infralimbic cortex. However, at one level close to the genu of the corpus callosum, Swanson's infralimbic area overlaps WHS prelimbic cortex. At this level, the WHS infralimbic cortex is situated ventral to the corpus callosum while the Swanson version is dorsal to it."
+77,32,41,part of,Swanson's Interfascicular nucleus raphe (IF) is part of the WHS Brainstem
+78,68,42,includes,"Swanson's lateral habenular nucleus includes the WHS lateral habenular nucleus, lateral part, and lateral habenular nucleus, medial part"
+79,69,42,includes,"Swanson's lateral habenular nucleus includes the WHS lateral habenular nucleus, lateral part, and lateral habenular nucleus, medial part"
+80,48,43,overlapping,"The rostral part of Swanson's lateral hypothalamic area is part of the WHS brainstem, the intermediate part is situated in WHS hypothalamic region, and the posterior part is situated in the WHS brainstem"
+81,51,43,overlapping,"The rostral part of Swanson's lateral hypothalamic area is part of the WHS brainstem, the intermediate part is situated in WHS hypothalamic region, and the posterior part is situated in the WHS brainstem"
+82,32,43,overlapping,"The rostral part of Swanson's lateral hypothalamic area is part of the WHS brainstem, the intermediate part is situated in WHS hypothalamic region, and the posterior part is situated in the WHS brainstem"
+83,51,44,part of,Swanson's Lateral hypothalamic area juxtaparaventricular region (LHAjp) is part of the WHS hypothalamic region
+84,48,45,part of,Swanson's Lateral hypothalamic area suprafornical region (LHAs) is part of the WHS basal forebrain region
+85,52,46,part of,Swanson's Lateral nucleus of the amygdala (LA) is part of the WHS neocortex
+86,48,47,part of,Swanson's Lateral preoptic area (LPO) is part of the WHS basal forebrain region
+87,70,48,part of,"Swanson's lateral septal nucleus ventral part (LSv) is part of the WHS septal region. A small part of the posterior LSv might, however, overlap with WHS bed nucleus of the stria terminalis"
+88,32,49,part of,Swanson's Locus coeruleus (LC) is part of the WHS Brainstem
+89,48,50,overlapping,"The rostral part of Swanson's medial preoptic area is part of WHS basal forebrain, the caudal part is situated in WHS hypothalamic region"
+90,51,50,overlapping,"The rostral part of Swanson's medial preoptic area is part of WHS basal forebrain, the caudal part is situated in WHS hypothalamic region"
+91,48,51,overlapping,"The rostral part of Swanson's medial preoptic nucleus is part of WHS basal forebrain, the caudal part is situated in WHS hypothalamic region"
+92,51,51,overlapping,"The rostral part of Swanson's medial preoptic nucleus is part of WHS basal forebrain, the caudal part is situated in WHS hypothalamic region"
+93,94,53,overlapping,"Swanson's nucleus accumbens (ACB) largely includes the WHS accumbens nucleus, shell, but is slightly more narrowly defined. In particular, WHS nucleus accumbens, shell is visible at a more rostral level than the Swanson ACB. In this area, the WHS nucleus accumbens shell overlaps with olfactory areas in the Swanson atlas. From Swanson's plate 10, the ACB includes the WHS accumbens nucleus, shell, with borders that look fairly similar (although the dorsal border with the caudoputamen appears to be slightly more dorsally placed in the Swanson atlas). Swanson's nucleus accumbens (ACB) furthermore includes the WHS accumbens nucleus, core. The WHS region is included in the ACB throughout the latters anteroposterior extent."
+94,95,53,part of,"Swanson's nucleus accumbens (ACB) largely includes the WHS accumbens nucleus, shell, but is slightly more narrowly defined. In particular, WHS nucleus accumbens, shell is visible at a more rostral level than the Swanson ACB. In this area, the WHS nucleus accumbens shell overlaps with olfactory areas in the Swanson atlas. From Swanson's plate 10, the ACB includes the WHS accumbens nucleus, shell, with borders that look fairly similar (although the dorsal border with the caudoputamen appears to be slightly more dorsally placed in the Swanson atlas). Swanson's nucleus accumbens (ACB) furthermore includes the WHS accumbens nucleus, core. The WHS region is included in the ACB throughout the latters anteroposterior extent."
+95,56,54,part of,Swanson's Nucleus incertus compact part (NIc) is part of the WHS periventricular gray
+96,56,55,part of,Swanson's Nucleus incertus diffuse part (NId) is part of the WHS periventricular gray
+97,71,56,part of,Swanson's orbital area medial part is part of the medial orbital cortex in the WHS. It has a similar anteroposterior extent but a smaller dorsolateral extent.
+98,72,57,identical,Swanson's orbital area ventral part (sometimes referred to as ventrolateral part in the plates) is largely identical to the WHS ventral orbital cortex
+99,32,58,part of,Swanson's Pedunculopontine nucleus (PPN) is part of the WHS Brainstem
+100,55,59,part of,Swanson's Periaqueductal gray (PAG) is part of the WHS periaqueductal gray
+101,57,60,part of,"Swanson's perirhinal area is quite similar to the WHS perirhinal area 35, although the WHS region is slightly larger dorsally."
+102,51,61,overlapping,"Swanson's posterior hypothalamic nucleus is mainly situated in the WHS hypothalamic region, but posteriorly, the dorsal part is situated in WHS brainstem."
+103,32,61,overlapping,"Swanson's posterior hypothalamic nucleus is mainly situated in the WHS hypothalamic region, but posteriorly, the dorsal part is situated in WHS brainstem."
+104,48,62,overlapping,"A small part of Swanson's posterior nucleus of the amygdala anteriorly overlaps with WHS basal forebrain, while the rest is situated in WHS neocortex"
+105,52,62,overlapping ,"A small part of Swanson's posterior nucleus of the amygdala anteriorly overlaps with WHS basal forebrain, while the rest is situated in WHS neocortex"
+106,73,63,overlapping,"The posterior parietal association area in Swanson's atlas is a large cortical area with areas overlapping WHS cortical regions (from anterior to posterior): secondary visual cortex, medial area, medial parietal association cortex, lateral parietal association cortex, parietal cortex, posterior area, secondary visual cortex, lateral area, secondary auditory cortex, dorsal area"
+107,74,63,overlapping,"The posterior parietal association area in Swanson's atlas is a large cortical area with areas overlapping WHS cortical regions (from anterior to posterior): secondary visual cortex, medial area, medial parietal association cortex, lateral parietal association cortex, parietal cortex, posterior area, secondary visual cortex, lateral area, secondary auditory cortex, dorsal area"
+108,75,63,overlapping,"The posterior parietal association area in Swanson's atlas is a large cortical area with areas overlapping WHS cortical regions (from anterior to posterior): secondary visual cortex, medial area, medial parietal association cortex, lateral parietal association cortex, parietal cortex, posterior area, secondary visual cortex, lateral area, secondary auditory cortex, dorsal area"
+109,76,63,overlapping,"The posterior parietal association area in Swanson's atlas is a large cortical area with areas overlapping WHS cortical regions (from anterior to posterior): secondary visual cortex, medial area, medial parietal association cortex, lateral parietal association cortex, parietal cortex, posterior area, secondary visual cortex, lateral area, secondary auditory cortex, dorsal area"
+110,77,63,overlapping,"The posterior parietal association area in Swanson's atlas is a large cortical area with areas overlapping WHS cortical regions (from anterior to posterior): secondary visual cortex, medial area, medial parietal association cortex, lateral parietal association cortex, parietal cortex, posterior area, secondary visual cortex, lateral area, secondary auditory cortex, dorsal area"
+111,78,63,overlapping,"The posterior parietal association area in Swanson's atlas is a large cortical area with areas overlapping WHS cortical regions (from anterior to posterior): secondary visual cortex, medial area, medial parietal association cortex, lateral parietal association cortex, parietal cortex, posterior area, secondary visual cortex, lateral area, secondary auditory cortex, dorsal area"
+112,52,64,overlapping,"The rostral part of Swanson's postpiriform transition area overlaps with WHS neocortex, while the caudal part overlaps with WHS lateral entorhinal cortex"
+113,61,64,overlapping,"The rostral part of Swanson's postpiriform transition area overlaps with WHS neocortex, while the caudal part overlaps with WHS lateral entorhinal cortex"
+114,55,65,part of,Swanson's Precommissural nucleus (PRC) is part of the WHS periaqueductal gray
+115,79,66,overlapping,"At its rostral extreme, Swanson's prelimbic area overlaps with WHS frontal association cortex. More posteriorly, it overlaps WHS medial orbital cortex and prelimbic cortex. It seems that rostrally, the Swanson prelimbic area is larger than its WHS counterpart, with the dorsal part corresponding to WHS prelimbic cortex and the ventral part to WHS medial orbital cortex. At the posterior end of Swanson's prelimbic area, the WHS region is larger (also extending dorsally into Swanson's dorsal anterior cingulate area). "
+116,71,66,overlapping,"At its rostral extreme, Swanson's prelimbic area overlaps with WHS frontal association cortex. More posteriorly, it overlaps WHS medial orbital cortex and prelimbic cortex. It seems that rostrally, the Swanson prelimbic area is larger than its WHS counterpart, with the dorsal part corresponding to WHS prelimbic cortex and the ventral part to WHS medial orbital cortex. At the posterior end of Swanson's prelimbic area, the WHS region is larger (also extending dorsally into Swanson's dorsal anterior cingulate area). "
+117,67,66,overlapping,"At its rostral extreme, Swanson's prelimbic area overlaps with WHS frontal association cortex. More posteriorly, it overlaps WHS medial orbital cortex and prelimbic cortex. It seems that rostrally, the Swanson prelimbic area is larger than its WHS counterpart, with the dorsal part corresponding to WHS prelimbic cortex and the ventral part to WHS medial orbital cortex. At the posterior end of Swanson's prelimbic area, the WHS region is larger (also extending dorsally into Swanson's dorsal anterior cingulate area). "
+118,43,67,overlapping,"At its rostral extreme, Swanson's primary motor area overlaps WHS dorsolateral orbital cortex. Throughout the rest of the area, it overlaps both WHS primary and secondary motor cortex, as well as the frontal cortex, area 3. In anterior levels, the correspondence with WHS primary motor cortex is quite good. However, Swanson's primary motor area extends more medially than its WHS counterpart at intermediate and caudal levels, and in this area overlaps with WHS secondary motor area."
+119,90,67,overlapping,"At its rostral extreme, Swanson's primary motor area overlaps WHS dorsolateral orbital cortex. Throughout the rest of the area, it overlaps both WHS primary and secondary motor cortex, as well as the frontal cortex, area 3. In anterior levels, the correspondence with WHS primary motor cortex is quite good. However, Swanson's primary motor area extends more medially than its WHS counterpart at intermediate and caudal levels, and in this area overlaps with WHS secondary motor area."
+120,80,67,overlapping,"At its rostral extreme, Swanson's primary motor area overlaps WHS dorsolateral orbital cortex. Throughout the rest of the area, it overlaps both WHS primary and secondary motor cortex, as well as the frontal cortex, area 3. In anterior levels, the correspondence with WHS primary motor cortex is quite good. However, Swanson's primary motor area extends more medially than its WHS counterpart at intermediate and caudal levels, and in this area overlaps with WHS secondary motor area."
+121,91,67,overlapping,"At its rostral extreme, Swanson's primary motor area overlaps WHS dorsolateral orbital cortex. Throughout the rest of the area, it overlaps both WHS primary and secondary motor cortex, as well as the frontal cortex, area 3. In anterior levels, the correspondence with WHS primary motor cortex is quite good. However, Swanson's primary motor area extends more medially than its WHS counterpart at intermediate and caudal levels, and in this area overlaps with WHS secondary motor area."
+122,32,68,part of,Swanson's Retrorubral area (RR) is part of the WHS Brainstem
+123,32,69,part of,Swanson's Rostral linear nucleus raphe (RL) is part of the WHS Brainstem
+124,79,70,overlapping,"At its rostral extreme, Swanson's secondary motor area overlaps WHS frontal association cortex. Otherwise, the rostral part is quite similar to WHS secondary motor cortex. At intermediate levels, however, there is some overlap with WHS cingulate cortex, area 1 medially. Caudally, there might also be some overlap with WHS retrosplenial dysgranular cortex."
+125,80,70,overlapping,"At its rostral extreme, Swanson's secondary motor area overlaps WHS frontal association cortex. Otherwise, the rostral part is quite similar to WHS secondary motor cortex. At intermediate levels, however, there is some overlap with WHS cingulate cortex, area 1 medially. Caudally, there might also be some overlap with WHS retrosplenial dysgranular cortex."
+126,49,70,overlapping,"At its rostral extreme, Swanson's secondary motor area overlaps WHS frontal association cortex. Otherwise, the rostral part is quite similar to WHS secondary motor cortex. At intermediate levels, however, there is some overlap with WHS cingulate cortex, area 1 medially. Caudally, there might also be some overlap with WHS retrosplenial dysgranular cortex."
+127,81,70,overlapping,"At its rostral extreme, Swanson's secondary motor area overlaps WHS frontal association cortex. Otherwise, the rostral part is quite similar to WHS secondary motor cortex. At intermediate levels, however, there is some overlap with WHS cingulate cortex, area 1 medially. Caudally, there might also be some overlap with WHS retrosplenial dysgranular cortex."
+128,32,71,part of,Swanson's Subparafascicular nucleus (SPF) is part of the WHS Brainstem
+129,96,72,overlapping,"Rostrally, Swanson's substantia innominata overlaps with the WHS ventral pallidum and basal forebrain. More posteriorly, from plate 21, Swanson's substantia innominata is part of the WHS basal forebrain region."
+130,48,72,overlapping,"Rostrally, Swanson's substantia innominata overlaps with the WHS ventral pallidum and basal forebrain. More posteriorly, from plate 21, Swanson's substantia innominata is part of the WHS basal forebrain region."
+131,8,73,includes,"The substantia nigra in Swanson's atlas is subdivided into a reticular and compact part, while the WHS substantia nigra has a reticular, compact and a lateral part. The substantia nigra, lateral part in WHS overlaps both subdivisions in the Swanson atlas. Generally, the substantia nigra of Waxholm appears slightly bigger than that of Swanson."
+132,9,73,includes,"The substantia nigra in Swanson's atlas is subdivided into a reticular and compact part, while the WHS substantia nigra has a reticular, compact and a lateral part. The substantia nigra, lateral part in WHS overlaps both subdivisions in the Swanson atlas. Generally, the substantia nigra of Waxholm appears slightly bigger than that of Swanson."
+133,16,73,overlapping,"The substantia nigra in Swanson's atlas is subdivided into a reticular and compact part, while the WHS substantia nigra has a reticular, compact and a lateral part. The substantia nigra, lateral part in WHS overlaps both subdivisions in the Swanson atlas. Generally, the substantia nigra of Waxholm appears slightly bigger than that of Swanson."
+134,8,74,includes,"WHS' substantia nigra compact part (SNC) makes up most of Swanson's structure with the same name, but does not fully cover it. However, the WHS substantia nigra lateral part also overlaps with Swanson's substantia nigra pars compacta, complicating the relationship slightly. The substantia nigra, lateral part in WHS overlaps with Swanson's substantia nigra, compact part, but with a very small area of overlap that is hard to define clearly."
+135,16,74,overlapping,"WHS' substantia nigra compact part (SNC) makes up most of Swanson's structure with the same name, but does not fully cover it. However, the WHS substantia nigra lateral part also overlaps with Swanson's substantia nigra pars compacta, complicating the relationship slightly. The substantia nigra, lateral part in WHS overlaps with Swanson's substantia nigra, compact part, but with a very small area of overlap that is hard to define clearly."
+136,9,75,includes,"WHS' substantia nigra reticular part makes up most of Swanson's substantia nigra reticular part. However, Waxholm's substantia nigra lateral part also overlaps with Swanson's substantia nigra pars reticulata, complicating the relationship slightly. The substantia nigra, lateral part in the WHS overlaps with Swanson's substantia nigra, reticular part, but with a very small area of overlap that is hard to define clearly."
+137,16,75,overlapping,"WHS' substantia nigra reticular part makes up most of Swanson's substantia nigra reticular part. However, Waxholm's substantia nigra lateral part also overlaps with Swanson's substantia nigra pars reticulata, complicating the relationship slightly. The substantia nigra, lateral part in the WHS overlaps with Swanson's substantia nigra, reticular part, but with a very small area of overlap that is hard to define clearly."
+138,22,76,identical,"These structures are similar in shape, position and anteroposterior extent. The only difference is that the WHS subthalamic nucleus generally seems slightly smaller."
+139,51,77,part of,Swanson's Tuberomammillary nucleus (TM) is part of the WHS hypothalamic region
+140,82,78,overlapping,"Rostrally, Swanson's ventral auditory areas appear to overlap with WHS secondary somatosensory cortex. At intermediate levels, it primarily overlaps with WHS primary auditory cortex, while caudally it overlaps the secondary auditory cortex, ventral area"
+141,83,78,overlapping,"Rostrally, Swanson's ventral auditory areas appear to overlap with WHS secondary somatosensory cortex. At intermediate levels, it primarily overlaps with WHS primary auditory cortex, while caudally it overlaps the secondary auditory cortex, ventral area"
+142,84,78,overlapping,"Rostrally, Swanson's ventral auditory areas appear to overlap with WHS secondary somatosensory cortex. At intermediate levels, it primarily overlaps with WHS primary auditory cortex, while caudally it overlaps the secondary auditory cortex, ventral area"
+143,97,79,overlapping,"Rostrally, Swanson's ventral tegmental area has a larger medial extent than the same area in WHS. In these rostral areas, the structures appear quite different and the nature of the overlap is hard to define. At intermediate levels, from Swanson's plate 36, the regions are more simialar, but the Swanson VTA has a dorsal extention that is not seen in the WHS VTA. Caudally, the WHS VTA seems to be placed more medially compared to Swanson's VTA. In sum, the two VTA delineations share quite a lot of their respective areas, but there are some areas of non-overlap that is primarily related to Swanson's version being bigger."
+144,64,80,overlapping,"Rostrally, Swanson's visceral area overlaps the WHS granular insular cortex ventrally and the secondary somatosensory cortex dorsally. More caudally, the overlap is with the granular insular cortex dorsally and the dysgranular insular cortex ventrally."
+145,85,81,overlapping,"The zona incerta in Swanson's atlas primarily overlaps the rostral, dorsal, ventral and caudal parts of the WHS zona incerta, but the anterior dorsomedial part also seems to overlap the ventromedial thalamic nucleus"
+146,86,81,overlapping,"The zona incerta in Swanson's atlas primarily overlaps the rostral, dorsal, ventral and caudal parts of the WHS zona incerta, but the anterior dorsomedial part also seems to overlap the ventromedial thalamic nucleus"
+147,87,81,overlapping,"The zona incerta in Swanson's atlas primarily overlaps the rostral, dorsal, ventral and caudal parts of the WHS zona incerta, but the anterior dorsomedial part also seems to overlap the ventromedial thalamic nucleus"
+148,88,81,overlapping,"The zona incerta in Swanson's atlas primarily overlaps the rostral, dorsal, ventral and caudal parts of the WHS zona incerta, but the anterior dorsomedial part also seems to overlap the ventromedial thalamic nucleus"
+149,89,81,overlapping,"The zona incerta in Swanson's atlas primarily overlaps the rostral, dorsal, ventral and caudal parts of the WHS zona incerta, but the anterior dorsomedial part also seems to overlap the ventromedial thalamic nucleus"
