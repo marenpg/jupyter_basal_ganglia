@@ -461,8 +461,8 @@
 459,70,Expression_,4.0,,,
 460,71,Electrophysiology_high frequency tonic firing,3.0,,304.0,Sadek_2007_sections_innerneurons_boutons_quantitation
 461,71,Electrophysiology_high frequency tonic firing,3.0,,305.0,Sadek_2007_sections_outerneurons_boutons_quantitation
-462,73,Region_>96 µm from striatopallidal border,1.0,,304.0,Sadek_2007_sections_innerneurons_boutons_quantitation
-463,74,Region_<96 µm from striatopallidal border,1.0,,305.0,Sadek_2007_sections_outerneurons_boutons_quantitation
+462,73,Region_>96 micrometre from striatopallidal border,1.0,,304.0,Sadek_2007_sections_innerneurons_boutons_quantitation
+463,74,Region_<96 micrometre from striatopallidal border,1.0,,305.0,Sadek_2007_sections_outerneurons_boutons_quantitation
 464,75,Expression_VIP,4.0,NIFEXT:5148,316.0,MBA Cell Type Atlas_VIP:CCK_brains_VIP:CCK_neurons_quantitation
 465,75,Expression_VIP,4.0,NIFEXT:5148,317.0,MBA Cell Type Atlas_VIP:CR_brains_VIP:CR_neurons_quantitation
 466,75,Expression_VIP,4.0,NIFEXT:5148,318.0,MBA Cell Type Atlas_VIP_brains_neurons_quantitation

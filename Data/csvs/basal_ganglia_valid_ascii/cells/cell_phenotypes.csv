@@ -68,8 +68,8 @@
 66,69,Expression_c-fos,4,C-fos,
 67,70,Expression_,4,M2 receptor / ChAT,
 68,71,Electrophysiology_high frequency tonic firing,3,High frequency tonic firing,
-69,73,Region_>96 µm from striatopallidal border,1,> 96 µm from striatopallidal border,
-70,74,Region_<96 µm from striatopallidal border,1,< 96 µm from striatopallidal border,
+69,73,Region_>96 micrometre from striatopallidal border,1,> 96 micrometre from striatopallidal border,
+70,74,Region_<96 micrometre from striatopallidal border,1,< 96 micrometre from striatopallidal border,
 71,75,Expression_VIP,4,VIP,NIFEXT:5148
 72,76,Expression_cholecystokinin,4,Cholecystokinin,NIFEXT:5068
 73,77,Electrophysiology_dopaminergic neuron,3,Dopaminergic neuron,

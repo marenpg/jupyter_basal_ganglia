@@ -508,9 +508,9 @@
 506,106,Expression_Iba-1,89,Microglia
 507,106,Expression_Iba-1,89,Microglia
 508,71,Electrophysiology_high frequency tonic firing,90,Inner globus pallidus neuron
-509,73,Region_>96 µm from striatopallidal border,90,Inner globus pallidus neuron
+509,73,Region_>96 micrometre from striatopallidal border,90,Inner globus pallidus neuron
 510,71,Electrophysiology_high frequency tonic firing,91,Outer globus pallidus neuron
-511,74,Region_<96 µm from striatopallidal border,91,Outer globus pallidus neuron
+511,74,Region_<96 micrometre from striatopallidal border,91,Outer globus pallidus neuron
 512,8,Expression_somatostatin,93,Somatostatin / calretinin co-expressing
 513,6,Expression_calretinin,93,Somatostatin / calretinin co-expressing
 514,8,Expression_somatostatin,94,Somatostatin / nNOS co-expressing
