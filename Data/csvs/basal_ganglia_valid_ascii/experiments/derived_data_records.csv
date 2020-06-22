@@ -101,11 +101,11 @@
 99,162,Lolova_1995_12m_sections_bFGF_medium_neuron_quantitation,182,Quantitation,3,23,59,150-300 micrometre2,1,No,0x000000000000110C
 100,163,Lolova_1995_12m_sections_bFGF_large_neuron_quantitation,182,Quantitation,3,23,60,300-600 micrometre2,1,No,0x000000000000110D
 101,164,Lolova_1995_12m_sections_bFGF_neuron_quantitation,182,Quantitation,3,23,57,,1,No,0x000000000000110E
-102,165,Löscher_2006_sections_GABA_neurons_quantitation,187,Quantitation,8,1,61,Only neurons that came into focus by passing from one optical plane to the next were counted,1,No,0x000000000000110F
-103,166,Löscher_2006_sections_GAD65light_mRNA_neurons_quantitation,185,Quantitation,8,1,62,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001110
-104,167,Löscher_2006_sections_GAD67light_mRNA_neurons_quantitation,186,Quantitation,8,1,64,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001111
-105,168,Löscher_2006_sections_GAD67heavy_mRNA_neurons_quantitation,186,Quantitation,8,1,65,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001112
-106,169,Löscher_2006_sections_GAD65heavy_mRNA_neurons_quantitation,185,Quantitation,8,1,63,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001113
+102,165,Loescher_2006_sections_GABA_neurons_quantitation,187,Quantitation,8,1,61,Only neurons that came into focus by passing from one optical plane to the next were counted,1,No,0x000000000000110F
+103,166,Loescher_2006_sections_GAD65light_mRNA_neurons_quantitation,185,Quantitation,8,1,62,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001110
+104,167,Loescher_2006_sections_GAD67light_mRNA_neurons_quantitation,186,Quantitation,8,1,64,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001111
+105,168,Loescher_2006_sections_GAD67heavy_mRNA_neurons_quantitation,186,Quantitation,8,1,65,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001112
+106,169,Loescher_2006_sections_GAD65heavy_mRNA_neurons_quantitation,185,Quantitation,8,1,63,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001113
 107,170,McArthur_2016_female_sections_TH_cells_quantitation,190,Quantitation,3,1,14,,2,No,0x0000000000001114
 108,171,McArthur_2016_female_sections_GS_cells_quantitation,190,Quantitation,3,23,66,,2,No,0x0000000000001115
 109,172,McArthur_2016_male_sections_GS_cells_quantitation,191,Quantitation,3,23,66,,2,No,0x0000000000001116
@@ -242,11 +242,11 @@
 240,303,Barcia_2012_sections_nNOS_neurons_quantitation,398,Quantitation,6,1,18,,1,No,0x0000000000001199
 241,304,Sadek_2007_sections_innerneurons_boutons_quantitation,401,Quantitation,17,24,90,,4,No,0x000000000000119A
 242,305,Sadek_2007_sections_outerneurons_boutons_quantitation,401,Quantitation,17,24,91,,4,No,0x000000000000119B
-243,306,Löscher_2006_sections_GABA_neurons_distribution,187,Distribution,8,1,61,Only neurons that came into focus by passing from one optical plane to the next were counted,1,No,0x000000000000119C
-244,307,Löscher_2006_sections_GAD65_heavy_neurons_distribution,185,Distribution,8,1,63,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x000000000000119D
-245,308,Löscher_2006_sections_GAD65_lightly_neurons_distribution,185,Distribution,8,1,62,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x000000000000119E
-246,309,Löscher_2006_sections_GAD67_heavily_neurons_distribution,186,Distribution,8,1,65,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x000000000000119F
-247,310,Löscher_2006_sections_GAD67_lightly_neurons_distribution,186,Distribution,8,1,64,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x00000000000011A0
+243,306,Loescher_2006_sections_GABA_neurons_distribution,187,Distribution,8,1,61,Only neurons that came into focus by passing from one optical plane to the next were counted,1,No,0x000000000000119C
+244,307,Loescher_2006_sections_GAD65_heavy_neurons_distribution,185,Distribution,8,1,63,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x000000000000119D
+245,308,Loescher_2006_sections_GAD65_lightly_neurons_distribution,185,Distribution,8,1,62,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x000000000000119E
+246,309,Loescher_2006_sections_GAD67_heavily_neurons_distribution,186,Distribution,8,1,65,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x000000000000119F
+247,310,Loescher_2006_sections_GAD67_lightly_neurons_distribution,186,Distribution,8,1,64,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x00000000000011A0
 248,311,Allen_PV_ISH_75457579_sections_PV_neurons_quantitation,403,Quantitation,1,1,37,,9,No,0x00000000000011A1
 249,312,MBA Cell Type Atlas_PV_brains_PV_neurons_quantitation,404,Quantitation,10,1,37,,12,No,0x00000000000011A2
 250,313,MBA Cell Type Atlas_SST:CR_brains_SST:CR_neurons_quantitation,406,Quantitation,4,1,93,,12,No,0x00000000000011A3
@@ -416,7 +416,7 @@
 414,483,Saal_2015_sections_nissl_neurons_quantitation,717,Quantitation,4,1,42,,8,No,0x0000000000001248
 415,484,Shaw_2010_sections_TH_neurons_quantitation,720,Quantitation,,1,14,,1,No,0x0000000000001249
 416,485,Stanic_2004_sections_neurons_quantitation,724,Quantitation,10,1,42,,8,No,0x000000000000124A
-417,486,Sunström_1987_sections_TH_neurons_quantitation,726,Quantitation,,1,14,,2,No,0x000000000000124B
+417,486,Sunstroem_1987_sections_TH_neurons_quantitation,726,Quantitation,,1,14,,2,No,0x000000000000124B
 418,487,Tasselli_2013_sections_TH_neurons_quantitation,728,Quantitation,4,1,14,,1,No,0x000000000000124C
 419,488,Tatenhorst_2014_sections_TH_neurons_quantitation,730,Quantitation,5,1,14,,1,No,0x000000000000124D
 420,489,Tatenhorst_2014_sections_neurons_quantitation,730,Quantitation,5,1,42,,1,No,0x000000000000124E
@@ -458,11 +458,11 @@
 456,526,Purisai_2007_graphdata_sections_TH_neurons_quantitation,785,Quantitation,15,1,14,,8,No,0x0000000000001272
 457,531,Tatenhorst_2014_140_sections_th_neurons_quantitation,795,Quantitation,4,1,14,,1,No,0x0000000000001273
 458,532,Tatenhorst_2014_140_sections_neurons_quantitation,795,Quantitation,4,1,42,,8,No,0x0000000000001274
-459,533,Löscher_2006_sham_sections_GABA_neurons_quantitation,798,Quantitation,5,1,61,Only neurons that came into focus by passing from one optical plane to the next were counted,1,No,0x0000000000001275
-460,534,Löscher_2006_sham_sections_GAD65heavy_neurons_quantitation,799,Quantitation,5,1,63,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001276
-461,535,Löscher_2006_sham_sections_GAD65light_neurons_quantitation,799,Quantitation,5,1,62,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001277
-462,536,Löscher_2006_sham_sections_GAD67heavy_neurons_quantitation,800,Quantitation,5,1,65,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001278
-463,537,Löscher_2006_sham_sections_GAD67light_neuron_quantitation,800,Quantitation,5,1,64,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001279
+459,533,Loescher_2006_sham_sections_GABA_neurons_quantitation,798,Quantitation,5,1,61,Only neurons that came into focus by passing from one optical plane to the next were counted,1,No,0x0000000000001275
+460,534,Loescher_2006_sham_sections_GAD65heavy_neurons_quantitation,799,Quantitation,5,1,63,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001276
+461,535,Loescher_2006_sham_sections_GAD65light_neurons_quantitation,799,Quantitation,5,1,62,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001277
+462,536,Loescher_2006_sham_sections_GAD67heavy_neurons_quantitation,800,Quantitation,5,1,65,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001278
+463,537,Loescher_2006_sham_sections_GAD67light_neuron_quantitation,800,Quantitation,5,1,64,Only neurons that came into focus by passing from one optical plane to the next were counted,9,No,0x0000000000001279
 464,538,Abdurakhmanova_2017_sections_PV_neurons_quantitation,802,Quantitation,5,1,37,,1,No,0x000000000000127A
 465,539,Abdurakhmanova_2017_sections_ChAT_neurons_quantitation,803,Quantitation,5,1,33,,1,No,0x000000000000127B
 466,540,Abdurakhmanova_2017_sections_NOS_neurons_quantitation,804,Quantitation,5,1,40,,8,No,0x000000000000127C

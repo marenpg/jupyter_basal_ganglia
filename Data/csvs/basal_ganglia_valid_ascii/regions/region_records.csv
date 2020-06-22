@@ -203,7 +203,7 @@
 201,260,Saal_2015,26,,Unknown,Unknown,1.0,0.0,No,Section coordinates,No,No,Images without annotations,Cyto- or chemoarchitectonic features,No,No,,21,3
 202,261,Shaw_2010_snc,10,31,Whole region,Non-specific,1.0,0.0,Yes,Section coordinates,Yes,No,Images with annotations,Cyto- or chemoarchitectonic features,No,No,"They refer to Franklin & Paxinos v2, but their delineation seems to be somewhat more extensive than in the atlas",20,6
 203,262,Stanic_2004_snc,8,,Unknown,Unknown,1.0,0.0,No,None,No,No,No images,Cyto- or chemoarchitectonic features,No,No,,22,1
-204,263,Sunström_1987_snc,10,,Unknown,Unknown,1.0,0.0,No,None,No,No,Images with annotations,Cyto- or chemoarchitectonic features,No,No,,21,3
+204,263,Sunstroem_1987_snc,10,,Unknown,Unknown,1.0,0.0,No,None,No,No,Images with annotations,Cyto- or chemoarchitectonic features,No,No,,21,3
 205,264,Tasselli_2013_snc,10,,Unknown,Unknown,1.0,0.0,No,None,No,No,Images without annotations,Cyto- or chemoarchitectonic features,No,No,,21,2
 206,265,Tatenhorst_2014_snc,10,,Unknown,Unknown,1.0,0.0,No,Section coordinates,No,No,Images without annotations,Cyto- or chemoarchitectonic features,No,No,,21,3
 207,266,Walker_2012b_snc,8,,Unknown,Unknown,1.0,0.0,No,None,No,No,No images,Cyto- or chemoarchitectonic features,No,No,,22,1
@@ -214,7 +214,7 @@
 212,271,Eilam_2003_snc,10,,Unknown,Unknown,1.0,0.0,No,None,Yes,No,No images,Cyto- or chemoarchitectonic features,No,No,,21,2
 213,272,Kusnoor_2010_golgi_cpu,2,,Part of region,Specific,1.0,0.0,No,None,Yes,No,No images,Not documented,No,No,,21,1
 214,273,Lawrence_2012_golgi_nacc,3,,Unknown,Unknown,1.0,0.0,No,None,No,No,No images,Not documented,No,No,,22,0
-215,275,Löscher_2006_cpu,1,,Part of region,Specific,1.0,0.0,Yes,Section coordinates,No,No,Images without annotations,Cyto- or chemoarchitectonic features,No,No,"Three rostrocaudal levels are investigated. At anterior and central levels, regions are comparable. The posterior region might not include the whole ventral part, as this is considered IPAC in the Paxinos atlas. Image documentation is not sufficiently annotated.",11,4
+215,275,Loescher_2006_cpu,1,,Part of region,Specific,1.0,0.0,Yes,Section coordinates,No,No,Images without annotations,Cyto- or chemoarchitectonic features,No,No,"Three rostrocaudal levels are investigated. At anterior and central levels, regions are comparable. The posterior region might not include the whole ventral part, as this is considered IPAC in the Paxinos atlas. Image documentation is not sufficiently annotated.",11,4
 216,276,Abdurakhmanova_2017_cpu,2,,Unknown,Specific,1.0,0.0,No,None,Yes,No,Images without annotations,Cyto- or chemoarchitectonic features,No,No,"Might not cover ventral part, arbitrary line drawn laterally from ventricle",21,3
 217,277,Alexi_1997_cpu,1,,Part of region,Specific,1.0,0.0,Yes,Section coordinates,Yes,Yes,No images,Cyto- or chemoarchitectonic features,No,No,Five anteroposterior levels distinguished. All samples were taken from approximately midway between the dorsal border with the corpus callosum and the ventral border of the cpu,12,5
 218,282,Andreassen_2000_cpu,1,,Unknown,Unknown,1.0,0.0,No,None,No,No,No images,Cyto- or chemoarchitectonic features,No,No,"Likely comparable to West, 1996",22,1
@@ -252,7 +252,7 @@
 250,315,Ihara_1986_str,24,,Part of region,Unknown,1.0,0.0,No,None,No,No,No images,Cyto- or chemoarchitectonic features,No,No,,22,1
 251,316,Ijomone_2013_cpu,1,,Unknown,Specific,1.0,0.0,Yes,None,No,No,No images,Cyto- or chemoarchitectonic features,No,No,,7,2
 252,317,Ishimaru_1991_str,1,,Unknown,Unknown,1.0,0.0,No,None,No,No,No images,Cyto- or chemoarchitectonic features,No,No,"Since sections are from a level caudal to the accumbens, translation to caudoputamen has been made even though the term used (""striatum"") is not specified",22,1
-253,318,Johnston_1987_cpu,1,,Part of region,Unknown,1.0,0.0,Yes,Section coordinates,Yes,No,No images,Cyto- or chemoarchitectonic features,No,No,Mid to caudal-cpu levels. They use the atlas by König and Klippel.,22,4
+253,318,Johnston_1987_cpu,1,,Part of region,Unknown,1.0,0.0,Yes,Section coordinates,Yes,No,No images,Cyto- or chemoarchitectonic features,No,No,Mid to caudal-cpu levels. They use the atlas by Koenig and Klippel.,22,4
 254,319,Juckel_2011_cpu,2,,Part of region,Specific,1.0,0.0,Yes,Section coordinates,Yes,No,No images,Cyto- or chemoarchitectonic features,No,No,"They use the term striatum, but the illustration indicates counting in the caudoputamen region",20,4
 255,320,Koshimizu_2013_str,1,,Whole region,Specific,1.0,0.0,Yes,None,Yes,No,No images,Cyto- or chemoarchitectonic features,No,No,,7,3
 256,321,Kopp_1992_cpu,1,,Part of region,Specific,1.0,0.0,No,None,No,No,Images with annotations,Cyto- or chemoarchitectonic features,No,No,Medial and dorsolateral regions distinguished,22,3

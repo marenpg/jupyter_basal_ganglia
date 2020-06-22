@@ -11,7 +11,7 @@
 9,13,Hardman_2002_SNr_stereology,Optical disector,,,,,5,,,0.069,,,1,0x000000000000224C
 10,14,Lawrence_2012_sections_glia_quantitation_nacc_stereology,Optical disector,,,,,,,,0.07,,,1,0x000000000000224D
 11,15,Lawrence_2012_sections_neurons_quantitation_nacc_stereology,Optical disector,,,,,,,,0.05,,,1,0x000000000000224E
-12,16,Löscher_2006_stereology,Optical disector,,,,,2,,,,,,1,0x000000000000224F
+12,16,Loescher_2006_stereology,Optical disector,,,,,2,,,,,,1,0x000000000000224F
 13,18,Mori_2017_sections_TH_cells_quantitation_snc_stereology,Optical disector,,,0.25,,,,,,,,1,0x0000000000002250
 14,19,Nair-Roberts_2008_stereology,Optical disector,Top of nucleus,20,0.05,0.55,,,,,,,1,0x0000000000002251
 15,20,Parish_2001_sections_snc_TH_stereology,Optical disector,Top of cell,,0.0804,1.0,10,,,0.1,,,1,0x0000000000002252
