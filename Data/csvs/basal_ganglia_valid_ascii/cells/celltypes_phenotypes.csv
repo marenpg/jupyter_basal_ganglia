@@ -1,0 +1,578 @@
+,PhenotypeID,Phenotype_name,CellID,Cell_type_name
+0,15,Expression_glutamate receptor 1,5,Glutamate receptor 1 expressing
+1,16,Expression_glutamate receptor 1 mRNA,5,Glutamate receptor 1 expressing
+2,16,Expression_glutamate receptor 1 mRNA,5,Glutamate receptor 1 expressing
+3,16,Expression_glutamate receptor 1 mRNA,5,Glutamate receptor 1 expressing
+4,16,Expression_glutamate receptor 1 mRNA,5,Glutamate receptor 1 expressing
+5,15,Expression_glutamate receptor 1,5,Glutamate receptor 1 expressing
+6,15,Expression_glutamate receptor 1,5,Glutamate receptor 1 expressing
+7,17,Expression_NMDA receptor mRNA,7,NMDA receptor expressing
+8,17,Expression_NMDA receptor mRNA,7,NMDA receptor expressing
+9,17,Expression_NMDA receptor mRNA,7,NMDA receptor expressing
+10,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+11,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+12,18,Expression_dopamine 1 receptor mRNA,8,Dopamine 1 receptor expressing
+13,18,Expression_dopamine 1 receptor mRNA,8,Dopamine 1 receptor expressing
+14,18,Expression_dopamine 1 receptor mRNA,8,Dopamine 1 receptor expressing
+15,18,Expression_dopamine 1 receptor mRNA,8,Dopamine 1 receptor expressing
+16,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+17,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+18,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+19,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+20,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+21,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+22,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+23,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+24,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+25,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+26,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+27,18,Expression_dopamine 1 receptor mRNA,8,Dopamine 1 receptor expressing
+28,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+29,2,Expression_dopamine 1 receptor,8,Dopamine 1 receptor expressing
+30,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+31,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+32,19,Expression_dopamine 2 receptor mRNA,9,Dopamine 2 receptor expressing
+33,19,Expression_dopamine 2 receptor mRNA,9,Dopamine 2 receptor expressing
+34,19,Expression_dopamine 2 receptor mRNA,9,Dopamine 2 receptor expressing
+35,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+36,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+37,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+38,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+39,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+40,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+41,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+42,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+43,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+44,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+45,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+46,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+47,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+48,19,Expression_dopamine 2 receptor mRNA,9,Dopamine 2 receptor expressing
+49,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+50,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+51,3,Expression_dopamine 2 receptor,9,Dopamine 2 receptor expressing
+52,12,Morphology_spiny high density,13,Medium spiny neuron
+53,12,Morphology_spiny high density,13,Medium spiny neuron
+54,12,Morphology_spiny high density,13,Medium spiny neuron
+55,12,Morphology_spiny high density,13,Medium spiny neuron
+56,66,Expression_DARPP-32,13,Medium spiny neuron
+57,78,Electrophysiology_unspecified,13,Medium spiny neuron
+58,20,Morphology_medium size,13,Medium spiny neuron
+59,12,Morphology_spiny high density,13,Medium spiny neuron
+60,66,Expression_DARPP-32,13,Medium spiny neuron
+61,82,Expression_Nissl,13,Medium spiny neuron
+62,12,Morphology_spiny high density,13,Medium spiny neuron
+63,66,Expression_DARPP-32,13,Medium spiny neuron
+64,66,Expression_DARPP-32,13,Medium spiny neuron
+65,66,Expression_DARPP-32,13,Medium spiny neuron
+66,85,Expression_NeuN,13,Medium spiny neuron
+67,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+68,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+69,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+70,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+71,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+72,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+73,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+74,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+75,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+76,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+77,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+78,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+79,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+80,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+81,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+82,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+83,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+84,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+85,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+86,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+87,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+88,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+89,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+90,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+91,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+92,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+93,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+94,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+95,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+96,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+97,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+98,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+99,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+100,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+101,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+102,77,Electrophysiology_dopaminergic neuron,14,Tyrosine hydroxylase expressing
+103,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+104,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+105,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+106,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+107,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+108,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+109,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+110,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+111,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+112,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+113,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+114,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+115,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+116,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+117,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+118,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+119,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+120,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+121,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+122,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+123,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+124,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+125,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+126,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+127,82,Expression_Nissl,14,Tyrosine hydroxylase expressing
+128,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+129,82,Expression_Nissl,14,Tyrosine hydroxylase expressing
+130,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+131,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+132,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+133,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+134,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+135,82,Expression_Nissl,14,Tyrosine hydroxylase expressing
+136,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+137,82,Expression_Nissl,14,Tyrosine hydroxylase expressing
+138,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+139,82,Expression_Nissl,14,Tyrosine hydroxylase expressing
+140,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+141,82,Expression_Nissl,14,Tyrosine hydroxylase expressing
+142,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+143,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+144,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+145,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+146,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+147,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+148,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+149,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+150,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+151,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+152,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+153,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+154,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+155,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+156,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+157,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+158,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+159,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+160,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+161,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+162,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+163,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+164,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+165,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+166,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+167,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+168,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+169,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+170,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+171,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+172,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+173,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+174,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+175,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+176,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+177,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+178,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+179,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+180,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+181,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+182,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+183,82,Expression_Nissl,14,Tyrosine hydroxylase expressing
+184,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+185,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+186,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+187,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+188,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+189,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+190,82,Expression_Nissl,14,Tyrosine hydroxylase expressing
+191,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+192,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+193,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+194,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+195,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+196,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+197,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+198,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+199,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+200,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+201,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+202,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+203,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+204,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+205,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+206,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+207,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+208,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+209,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+210,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+211,104,Expression_DAT,14,Tyrosine hydroxylase expressing
+212,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+213,14,Expression_tyrosine hydroxylase,14,Tyrosine hydroxylase expressing
+214,24,Expression_dynorphin mRNA,17,Dynorphin expressing
+215,9,Expression_nitric oxide synthase,18,nNOS-expressing
+216,9,Expression_nitric oxide synthase,18,nNOS-expressing
+217,9,Expression_nitric oxide synthase,18,nNOS-expressing
+218,9,Expression_nitric oxide synthase,18,nNOS-expressing
+219,9,Expression_nitric oxide synthase,18,nNOS-expressing
+220,9,Expression_nitric oxide synthase,18,nNOS-expressing
+221,9,Expression_nitric oxide synthase,18,nNOS-expressing
+222,9,Expression_nitric oxide synthase,18,nNOS-expressing
+223,27,Expression_substance p,21,Substance P expressing
+224,27,Expression_substance p,21,Substance P expressing
+225,58,Expression_pre-protachykinin mRNA,21,Substance P expressing
+226,58,Expression_pre-protachykinin mRNA,21,Substance P expressing
+227,58,Expression_pre-protachykinin mRNA,21,Substance P expressing
+228,58,Expression_pre-protachykinin mRNA,21,Substance P expressing
+229,28,Morphology_small size,22,Small sized cell
+230,28,Morphology_small size,22,Small sized cell
+231,28,Morphology_small size,22,Small sized cell
+232,20,Morphology_medium size,23,Medium sized cell
+233,20,Morphology_medium size,23,Medium sized cell
+234,20,Morphology_medium size,23,Medium sized cell
+235,20,Morphology_medium size,23,Medium sized cell
+236,20,Morphology_medium size,23,Medium sized cell
+237,30,Expression_dopamine receptor 3 mRNA,25,Dopamine receptor 3 / enkephalin co-expressing
+238,29,Expression_pre-proenkephalin A mRNA,25,Dopamine receptor 3 / enkephalin co-expressing
+239,30,Expression_dopamine receptor 3 mRNA,26,Dopamine receptor 3 expressing / enkephalin negative
+240,19,Expression_dopamine 2 receptor mRNA,29,Dopamine receptor 2  / enkephalin co-expressing
+241,29,Expression_pre-proenkephalin A mRNA,29,Dopamine receptor 2  / enkephalin co-expressing
+242,18,Expression_dopamine 1 receptor mRNA,30,Dopamine receptor 1  / enkephalin co-expressing
+243,29,Expression_pre-proenkephalin A mRNA,30,Dopamine receptor 1  / enkephalin co-expressing
+244,57,Expression_pre-proenkephalin mRNA,31,Pre proenkephalin expressing
+245,29,Expression_pre-proenkephalin A mRNA,31,Pre proenkephalin expressing
+246,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+247,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+248,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+249,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+250,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+251,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+252,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+253,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+254,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+255,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+256,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+257,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+258,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+259,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+260,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+261,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+262,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+263,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+264,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+265,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+266,76,Expression_cholecystokinin,33,Cholinergic neuron
+267,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+268,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+269,85,Expression_NeuN,33,Cholinergic neuron
+270,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+271,22,Expression_choline acetyltransferase,33,Cholinergic neuron
+272,33,Expression_phosphate activated glutaminase,34,Phosphate activated glutaminase expressing
+273,5,Expression_calbindin,36,Calbindin expressing
+274,5,Expression_calbindin,36,Calbindin expressing
+275,5,Expression_calbindin,36,Calbindin expressing
+276,5,Expression_calbindin,36,Calbindin expressing
+277,5,Expression_calbindin,36,Calbindin expressing
+278,5,Expression_calbindin,36,Calbindin expressing
+279,5,Expression_calbindin,36,Calbindin expressing
+280,4,Expression_parvalbumin,37,Parvalbumin expressing
+281,4,Expression_parvalbumin,37,Parvalbumin expressing
+282,4,Expression_parvalbumin,37,Parvalbumin expressing
+283,4,Expression_parvalbumin,37,Parvalbumin expressing
+284,39,Expression_parvalbumin mRNA,37,Parvalbumin expressing
+285,4,Expression_parvalbumin,37,Parvalbumin expressing
+286,4,Expression_parvalbumin,37,Parvalbumin expressing
+287,4,Expression_parvalbumin,37,Parvalbumin expressing
+288,4,Expression_parvalbumin,37,Parvalbumin expressing
+289,4,Expression_parvalbumin,37,Parvalbumin expressing
+290,4,Expression_parvalbumin,37,Parvalbumin expressing
+291,4,Expression_parvalbumin,37,Parvalbumin expressing
+292,4,Expression_parvalbumin,37,Parvalbumin expressing
+293,4,Expression_parvalbumin,37,Parvalbumin expressing
+294,4,Expression_parvalbumin,37,Parvalbumin expressing
+295,4,Expression_parvalbumin,37,Parvalbumin expressing
+296,4,Expression_parvalbumin,37,Parvalbumin expressing
+297,4,Expression_parvalbumin,37,Parvalbumin expressing
+298,85,Expression_NeuN,37,Parvalbumin expressing
+299,4,Expression_parvalbumin,37,Parvalbumin expressing
+300,8,Expression_somatostatin,38,Somatostatin expressing
+301,8,Expression_somatostatin,38,Somatostatin expressing
+302,80,Expression_somatostatin mRNA,38,Somatostatin expressing
+303,61,Expression_pre-prosomatostatin mRNA,38,Somatostatin expressing
+304,8,Expression_somatostatin,38,Somatostatin expressing
+305,61,Expression_pre-prosomatostatin mRNA,38,Somatostatin expressing
+306,8,Expression_somatostatin,38,Somatostatin expressing
+307,61,Expression_pre-prosomatostatin mRNA,38,Somatostatin expressing
+308,8,Expression_somatostatin,38,Somatostatin expressing
+309,6,Expression_calretinin,39,Calretinin expressing
+310,6,Expression_calretinin,39,Calretinin expressing
+311,6,Expression_calretinin,39,Calretinin expressing
+312,6,Expression_calretinin,39,Calretinin expressing
+313,6,Expression_calretinin,39,Calretinin expressing
+314,35,Expression_NADPHd,40,NADPHd expressing
+315,35,Expression_NADPHd,40,NADPHd expressing
+316,35,Expression_NADPHd,40,NADPHd expressing
+317,35,Expression_NADPHd,40,NADPHd expressing
+318,35,Expression_NADPHd,40,NADPHd expressing
+319,35,Expression_NADPHd,40,NADPHd expressing
+320,35,Expression_NADPHd,40,NADPHd expressing
+321,35,Expression_NADPHd,40,NADPHd expressing
+322,35,Expression_NADPHd,40,NADPHd expressing
+323,35,Expression_NADPHd,40,NADPHd expressing
+324,35,Expression_NADPHd,40,NADPHd expressing
+325,35,Expression_NADPHd,40,NADPHd expressing
+326,35,Expression_NADPHd,40,NADPHd expressing
+327,35,Expression_NADPHd,40,NADPHd expressing
+328,35,Expression_NADPHd,40,NADPHd expressing
+329,35,Expression_NADPHd,40,NADPHd expressing
+330,35,Expression_NADPHd,40,NADPHd expressing
+331,35,Expression_NADPHd,40,NADPHd expressing
+332,35,Expression_NADPHd,40,NADPHd expressing
+333,35,Expression_NADPHd,40,NADPHd expressing
+334,10,Expression_neuropeptide Y,41,Neuropeptide Y expressing
+335,10,Expression_neuropeptide Y,41,Neuropeptide Y expressing
+336,10,Expression_neuropeptide Y,41,Neuropeptide Y expressing
+337,10,Expression_neuropeptide Y,41,Neuropeptide Y expressing
+338,10,Expression_neuropeptide Y,41,Neuropeptide Y expressing
+339,10,Expression_neuropeptide Y,41,Neuropeptide Y expressing
+340,10,Expression_neuropeptide Y,41,Neuropeptide Y expressing
+341,10,Expression_neuropeptide Y,41,Neuropeptide Y expressing
+342,85,Expression_NeuN,41,Neuropeptide Y expressing
+343,10,Expression_neuropeptide Y,41,Neuropeptide Y expressing
+344,82,Expression_Nissl,42,Neuron
+345,82,Expression_Nissl,42,Neuron
+346,82,Expression_Nissl,42,Neuron
+347,82,Expression_Nissl,42,Neuron
+348,82,Expression_Nissl,42,Neuron
+349,82,Expression_Nissl,42,Neuron
+350,82,Expression_Nissl,42,Neuron
+351,82,Expression_Nissl,42,Neuron
+352,82,Expression_Nissl,42,Neuron
+353,85,Expression_NeuN,42,Neuron
+354,85,Expression_NeuN,42,Neuron
+355,82,Expression_Nissl,42,Neuron
+356,82,Expression_Nissl,42,Neuron
+357,82,Expression_Nissl,42,Neuron
+358,82,Expression_Nissl,42,Neuron
+359,82,Expression_Nissl,42,Neuron
+360,82,Expression_Nissl,42,Neuron
+361,82,Expression_Nissl,42,Neuron
+362,82,Expression_Nissl,42,Neuron
+363,82,Expression_Nissl,42,Neuron
+364,82,Expression_Nissl,42,Neuron
+365,82,Expression_Nissl,42,Neuron
+366,82,Expression_Nissl,42,Neuron
+367,82,Expression_Nissl,42,Neuron
+368,14,Expression_tyrosine hydroxylase,42,Neuron
+369,82,Expression_Nissl,42,Neuron
+370,82,Expression_Nissl,42,Neuron
+371,82,Expression_Nissl,42,Neuron
+372,82,Expression_Nissl,42,Neuron
+373,82,Expression_Nissl,42,Neuron
+374,82,Expression_Nissl,42,Neuron
+375,82,Expression_Nissl,42,Neuron
+376,82,Expression_Nissl,42,Neuron
+377,82,Expression_Nissl,42,Neuron
+378,82,Expression_Nissl,42,Neuron
+379,82,Expression_Nissl,42,Neuron
+380,85,Expression_NeuN,42,Neuron
+381,82,Expression_Nissl,42,Neuron
+382,85,Expression_NeuN,42,Neuron
+383,85,Expression_NeuN,42,Neuron
+384,82,Expression_Nissl,42,Neuron
+385,85,Expression_NeuN,42,Neuron
+386,82,Expression_Nissl,42,Neuron
+387,82,Expression_Nissl,42,Neuron
+388,82,Expression_Nissl,42,Neuron
+389,82,Expression_Nissl,42,Neuron
+390,82,Expression_Nissl,42,Neuron
+391,85,Expression_NeuN,42,Neuron
+392,82,Expression_Nissl,42,Neuron
+393,82,Expression_Nissl,42,Neuron
+394,82,Expression_Nissl,43,Tyrosine hydroxylase negative
+395,82,Expression_Nissl,43,Tyrosine hydroxylase negative
+396,82,Expression_Nissl,43,Tyrosine hydroxylase negative
+397,82,Expression_Nissl,43,Tyrosine hydroxylase negative
+398,82,Expression_Nissl,43,Tyrosine hydroxylase negative
+399,82,Expression_Nissl,43,Tyrosine hydroxylase negative
+400,82,Expression_Nissl,43,Tyrosine hydroxylase negative
+401,14,Expression_tyrosine hydroxylase,43,Tyrosine hydroxylase negative
+402,82,Expression_Nissl,43,Tyrosine hydroxylase negative
+403,37,Expression_huntingtin,45,Low huntingtin expressing/calbindin expressing
+404,5,Expression_calbindin,45,Low huntingtin expressing/calbindin expressing
+405,5,Expression_calbindin,46,Moderate huntingtin expressing/calbindin expressing
+406,37,Expression_huntingtin,46,Moderate huntingtin expressing/calbindin expressing
+407,37,Expression_huntingtin,47,Strong huntingtin expressing/calbindin expressing
+408,5,Expression_calbindin,47,Strong huntingtin expressing/calbindin expressing
+409,37,Expression_huntingtin,48,Low huntingtin expressing/calbindin negative
+410,37,Expression_huntingtin,49,Moderate huntingtin expressing/calbindin negative
+411,37,Expression_huntingtin,50,Strong huntingtin expressing/calbindin negative
+412,5,Expression_calbindin,51,Huntingtin negative/calbindin expressing
+413,38,Expression_GAD67 mRNA,54,GAD67 expressing
+414,99,Expression_GAD67,54,GAD67 expressing
+415,38,Expression_GAD67 mRNA,55,GAD67 / parvalbumin coexpressing
+416,39,Expression_parvalbumin mRNA,55,GAD67 / parvalbumin coexpressing
+417,40,Morphology_large size,56,Large sized cell
+418,40,Morphology_large size,56,Large sized cell
+419,40,Morphology_large size,56,Large sized cell
+420,41,Expression_basic fibroblast growth factor,57,Basic fibroblast growth factor expressing
+421,41,Expression_basic fibroblast growth factor,57,Basic fibroblast growth factor expressing
+422,41,Expression_basic fibroblast growth factor,57,Basic fibroblast growth factor expressing
+423,41,Expression_basic fibroblast growth factor,57,Basic fibroblast growth factor expressing
+424,41,Expression_basic fibroblast growth factor,58,"Basic fibroblast growth factor expressing, small size"
+425,28,Morphology_small size,58,"Basic fibroblast growth factor expressing, small size"
+426,41,Expression_basic fibroblast growth factor,58,"Basic fibroblast growth factor expressing, small size"
+427,28,Morphology_small size,58,"Basic fibroblast growth factor expressing, small size"
+428,41,Expression_basic fibroblast growth factor,59,"Basic fibroblast growth factor expressing, medium size"
+429,20,Morphology_medium size,59,"Basic fibroblast growth factor expressing, medium size"
+430,41,Expression_basic fibroblast growth factor,59,"Basic fibroblast growth factor expressing, medium size"
+431,20,Morphology_medium size,59,"Basic fibroblast growth factor expressing, medium size"
+432,41,Expression_basic fibroblast growth factor,60,"Basic fibroblast growth factor expressing, large size"
+433,40,Morphology_large size,60,"Basic fibroblast growth factor expressing, large size"
+434,41,Expression_basic fibroblast growth factor,60,"Basic fibroblast growth factor expressing, large size"
+435,40,Morphology_large size,60,"Basic fibroblast growth factor expressing, large size"
+436,25,Expression_glutamic acid decarboxylase,61,GABAergic neuron
+437,25,Expression_glutamic acid decarboxylase,61,GABAergic neuron
+438,42,Expression_GABA,61,GABAergic neuron
+439,45,Expression_GAD mRNA,61,GABAergic neuron
+440,42,Expression_GABA,61,GABAergic neuron
+441,42,Expression_GABA,61,GABAergic neuron
+442,43,Expression_GAD65 mRNA,62,"GAD65, lightly expressing"
+443,43,Expression_GAD65 mRNA,62,"GAD65, lightly expressing"
+444,43,Expression_GAD65 mRNA,62,"GAD65, lightly expressing"
+445,43,Expression_GAD65 mRNA,63,"GAD65, heavily expressing"
+446,43,Expression_GAD65 mRNA,63,"GAD65, heavily expressing"
+447,43,Expression_GAD65 mRNA,63,"GAD65, heavily expressing"
+448,38,Expression_GAD67 mRNA,64,"GAD67, lightly expressing"
+449,38,Expression_GAD67 mRNA,64,"GAD67, lightly expressing"
+450,38,Expression_GAD67 mRNA,64,"GAD67, lightly expressing"
+451,38,Expression_GAD67 mRNA,65,"GAD67, heavily expressing"
+452,38,Expression_GAD67 mRNA,65,"GAD67, heavily expressing"
+453,38,Expression_GAD67 mRNA,65,"GAD67, heavily expressing"
+454,44,Expression_glutamine synthetase,66,Glutamine synthetase expressing
+455,44,Expression_glutamine synthetase,66,Glutamine synthetase expressing
+456,25,Expression_glutamic acid decarboxylase,67,GAD expressing
+457,82,Expression_Nissl,67,GAD expressing
+458,46,Expression_apolipoprotein D,68,ApoD expressing
+459,47,Expression_cannabinoid receptor 1,69,CB1R expressing
+460,47,Expression_cannabinoid receptor 1,69,CB1R expressing
+461,47,Expression_cannabinoid receptor 1,69,CB1R expressing
+462,48,Expression_GFAP,70,Astrocyte
+463,48,Expression_GFAP,70,Astrocyte
+464,49,Expression_CD11b,71,Macrophage
+465,49,Expression_CD11b,71,Macrophage
+466,49,Expression_CD11b,71,Macrophage
+467,101,Expression_CD68,71,Macrophage
+468,50,Expression_lipocortin 1,72,Lipocortin 1 expressing
+469,51,Expression_phosphotyrosine,73,Phosphotyrosine expressing
+470,54,Expression_kappa opioid receptor,74,Kappa opioid receptor expressing
+471,54,Expression_kappa opioid receptor,74,Kappa opioid receptor expressing
+472,35,Expression_NADPHd,75,"NADPHd, weakly expressing"
+473,35,Expression_NADPHd,76,"NADPHd, strongly expressing"
+474,56,Expression_VGLUT1,77,VGLUT1 expressing
+475,56,Expression_VGLUT1,77,VGLUT1 expressing
+476,56,Expression_VGLUT1,77,VGLUT1 expressing
+477,56,Expression_VGLUT1,77,VGLUT1 expressing
+478,29,Expression_pre-proenkephalin A mRNA,79,Substance P / enkephalin co-expressing
+479,27,Expression_substance p,79,Substance P / enkephalin co-expressing
+480,57,Expression_pre-proenkephalin mRNA,79,Substance P / enkephalin co-expressing
+481,58,Expression_pre-protachykinin mRNA,79,Substance P / enkephalin co-expressing
+482,57,Expression_pre-proenkephalin mRNA,79,Substance P / enkephalin co-expressing
+483,58,Expression_pre-protachykinin mRNA,79,Substance P / enkephalin co-expressing
+484,62,Expression_VGLUT2,80,VGLUT2 expressing
+485,62,Expression_VGLUT2,80,VGLUT2 expressing
+486,62,Expression_VGLUT2,80,VGLUT2 expressing
+487,63,Expression_VGAT,81,VGAT expressing
+488,63,Expression_VGAT,81,VGAT expressing
+489,63,Expression_VGAT,81,VGAT expressing
+490,64,Expression_XPA,82,XPA expressing
+491,65,Expression_XPB,83,XPB expressing
+492,23,Expression_enkephalin mRNA,85,Enkephalin expressing
+493,26,Expression_met enkephalin,85,Enkephalin expressing
+494,29,Expression_pre-proenkephalin A mRNA,85,Enkephalin expressing
+495,23,Expression_enkephalin mRNA,85,Enkephalin expressing
+496,67,Expression_enkephalin,85,Enkephalin expressing
+497,57,Expression_pre-proenkephalin mRNA,85,Enkephalin expressing
+498,68,Expression_glucocorticoid receptor,86,Glucocorticoid receptor expressing
+499,68,Expression_glucocorticoid receptor,86,Glucocorticoid receptor expressing
+500,69,Expression_c-fos,87,C-fos expressing
+501,69,Expression_c-fos,87,C-fos expressing
+502,49,Expression_CD11b,89,Microglia
+503,49,Expression_CD11b,89,Microglia
+504,49,Expression_CD11b,89,Microglia
+505,49,Expression_CD11b,89,Microglia
+506,106,Expression_Iba-1,89,Microglia
+507,106,Expression_Iba-1,89,Microglia
+508,71,Electrophysiology_high frequency tonic firing,90,Inner globus pallidus neuron
+509,73,Region_>96 µm from striatopallidal border,90,Inner globus pallidus neuron
+510,71,Electrophysiology_high frequency tonic firing,91,Outer globus pallidus neuron
+511,74,Region_<96 µm from striatopallidal border,91,Outer globus pallidus neuron
+512,8,Expression_somatostatin,93,Somatostatin / calretinin co-expressing
+513,6,Expression_calretinin,93,Somatostatin / calretinin co-expressing
+514,8,Expression_somatostatin,94,Somatostatin / nNOS co-expressing
+515,9,Expression_nitric oxide synthase,94,Somatostatin / nNOS co-expressing
+516,75,Expression_VIP,95,VIP / CCK co-expressing
+517,76,Expression_cholecystokinin,95,VIP / CCK co-expressing
+518,75,Expression_VIP,96,VIP / calretinin co-expressing
+519,6,Expression_calretinin,96,VIP / calretinin co-expressing
+520,75,Expression_VIP,97,VIP expressing
+521,84,Expression_acidic fibroblast growth factor,100,Acidic fibroblast growth factor expressing
+522,86,Connectivity_nigrostriatal,102,Dopaminergic neuron
+523,86,Connectivity_nigrostriatal,102,Dopaminergic neuron
+524,1,Expression_dopamine,102,Dopaminergic neuron
+525,13,Region_substantia nigra,102,Dopaminergic neuron
+526,14,Expression_tyrosine hydroxylase,102,Dopaminergic neuron
+527,77,Electrophysiology_dopaminergic neuron,102,Dopaminergic neuron
+528,13,Region_substantia nigra,102,Dopaminergic neuron
+529,87,Expression_cAMP response element,103,cAMP response element-positive
+530,90,Connectivity_EP,104,Prototypic pallidal neuron
+531,88,Connectivity_SN,104,Prototypic pallidal neuron
+532,89,Connectivity_striatum,104,Prototypic pallidal neuron
+533,91,Connectivity_subthalamic nucleus,104,Prototypic pallidal neuron
+534,92,Connectivity_globus pallidus,104,Prototypic pallidal neuron
+535,86,Connectivity_nigrostriatal,105,Nigrostriatal neuron
+536,86,Connectivity_nigrostriatal,106,Dopaminergic nigrostriatal neuron
+537,1,Expression_dopamine,106,Dopaminergic nigrostriatal neuron
+538,86,Connectivity_nigrostriatal,107,Non-dopaminergic nigrostriatal neuron
+539,94,Connectivity_Projection neuron,108,Subthalamic nucleus projection neuron
+540,93,Region_Subthalamic nucleus,108,Subthalamic nucleus projection neuron
+541,94,Connectivity_Projection neuron,109,Rostral subthalamic nucleus projection neuron
+542,95,"Region_Subthalamic nucleus, rostral half",109,Rostral subthalamic nucleus projection neuron
+543,94,Connectivity_Projection neuron,110,Caudal subthalamic nucleus projection neuron
+544,96,"Region_Subthalamic nucleus, caudal half",110,Caudal subthalamic nucleus projection neuron
+545,94,Connectivity_Projection neuron,111,Lateral subthalamic nucleus projection neuron
+546,97,"Region_Subthalamic nucleus, lateral half",111,Lateral subthalamic nucleus projection neuron
+547,94,Connectivity_Projection neuron,112,Medial subthalamic nucleus projection neuron
+548,98,"Region_Subthalamic nucleus, medial half",112,Medial subthalamic nucleus projection neuron
+549,52,Expression_S100-beta,113,"Astrocyte, S100b expressing"
+550,52,Expression_S100-beta,113,"Astrocyte, S100b expressing"
+551,52,Expression_S100-beta,113,"Astrocyte, S100b expressing"
+552,83,Expression_S100,113,"Astrocyte, S100b expressing"
+553,48,Expression_GFAP,114,"Astrocyte, GFAP expressing"
+554,48,Expression_GFAP,114,"Astrocyte, GFAP expressing"
+555,48,Expression_GFAP,114,"Astrocyte, GFAP expressing"
+556,48,Expression_GFAP,114,"Astrocyte, GFAP expressing"
+557,48,Expression_GFAP,114,"Astrocyte, GFAP expressing"
+558,48,Expression_GFAP,114,"Astrocyte, GFAP expressing"
+559,48,Expression_GFAP,114,"Astrocyte, GFAP expressing"
+560,48,Expression_GFAP,114,"Astrocyte, GFAP expressing"
+561,100,Expression_olig2,115,Oligodendrocyte
+562,100,Expression_olig2,115,Oligodendrocyte
+563,102,Expression_VVA,116,Perineuronal net-surrounded neuron
+564,102,Expression_VVA,116,Perineuronal net-surrounded neuron
+565,102,Expression_VVA,116,Perineuronal net-surrounded neuron
+566,102,Expression_VVA,116,Perineuronal net-surrounded neuron
+567,105,Expression_5HT,117,Serotonergic neuron
+568,106,Expression_Iba-1,118,"Microglia, resting"
+569,106,Expression_Iba-1,119,"Microglia, active"
+570,43,Expression_GAD65 mRNA,121,GAD65 expressing
+571,107,Expression_p75,122,p75 neurotrophin receptor expressing
+572,108,Expression_TrkA,123,TrkA expressing
+573,108,Expression_TrkA,123,TrkA expressing
+574,89,Connectivity_striatum,124,Corticostriatal neuron
+575,109,Region_Frontal cortex,124,Corticostriatal neuron
+576,110,Expression_pre-enkephalin,125,Pre-enkephalin expressing

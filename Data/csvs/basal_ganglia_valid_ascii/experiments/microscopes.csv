@@ -1,0 +1,10 @@
+,ID,Microscope_type,Ontological_identifier
+0,1,Fluorescence microscope,
+1,2,Bright-field microscope,
+2,3,Confocal microscope,BIRNLEX:2029
+3,4,Transmission electron microscope,BIRNLEX:2048
+4,12,Scanning electron microscope,BIRNLEX:2044
+5,13,Dark-field microscope,
+6,14,Two photon microscope,
+7,15,Structured illumination microscope,
+8,16,Unspecified microscope,

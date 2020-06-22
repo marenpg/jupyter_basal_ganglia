@@ -1,0 +1,19 @@
+ID,Region_name,Part_of
+1,Caudoputamen,24
+3,Accumbens nucleus,24
+8,Substantia nigra compact part,25
+9,Substantia nigra reticular part,25
+16,Substantia nigra lateral part,25
+22,Subthalamic nucleus,36
+24,Striatum,36
+25,Substantia nigra,36
+29,Globus pallidus,98
+30,Entopeduncular nucleus,98
+92,"WHS_globus pallidus external segment, medial part",29
+93,"Gobus pallidus external lateral part",29
+94,"WHS_accumbens nucleus shell",3
+95,"WHS_accumbens nucleus core",3
+96,WHS_ventral pallidum,98
+97,WHS_ventral tegmental area,36
+98,WHS_pallidum,36
+36,Brain
