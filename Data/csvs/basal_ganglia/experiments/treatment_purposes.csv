@@ -1,0 +1,37 @@
+,id,name
+0,1,Freezing
+1,2,Fixation
+2,3,Blocking
+3,4,Signal amplification
+4,5,Storage
+5,6,Dehydration
+6,7,Embedding
+7,8,General stain
+8,9,Deparaffinization
+9,10,Rehydration
+10,11,Clearing
+11,12,Permeabilization
+12,13,Visualization
+13,14,Unspecified
+14,15,Cryoprotection
+15,16,
+16,17,Acetylation
+17,18,Staining
+18,19,Counterstaining
+19,20,Postfixation
+20,21,Antigen retrieval
+21,22,Drying
+22,23,Defatting
+23,24,Heating
+24,25,Cooling
+25,26,Infiltration
+26,27,Polymerization
+27,28,Epitope retrieval
+28,29,Softening
+29,30,Washing
+30,31,Secondary fixation
+31,32,Mounting
+32,33,Differentiation
+33,34,Rinsing
+34,35,Freeze-thawing
+35,36,Coverslipping
