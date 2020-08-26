@@ -1,0 +1,15 @@
+"ID";"Object_of_interest";"Ontological_identifier"
+1;"Neurons";"ILX:0107497"
+2;"Cells";"ILX:0101839"
+4;"Axonal terminals";"ILX:0101049"
+5;"Synapses";"GO:0045202"
+9;"Synapses, symmetrical";"ILX:0111392"
+10;"Synapses, asymmetrical";"ILX:0100953"
+11;"Dendritic spines";"GO:0043197"
+12;"Dendritic spines, mushroom";"ILX:0107249"
+13;"Dendritic spines, stubby";"ILX:0111129"
+14;"Dendritic spines, thin";"ILX:0111691"
+17;"Dendritic spines, large";
+18;"Dendritic spines, giant";
+23;"Glia cell";
+24;"Axonal varicosities";

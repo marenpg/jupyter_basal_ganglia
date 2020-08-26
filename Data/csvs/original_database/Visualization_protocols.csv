@@ -1,0 +1,13 @@
+"ID";"Protocol_name";"Ontological_identifier"
+1;"Immunohistochemistry";"BIRNLEX:2241"
+2;"Immunofluorescence";"NLX:94976"
+3;"Golgi cox staining";"BIRNLEX:2243"
+4;"Intracellular injection";"BIRNLEX:2136"
+5;"Viral infection";
+8;"Histochemistry";"NLX_INV:20090605"
+9;"In situ hybridization";"BIRNLEX:2295"
+10;"In situ transcription";
+11;"Particle exposure";
+12;"Genetic label";
+13;"Tracer injection";
+14;"Fluorescence";

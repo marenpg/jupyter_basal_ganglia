@@ -1,0 +1,213 @@
+"ID";"Stereology_details_name";"Probe";"Identification_feature";"Disector_height";"Area_subfraction";"Height_subfraction";"Investigated_sections";"Investigated_fields";"Counted_objects";"Coefficient_of_error";"Estimated_volume";"Volume_unit";"any except probe"
+4;"Gritti_2006_sections_cells_quantitation_stereology";"Optical disector";"Top of cell";"8";"0,2";"0,8";"6";356;545;"0,04";"4,91";"mm3";1
+5;"Gritti_2006_sections_PAG_neurons_quantitation_stereology";"Optical disector";"Top of cell";"8";"0,2";"0,8";"6";356;495;"0,02";"4,91";"mm3";1
+6;"Gritti_2006_sections_GAD_neurons_quantitation_stereology";"Optical disector";"Top of cell";"8";"0,2";"0,8";"6";359;353;"0,04";"4,93";"mm3";1
+7;"Gritti_2006_sections_ChAT_neurons_quantitation";"Optical disector";"Top of cell";"8";"0,2";"0,8";"6";359;34;"0,08";"4,94";"mm3";1
+8;"Hain_2016_sections_cells_quantitation_stereology";;"Widest extent of cell";;"0,072";;"2";;;;;;1
+9;"Hardman_2002_STN_stereology";"Optical disector";;;;;"4";;;"0,069";"0,8";"mm3";1
+10;"Hardman_2002_GP_stereology";"Optical disector";;;;;"6";;;"0,069";"10,4";"mm3";1
+11;"Hardman_2002_EP_stereology";"Optical disector";;;;;"5,5";;;"0,069";"2,2";"mm3";1
+12;"Hardman_2002_SNc_stereology";"Optical disector";;;;;"5";;;"0,069";;;1
+13;"Hardman_2002_SNr_stereology";"Optical disector";;;;;"5";;;"0,069";;;1
+14;"Lawrence_2012_sections_glia_quantitation_nacc_stereology";"Optical disector";;;;;;;;"0,07";;;1
+15;"Lawrence_2012_sections_neurons_quantitation_nacc_stereology";"Optical disector";;;;;;;;"0,05";;;1
+16;"Löscher_2006_stereology";"Optical disector";;;;;"2";;;;;;1
+18;"Mori_2017_sections_TH_cells_quantitation_snc_stereology";"Optical disector";;;"0,25";;;;;;;;1
+19;"Nair-Roberts_2008_stereology";"Optical disector";"Top of nucleus";"20";"0,05";"0,55";;;;;;;1
+20;"Parish_2001_sections_snc_TH_stereology";"Optical disector";"Top of cell";;"0,0804";"1";"10";;;"0,1";;;1
+21;"Parish_2001_sections_snc_NR_stereology";"Optical disector";"Top of nucleus";;"0,0804";"1";"10";;;"0,1";;;1
+22;"Parish_2001_sections_str_stereology";"Optical disector";;;"0,0007";;"8";;;"0,1";;;1
+23;"Pickel_1999_sections_NPY_axonterminals_quantitation_stereology";"Physical disector";;;;;"18";;;;;;1
+25;"Richards_2007_stereology_SNr";"Physical disector";;;;;;;;;"1,43";"mm3";1
+26;"Richards_2007_stereology_SNc";"Physical disector";;;;;;;;;;;0
+27;"Sizemore_2016_stereology";"Physical disector";;;;;"7,5";;;;;;1
+28;"Uryu_1999_stereology";"Physical disector";;;;;"2";;;;;;1
+29;"Vadasz_2007_stereology";"Optical disector";;;;"0,55";;;209;"0,08";;;1
+30;"Vidyadhara_2016_stereology";"Optical disector";"Top of nucleus";"17";"0,16";"0,68";;;;;;;1
+31;"West_1996_stereology";"Optical disector";"Top of nucleus";;"0,1036";"0,75";"12";;150;"0,096";;;1
+32;"Wissman_2012_stereology_females_spines";"Physical disector";;;;;"15";;;"0,084";"3,86";"mm3";1
+33;"Wissman_2012_stereology_males_spines";"Physical disector";;;;;"15";;;"0,084";"3,77";"mm3";1
+34;"Wissman_2012_stereology_males_shaft";"Physical disector";;;;;"15";;;"0,45";"3,77";"mm3";1
+35;"Wissman_2012_stereology_females_shaft";"Physical disector";;;;;"15";;;"0,45";"3,86";"mm3";1
+36;"Baquet_2009_stereology";"Optical disector";"Top of nucleus";"20";"0,09";"0,91";;;;"0,1";;;1
+37;"Finkelstein_2000_stereology";"Optical disector";"Top of nucleus";;"0,034";;;;;"0,04";;;1
+38;"Smeyne_2005_stereology";"Optical disector";"Top of nucleus";;;;;;;;;;1
+39;"Zaborszky_2001_stereology";"Optical disector";;;"0,25";"0,7";;;264;;;;1
+40;"NMO_Henny_2013_ultrathin_VGluT2_terminals_quantitation_stereology";"Optical disector";"Top of synapse";"0,5";"0,00543";;;;79;;;;1
+41;"NMO_Henny_2013_ultrathin_VGAT_terminals_quantitation_stereology";"Optical disector";"Top of synapse";"0,5";"0,00543";;;;79;;;;1
+42;"NMO_Henny_2013_ultrathin_synapses_quantitation_stereology";"Optical disector";"Top of synapse";"0,5";;"0,01087";;;79;;;;1
+43;"Aguirre_2001_stereology";"Optical disector";;;;;;;;"0,07";;;1
+44;"Chan_1997_stereology";"Optical disector";"Top of nucleolus";"8";;"0,5";;;;"0,1";;;1
+45;"Frau_2011_stereology";"Optical disector";;"12";;;"3";;;;;;1
+46;"Gomide_2005_stereology";"Optical disector";;"12,5";;;;;;"0,1";"0,21";"mm3";1
+47;"Gonzales-Aparicio_2011_stereology";"Optical disector";;;"0,15";;;;;"0,04";;;1
+48;"Grieb_2013_stereology";"Optical disector";;"20";"0,11";;"10";;200;"0,12";;;1
+49;"Gross_2003_stereology";"Optical disector";"Top of nucleus";"0";"0,14";;;;;;;;1
+50;"Hermann_2013_stereology";"Optical disector";"Top of nucleus";"29,25";"0,25";"0,936";"10";;;"0,05";;;1
+51;"Horvath_2011_stereology";"Optical disector";;"20";;;;;120;"0,104";;;1
+52;"Ip_2017_ImageJ_stereology";"Optical disector";;"13";"0,15";;"13";;;"0,08";;;1
+53;"Ip_2017_stereology";"Optical disector";;"13";"0,15";;"13";;;"0,08";;;1
+54;"Janis_2008_stereology";"Optical disector";;"14";;"0,78";"6,5";;;"0,08";;;1
+55;"Johnson_2010_stereology_rat";"Optical disector";;"8";"0,11";"0,67";"7";;;"0,1";;;1
+56;"Johnson_2010_stereology_mouse";"Optical disector";;"8";"0,11";"0,67";"6,5";;;"0,1";;;1
+57;"Johnson_2010b_stereology_rat";"Optical disector";;"8";"0,11";"0,67";"7";;;"0,1";;;1
+58;"Johnson_2010b_stereology_mouse";"Optical disector";;"8";"0,11";"0,67";"6,5";;;"0,1";;;1
+59;"Kang_2010_stereology";"Optical disector";"Top of cell";"20";"0,32";;"12";;;;;;1
+60;"Kincaid_2001_stereology";"Optical disector";;"10";"0,07";"0,5";"11";331;;"0,085";;;1
+61;"Komnig_2016_stereology";"Optical disector";;;;;"6";;;;;;1
+62;"Komnig_2016b_stereology";"Optical disector";;;;;;;;;;;0
+63;"Liu_2004_stereology";"Optical disector";;;;;;;;"0,8";;;1
+64;"Ma_2009_stereology";"Optical disector";"Top of nucleus";;;;;;;;"0,14";"mm3";1
+65;"McCormack_2002_stereology";"Optical disector";;;;;;;;;;;0
+66;"Olson_2015_stereology";"Optical disector";;;;;;;;;;;0
+67;"Oorschot_1996_stereology_snc";"Optical disector";"Top of nucleolus";"15";;"0,429";"12,7";92;184;"0,074";"0,145";"mm3";1
+68;"Oorschot_1996_stereology_snr";"Optical disector";"Top of nucleus";"15";;"0,429";"14,2";314;321;"0,036";"1,028";"mm3";1
+69;"Pang_2016";"Optical disector";;"16";"0,60";;"10";;500;"0,096";;;1
+70;"Panneton_2010_stereology_snc";"Optical disector";"Top of cell";"10";"0,03";"0,83";"9";114;;;"0,269";"mm3";1
+71;"Panneton_2010_stereology_snr";"Optical disector";"Top of cell";"10";"0,03";"0,83";"9";286;;;"0,778";"mm3";1
+72;"Passos_2012_stereology_snc";"Optical disector";;;"1";"0,64";"6";28;1023;"0,068";"0,276";"mm3";1
+73;"Passos_2012_stereology_snr";"Optical disector";;;"1";"0,69";"6";78;519;"0,081";"1,28";"mm3";1
+74;"Passos_2012_stereology_sn";"Optical disector";;;"1";"0,67";"6";106;1542;;"1,556";"mm3";1
+75;"Price_2009_stereology";"Optical disector";;;"0,51";;;;;;;;1
+76;"Richter_2017_stereology";"Optical disector";;;;;;;;;;;0
+77;"Sanchez_2008_stereology";"Optical disector";"Top of cell";;;;;;;;;;1
+78;"Simkins_2012_stereology";;;;;;;;;;;;0
+79;"Smeyne_2016_sections_designbased_TH_neurons_quantitation_stereology";"Optical disector";;;;;;;;;;;0
+80;"Song_2012_stereology";"Optical disector";;"15";"0,17";;;;;"0,1";;;1
+81;"Stayte_2015_stereology_TH";"Optical disector";;"10";"0,56";;"10";;;"0,1";;;1
+82;"Stayte_2015_stereology_neun";"Optical disector";;"10";"0,22";;"10";;;"0,1";;;1
+83;"Sun_2012_stereology";"Optical disector";;"20";"0,625";;;;;;;;1
+84;"Taylor_2014_stereology";"Optical disector";"Top of cell";"22";"0,13";"0,85";"22,5";;175;"0,1";;;1
+85;"vanBregt_2012_stereology_neurons";"Optical disector";"Top of nucleolus";"27";"0,04";"1";"14,5";;266;"0,07";;;1
+86;"vanBregt_2012_stereology_TH";"Optical disector";;"10";"1";;"6";;;;;;1
+87;"Vidyadhara_2017_stereology";"Optical disector";;"17";"0,16";"0,68";;;;;;;1
+88;"Vu_2000_stereology";"Optical disector";;"27";"0,1";"0,9";"4";;200;"0,08";;;1
+89;"Winter_2007_stereology";"Optical disector";;;;;;;;"0,1";;;1
+90;"Aguirre_1999_stereology";"Optical disector";;"7";;"0,64";;;;"0,04";;;1
+91;"Andrews_2005_stereology";"Optical disector";;;;;;;;;;;0
+92;"Back_2013_stereology";"Optical disector";;;;;"6";;;;;;1
+93;"Bostanci_2008_stereology_left";"Optical disector";;"10";"0,048";"0,44";"11";;500;"0,065";;;1
+94;"Bostanci_2008_stereology_right";"Optical disector";;"10";"0,048";"0,44";"11";;500;"0,067";;;1
+95;"Bostanci_2013_stereology_left";"Optical disector";"Top of nucleus";;;;;;;"0,073";;;1
+96;"Bostanci_2013_stereology_right";"Optical disector";"Top of nucleus";;;;;;;"0,091";;;1
+97;"Bostanci_2010_stereology_left";"Optical disector";"Top of nucleus";;;;;;;"0,07";;;1
+98;"Bostanci_2010_stereology_right";"Optical disector";"Top of nucleus";;;;;;;"0,075";;;1
+99;"Bowenkamp_2000_stereology";"Optical disector";;;;;;;;;;;0
+100;"Breckenridge_2013_stereology_IHC_study4";"Optical disector";"Top of nucleus";"4";"0,25";"0,296";;;;"0,1";;;1
+101;"Bukhatwa_2009_stereology";"Optical disector";;;;;;;;"0,11";;;1
+102;"Carta_2011_stereology";"Optical disector";;"12";;;;;;;;;1
+103;"Chadi_1993_stereology_TH";"Optical disector";;;;;;;;"0,09";;;1
+104;"Chadi_1993_stereology_GFAP";"Optical disector";;;;;;;;"0,08";;;1
+105;"Chalimoniuk_2006_stereology";"Optical disector";;;;;"8";;;;;;1
+106;"Depboylu_2013_stereology";"Optical disector";;;;;;;;;;;0
+107;"Gomide_2005b_stereology_TH_ipsi";"Optical disector";;"12,5";;;;;;"0,08";"0,21";"mm3";1
+108;"Gomide_2005b_stereology_GFAP_ipsi";"Optical disector";;"12,5";;;;;;"0,14";"0,21";"mm3";1
+109;"Gomide_2005b_stereology_OX-42_ipsi";"Optical disector";;"12,5";;;;;;"0,1";"0,21";"mm3";1
+110;"Gomide_2005b_stereology_OX-42_contra";"Optical disector";;"12,5";;;;;;"0,09";"0,21";"mm3";1
+111;"Gomide_2005b_stereology_GFAP_contra";"Optical disector";;"12,5";;;;;;"0,15";"0,21";"mm3";1
+112;"Gomide_2005b_stereology_TH_contra";"Optical disector";;"12,5";;;;;;"0,1";"0,21";"mm3";1
+114;"Korkmaz_2012_stereology";"Optical disector";"Top of cell";"25";"0,395";;"6";;;"0,1";;;1
+115;"Lorenc-Koci_2011_stereology";"Optical disector";;"15";"0,05";;"9";;;;;;1
+116;"Omelchenko_2016_stereology";"Optical disector";;"16";;;;150;350;"0,1";;;1
+118;"Purisai_2007_stereology";"Optical disector";;;;;;;;;;;0
+119;"Ratzka_2012_stereology_P0";"Optical disector";;"12";"0,30";"0,5";"12";220;200;;;;1
+120;"Ratzka_2012_stereology_P28";"Optical disector";;"17";"0,35";"0,65";"12";220;200;;;;1
+121;"Rodrigues_2001_stereology";"Optical disector";;;;;"1";;;;;;1
+122;"Saal_2015_stereology";"Optical disector";;;;;;;;;;;0
+123;"Shaw_2010_stereology";"Optical disector";"Top of nucleus";;;;;;;;;;1
+124;"Stanic_2004_stereology";"Optical disector";;;"0,043";;"12";;;"0,079";;;1
+125;"Tasselli_2013_stereology";;;;;;;;;;;;0
+126;"Tatenhorst_2014_stereology";"Optical disector";;;"0,25";;;;;;;;1
+127;"Walker_2012b_stereology";"Optical disector";"Top of cell";"8";"0,16";"0,57";;;;"0,1";;;1
+128;"Walters_2012_stereology";"Optical disector";"Top of nucleolus";"6";;;;;170;"0,1";;;1
+129;"Westphal_2016_stereology";"Optical disector";;"14";;;"4";70;350;"0,1";;;1
+130;"Wild_2013_stereology";"Optical disector";;;;;;;;;;;0
+131;"Champy_2003_stereology";;;;;;;;;;;;0
+132;"Lieb_1996_stereology";;;;;;;;;;;;1
+133;"O'Kusky_1999_stereology";;;;;;;28;1250;;;;1
+134;"Rosen_2001_stereology";;"Top of nucleolus";;;;;;;;;;1
+137;"Breckenridge_2013_IHC_study5";"Optical disector";"Top of nucleus";"4";"0,25";"0,225";;;;"0,1";;;1
+138;"Breckenridge_2013_fluorescence_stereology";"Optical disector";"Top of nucleus";"4";"0,25";"0,182";;;;"0,1";;;1
+139;"Abdurakhmanova_2017_stereology";"Optical disector";;"10";"0,16";;"5";;;;;;1
+140;"Andreassen_2000_stereology";"Optical disector";;;;;;;;;;;0
+141;"Andreassen_1999";"Optical disector";;"10";"0,002";"0,52";;;;"0,1";;;1
+142;"Ashwell_1996_stereology";"Optical disector";;;;;;;;"0,03";"11,4";"mm3";1
+143;"Busceti_2008_PN1_stereology";"Optical disector";;;;;"5";;;;;;1
+144;"Busceti_2008_PN8_stereology";"Optical disector";;;;;"6";;;;;;1
+145;"Busceti_2008_PN16_stereology";"Optical disector";;;;;"8";;;;;;1
+146;"Butler_1999_stereology";"Physical disector";"Top of synapse";;;;"10";;;;;;1
+147;"Canudas_2000_stereology";"Optical disector";;;;;"12";;;"0,05";"23,2";"mm3";1
+148;"Covey_2007_stereology";"Optical disector";;"15";;"0,49";"10";;322;"0,046";"11,63";"mm3";1
+149;"Cullity_2018_DRD1P17F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,02";"mm3";1
+150;"Cullity_2018_DRD1P17M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"4,66";"mm3";1
+151;"Cullity_2018_DRD1P25F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,58";"mm3";1
+152;"Cullity_2018_DRD1P25M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,31";"mm3";1
+153;"Cullity_2018_DRD1P35F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,54";"mm3";1
+154;"Cullity_2018_DRD1P35M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,79";"mm3";1
+155;"Cullity_2018_DRD1P49F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"6,03";"mm3";1
+156;"Cullity_2018_DRD1P49M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,6";"mm3";1
+157;"Cullity_2018_DRD1P70F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"6,06";"mm3";1
+158;"Cullity_2018_DRD1P70M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,99";"mm3";1
+159;"Cullity_2018_DRD2P17F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"4,87";"mm3";1
+160;"Cullity_2018_DRD2P17M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"4,76";"mm3";1
+161;"Cullity_2018_DRD2P25F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"4,75";"mm3";1
+162;"Cullity_2018_DRD2P25M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,02";"mm3";1
+163;"Cullity_2018_DRD2P35F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,09";"mm3";1
+164;"Cullity_2018_DRD2P35M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"4,84";"mm3";1
+165;"Cullity_2018_DRD2P49F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,16";"mm3";1
+166;"Cullity_2018_DRD2P49M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,4";"mm3";1
+167;"Cullity_2018_DRD2P70F_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,61";"mm3";1
+168;"Cullity_2018_DRD2P70M_stereology";"Optical disector";;;"0,4";;"10";;500;"0,045";"5,63";"mm3";1
+169;"Filice_2016_stereology";"Optical disector";;"20";"0,11";"0,87";"7,5";;;"0,09";;;1
+170;"Day-Wilson_2006_stereology";"Optical disector";;"8,5";"0,0048";"0,753";"9";153;804;"0,05";"25,08";"mm3";1
+171;"Dodds_2014";"Optical disector";;;"0,0064";;;;359;;;;1
+172;"Gomide_2005b_str_gfap";"Optical disector";;;;;;;;"0,09";"21,47";"mm3";1
+173;"Gomide_2005b_str_ox-42";"Optical disector";;;;;;;;"0,07";;;1
+174;"Gomide_2005_stereology_str_s100";"Optical disector";;;;;;;;"0,1";"20,48";"mm3";1
+175;"Gomide_2005_stereology_str_bfgf";"Optical disector";;;;;;;;"0,08";"22,04";"mm3";1
+176;"Hawlitschka_2017_stereology";"Optical disector";;;;;;;;;;;0
+177;"Ibanez-Sandoval_2017_stereology";"Optical disector";;"27";"0,089";;;;;"0,12";;;1
+178;"Larsson_2001_stereology_DARPP";"Optical disector";"Top of cell";"8,5";;;"8";;150;"0,092";;;1
+179;"Larsson_2001_stereology_ChAT";"Optical disector";"Top of cell";"8,5";;;"8";;150;"0,104";;;1
+180;"Larsson_2001_stereology_TrkA";"Optical disector";"Top of cell";"8,5";;;"8";;150;"0,106";;;1
+181;"Larsson_2001_stereology_p75";"Optical disector";"Top of cell";"8,5";;;"8";;150;;;;1
+182;"Larsson_2001_stereology_NPY";"Optical disector";"Top of cell";"8,5";;;"8";;150;"0,094";;;1
+183;"Larsson_2001_stereology_PV";"Optical disector";"Top of cell";"8,5";;;"8";;150;"0,086";;;1
+184;"Lauber_2018_stereology";"Optical disector";;"20";"0,081";"0,925";"6,5";;;"0,1";;;1
+185;"Lauber_2016_stereology";"Optical disector";;"20";"0,08";"0,95";"6,5";;;"0,09";;;1
+186;"Lawhorn_2009_stereology";"Optical disector";;;"0,012";;;;;;"14,085";"mm3";1
+187;"Lawhorn_2008_stereology_DLstrio";"Optical disector";"Top of cell";"12";;;"10";100;;;"0,64";"mm3";1
+188;"Lawhorn_2008_stereology_DMstrio";"Optical disector";"Top of cell";"12";;;"10";100;;;"0,63";"mm3";1
+189;"Lawhorn_2008_stereology_VLstrio";"Optical disector";"Top of cell";"12";;;"10";100;;;"0,62";"mm3";1
+190;"Lawhorn_2008_stereology_VMstrio";"Optical disector";"Top of cell";"12";;;"10";100;;;"0,66";"mm3";1
+191;"Lawhorn_2008_stereology_Dlmatrix";"Optical disector";"Top of cell";"12";;;"10";100;;;"2,64";"mm3";1
+192;"Lawhorn_2008_stereology_DMmatrix";"Optical disector";"Top of cell";"12";;;"10";100;;;"2,7";"mm3";1
+193;"Lawhorn_2008_stereology_VLmatrix";"Optical disector";"Top of cell";"12";;;"10";100;;;"2,58";"mm3";1
+194;"Lawhorn_2008_stereology_VMmatrix";"Optical disector";"Top of cell";"12";;;"10";100;;;"2,65";"mm3";1
+195;"Leventhal_2002_stereology";"Optical disector";;;"0,05";;"4";;;;;;1
+196;"Lohr_2000_stereology";"Physical disector";;;;;"4";;;;;;1
+197;"Luk_2001_stereology_PV";"Optical disector";"Top of cell";"10";"0,0064";;;;;;"22,6";"mm3";1
+198;"Luk_2001_stereology_nissl";"Optical disector";"Top of nucleus";"8";"0,0144";;;;;;"22,6";"mm3";1
+199;"Smith_2008_stereology";"Optical disector";;"5";"0,0625";;;;;;;;1
+200;"Peterson_1999_stereology_neurons";"Optical disector";"Top of nucleolus";"22";;;;;;;"10,7";"mm3";1
+201;"Peterson_1999_stereology_immuno";"Optical disector";"Top of cell";"22";;;;;;;"10,7";"mm3";1
+202;"Oorschot_1996_stereology_cpu";"Optical disector";;"15";;"0,429";"12,8";343;387;"0,035";"19,9";"mm3";1
+203;"Petersen_2000_stereology";"Optical disector";;;;;;;;"0,08";;;1
+204;"Ramaswamy_2009_stereology";"Optical disector";;"6";;"0,5";"6";;;;;;1
+205;"Richner_2009_6m_stereology";"Optical disector";;"5";"0,002";"0,588";"12";150;;;"2,68";"mm3";1
+206;"Richner_2009_12m_stereology";"Optical disector";;"5";"0,002";"0,588";"12";150;;;"2,99";"mm3";1
+207;"Roberts_2001_stereology";"Physical disector";"Top of synapse";;;;"6";;96;;"37,5";"mm3";1
+208;"Rodriguez_1999_stereology";"Physical disector";"Top of synapse";;;;;;;;;;1
+209;"Rymar_2004_stereology";"Optical disector";;"10";"0,07";"0,588";"13";;;;"20,77";"mm3";1
+210;"Samadi_2013_11w_stereology";"Optical disector";;"10";"0,0144";;;;;"0,02";;;1
+211;"Samadi_2013_13w_stereology";"Optical disector";;"10";"0,0144";;;;;"0,03";;;1
+212;"Saraceno_2012_stereology";"Optical disector";;;;;;;;;;;0
+213;"Song_2013_chatpv_stereology";"Optical disector";;"12";"0,16";;;;;"0,1";"9,17";"mm3";1
+214;"Song_2013_thio_stereology";"Optical disector";;"12";"0,0011";;;;;"0,1";"9,17";"mm3";1
+215;"Song_2013_nnos_stereology";"Optical disector";;"12";"0,132";;;;;"0,1";"9,17";"mm3";1
+216;"Uryu_2001_stereology";"Physical disector";"Top of synapse";;;;"20";;;;;;1
+217;"Van de Berg_2002_stereology";"Optical disector";;"10";;"0,322";"9";;600;;;;1
+218;"Yalcin-Cakmakli_2018_chat_stereology";"Optical disector";;"14";"0,36";;;;;"0,17";;;1
+219;"Yalcin-Cakmakli_2018_pv_stereology";"Optical disector";;"14";"0,15";;;;;"0,17";;;1
+220;"Zhang_2016_stereology_neurons";"Physical disector";"Top of nucleus";;;;;;175;;;;1
+221;"Zhang_2016_stereology_synapses";"Physical disector";"Top of synapse";;;;;;;;;;1

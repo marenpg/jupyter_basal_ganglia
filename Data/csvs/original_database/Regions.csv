@@ -1,0 +1,31 @@
+"ID";"Region_name";"Nomenclature"
+1;"WHS_Caudoputamen";3
+2;"AMBA_Caudoputamen";2
+3;"WHS_Accumbens nucleus";3
+8;"WHS_Substantia nigra compact part";3
+9;"WHS_Substantia nigra reticular part";3
+10;"AMBA_pars compacta";2
+11;"AMBA_pars reticulata";2
+13;"AMBA_striatum ventral region";2
+14;"AMBA_pallidum dorsal region";2
+15;"AMBA_pallidum ventral region";2
+16;"WHS_Substantia nigra lateral part";3
+17;"AMBA_Internal segment";2
+18;"AMBA_External segment";2
+19;"AMBA_Nucleus accumbens";2
+20;"AMBA_Fundus of striatum";2
+21;"AMBA_Substantia innominata";2
+22;"WHS_Subthalamic nucleus";3
+23;"AMBA_Subthalamic nucleus";2
+24;"WHS_Striatum";3
+25;"WHS_Substantia nigra";3
+26;"AMBA_Substantia nigra";2
+27;"AMBA_Striatum";2
+28;"AMBA_Pallidum";2
+29;"WHS_Globus pallidus";3
+30;"WHS_Entopeduncular nucleus";3
+31;"AMBA_Midbrain";2
+32;"WHS_Brainstem";3
+33;"Brain";
+34;"Basal ganglia";
+35;"AMBA_Ventral tegmental area";2
