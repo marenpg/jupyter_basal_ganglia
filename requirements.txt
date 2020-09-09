@@ -1,20 +1,22 @@
 jupyter
 
 neo4j
+pandas
 xmltodict
+NumPy
 
 # blue brain nexus
 nexus-sdk
 
 # Allen sdk and dependencies
-allensdk
-NumPy
+#allensdk
+
 SciPy
 matplotlib
-h5py
-pandas
-pynrrd
-Jinja2
+#h5py
+
+#pynrrd
+#Jinja2
 
 # BAMS2 connectivity
 requests
