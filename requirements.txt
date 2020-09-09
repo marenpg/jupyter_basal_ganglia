@@ -1,4 +1,5 @@
 jupyter
+voila
 
 neo4j
 pandas
