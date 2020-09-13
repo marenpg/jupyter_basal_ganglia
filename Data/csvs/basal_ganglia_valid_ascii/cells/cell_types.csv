@@ -12,95 +12,93 @@
 10,23,Medium sized cell,,9
 11,25,Dopamine receptor 3 / enkephalin co-expressing,,1
 12,26,Dopamine receptor 3 expressing / enkephalin negative,,1
-13,27,Substance P / PPA co-expressing,,1
-14,29,Dopamine receptor 2  / enkephalin co-expressing,,1
-15,30,Dopamine receptor 1  / enkephalin co-expressing,,1
-16,31,Pre proenkephalin expressing,,1
-17,33,Cholinergic neuron,NLX:148005,2
-18,34,Phosphate activated glutaminase expressing,,1
-19,36,Calbindin expressing,,6
-20,37,Parvalbumin expressing,,2
-21,38,Somatostatin expressing,,2
-22,39,Calretinin expressing,,2
-23,40,NADPHd expressing,,9
-24,41,Neuropeptide Y expressing,,2
-25,42,Neuron,ILX:0107497,6
-26,43,Tyrosine hydroxylase negative,,6
-27,45,Low huntingtin expressing/calbindin expressing,,1
-28,46,Moderate huntingtin expressing/calbindin expressing,,1
-29,47,Strong huntingtin expressing/calbindin expressing,,1
-30,48,Low huntingtin expressing/calbindin negative,,1
-31,49,Moderate huntingtin expressing/calbindin negative,,1
-32,50,Strong huntingtin expressing/calbindin negative,,1
-33,51,Huntingtin negative/calbindin expressing,,1
-34,53,Glial cell,SAO:313023570,8
-35,54,GAD67 expressing,,2
-36,55,GAD67 / parvalbumin coexpressing,,2
-37,56,Large sized cell,,9
-38,57,Basic fibroblast growth factor expressing,,9
-39,58,"Basic fibroblast growth factor expressing, small size",,9
-40,59,"Basic fibroblast growth factor expressing, medium size",,9
-41,60,"Basic fibroblast growth factor expressing, large size",,9
-42,61,GABAergic neuron,NLX:148043,2
-43,62,"GAD65, lightly expressing",,2
-44,63,"GAD65, heavily expressing",,2
-45,64,"GAD67, lightly expressing",,2
-46,65,"GAD67, heavily expressing",,2
-47,66,Glutamine synthetase expressing,,4
-48,67,GAD expressing,,2
-49,68,ApoD expressing,,8
-50,69,CB1R expressing,,6
-51,70,Astrocyte,SAO:1394521419,4
-52,71,Macrophage,SAO:185843373,3
-53,72,Lipocortin 1 expressing,,8
-54,73,Phosphotyrosine expressing,,8
-55,74,Kappa opioid receptor expressing,,6
-56,75,"NADPHd, weakly expressing",,9
-57,76,"NADPHd, strongly expressing",,9
-58,77,VGLUT1 expressing,,1
-59,78,VGLUT1 negative,,1
-60,79,Substance P / enkephalin co-expressing,,1
-61,80,VGLUT2 expressing,,1
-62,81,VGAT expressing,,2
-63,82,XPA expressing,,6
-64,83,XPB expressing,,6
-65,85,Enkephalin expressing,,1
-66,86,Glucocorticoid receptor expressing,,6
-67,87,C-fos expressing,,6
-68,88,Cell,,9
-69,89,Microglia,SAO:789292116,3
-70,90,Inner globus pallidus neuron,,1
-71,91,Outer globus pallidus neuron,,1
-72,92,PSA-NCAM expressing,,9
-73,93,Somatostatin / calretinin co-expressing,,2
-74,94,Somatostatin / nNOS co-expressing,,2
-75,95,VIP / CCK co-expressing,,2
-76,96,VIP / calretinin co-expressing,,2
-77,97,VIP expressing,,2
-78,98,Non-neuronal cell,,8
-79,100,Acidic fibroblast growth factor expressing,,9
-80,101,"Dopaminergic neuron, normal morphology",,1
-81,102,Dopaminergic neuron,,1
-82,103,cAMP response element-positive,,6
-83,104,Prototypic pallidal neuron,,1
-84,105,Nigrostriatal neuron,,1
-85,106,Dopaminergic nigrostriatal neuron,,1
-86,107,Non-dopaminergic nigrostriatal neuron,,1
-87,108,Subthalamic nucleus projection neuron,,1
-88,109,Rostral subthalamic nucleus projection neuron,,1
-89,110,Caudal subthalamic nucleus projection neuron,,1
-90,111,Lateral subthalamic nucleus projection neuron,,1
-91,112,Medial subthalamic nucleus projection neuron,,1
-92,113,"Astrocyte, S100b expressing",,4
-93,114,"Astrocyte, GFAP expressing",,4
-94,115,Oligodendrocyte,,5
-95,116,Perineuronal net-surrounded neuron,,2
-96,117,Serotonergic neuron,NLX:147837,2
-97,118,"Microglia, resting",SAO:6363641087,3
-98,119,"Microglia, active",,3
-99,120,Non-dopaminergic neuron,,6
-100,121,GAD65 expressing,,2
-101,122,p75 neurotrophin receptor expressing,,6
-102,123,TrkA expressing,,6
-103,124,Corticostriatal neuron,,1
-104,125,Pre-enkephalin expressing,,1
+13,29,Dopamine receptor 2  / enkephalin co-expressing,,1
+14,30,Dopamine receptor 1  / enkephalin co-expressing,,1
+15,31,Pre proenkephalin expressing,,1
+16,33,Cholinergic neuron,NLX:148005,2
+17,34,Phosphate activated glutaminase expressing,,1
+18,36,Calbindin expressing,,6
+19,37,Parvalbumin expressing,,2
+20,38,Somatostatin expressing,,2
+21,39,Calretinin expressing,,2
+22,40,NADPHd expressing,,9
+23,41,Neuropeptide Y expressing,,2
+24,42,Neuron,ILX:0107497,6
+25,43,Tyrosine hydroxylase negative,,6
+26,45,Low huntingtin expressing/calbindin expressing,,1
+27,46,Moderate huntingtin expressing/calbindin expressing,,1
+28,47,Strong huntingtin expressing/calbindin expressing,,1
+29,48,Low huntingtin expressing/calbindin negative,,1
+30,49,Moderate huntingtin expressing/calbindin negative,,1
+31,50,Strong huntingtin expressing/calbindin negative,,1
+32,51,Huntingtin negative/calbindin expressing,,1
+33,53,Glial cell,SAO:313023570,8
+34,54,GAD67 expressing,,2
+35,55,GAD67 / parvalbumin coexpressing,,2
+36,56,Large sized cell,,9
+37,57,Basic fibroblast growth factor expressing,,9
+38,58,"Basic fibroblast growth factor expressing, small size",,9
+39,59,"Basic fibroblast growth factor expressing, medium size",,9
+40,60,"Basic fibroblast growth factor expressing, large size",,9
+41,61,GABAergic neuron,NLX:148043,2
+42,62,"GAD65, lightly expressing",,2
+43,63,"GAD65, heavily expressing",,2
+44,64,"GAD67, lightly expressing",,2
+45,65,"GAD67, heavily expressing",,2
+46,66,Glutamine synthetase expressing,,4
+47,67,GAD expressing,,2
+48,68,ApoD expressing,,8
+49,69,CB1R expressing,,6
+50,70,Astrocyte,SAO:1394521419,4
+51,71,Macrophage,SAO:185843373,3
+52,72,Lipocortin 1 expressing,,8
+53,73,Phosphotyrosine expressing,,8
+54,74,Kappa opioid receptor expressing,,6
+55,75,"NADPHd, weakly expressing",,9
+56,76,"NADPHd, strongly expressing",,9
+57,77,VGLUT1 expressing,,1
+58,78,VGLUT1 negative,,1
+59,79,Substance P / enkephalin co-expressing,,1
+60,80,VGLUT2 expressing,,1
+61,81,VGAT expressing,,2
+62,82,XPA expressing,,6
+63,83,XPB expressing,,6
+64,85,Enkephalin expressing,,1
+65,86,Glucocorticoid receptor expressing,,6
+66,87,C-fos expressing,,6
+67,88,Cell,,9
+68,89,Microglia,SAO:789292116,3
+69,90,Inner globus pallidus neuron,,1
+70,91,Outer globus pallidus neuron,,1
+71,93,Somatostatin / calretinin co-expressing,,2
+72,94,Somatostatin / nNOS co-expressing,,2
+73,95,VIP / CCK co-expressing,,2
+74,96,VIP / calretinin co-expressing,,2
+75,97,VIP expressing,,2
+76,98,Non-neuronal cell,,8
+77,100,Acidic fibroblast growth factor expressing,,9
+78,101,"Dopaminergic neuron, normal morphology",,1
+79,102,Dopaminergic neuron,,1
+80,103,cAMP response element-positive,,6
+81,104,Prototypic pallidal neuron,,1
+82,105,Nigrostriatal neuron,,1
+83,106,Dopaminergic nigrostriatal neuron,,1
+84,107,Non-dopaminergic nigrostriatal neuron,,1
+85,108,Subthalamic nucleus projection neuron,,1
+86,109,Rostral subthalamic nucleus projection neuron,,1
+87,110,Caudal subthalamic nucleus projection neuron,,1
+88,111,Lateral subthalamic nucleus projection neuron,,1
+89,112,Medial subthalamic nucleus projection neuron,,1
+90,113,"Astrocyte, S100b expressing",,4
+91,114,"Astrocyte, GFAP expressing",,4
+92,115,Oligodendrocyte,,5
+93,116,Perineuronal net-surrounded neuron,,2
+94,117,Serotonergic neuron,NLX:147837,2
+95,118,"Microglia, resting",SAO:6363641087,3
+96,119,"Microglia, active",,3
+97,120,Non-dopaminergic neuron,,6
+98,121,GAD65 expressing,,2
+99,122,p75 neurotrophin receptor expressing,,6
+100,123,TrkA expressing,,6
+101,124,Corticostriatal neuron,,1
+102,125,Pre-enkephalin expressing,,1

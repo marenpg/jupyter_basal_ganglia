@@ -218,7 +218,7 @@
 216,14,Expression_tyrosine hydroxylase,4.0,ILX:0112125,482.0,Saal_2015_sections_TH_neurons_quantitation
 217,14,Expression_tyrosine hydroxylase,4.0,ILX:0112125,484.0,Shaw_2010_sections_TH_neurons_quantitation
 218,14,Expression_tyrosine hydroxylase,4.0,ILX:0112125,485.0,Stanic_2004_sections_neurons_quantitation
-219,14,Expression_tyrosine hydroxylase,4.0,ILX:0112125,486.0,Sunstroem_1987_sections_TH_neurons_quantitation
+219,14,Expression_tyrosine hydroxylase,4.0,ILX:0112125,486.0,Sunstrom_1987_sections_TH_neurons_quantitation
 220,14,Expression_tyrosine hydroxylase,4.0,ILX:0112125,487.0,Tasselli_2013_sections_TH_neurons_quantitation
 221,14,Expression_tyrosine hydroxylase,4.0,ILX:0112125,488.0,Tatenhorst_2014_sections_TH_neurons_quantitation
 222,14,Expression_tyrosine hydroxylase,4.0,ILX:0112125,490.0,Walker_2012b_sections_Thneg_neurons_quantitation
@@ -355,12 +355,12 @@
 353,37,Expression_huntingtin,4.0,,142.0,Kosinski_1997_sections_htt+++/calb-_neurons_quantitation
 354,38,Expression_GAD67 mRNA,4.0,,147.0,Lenz_1994_sections_GAD67_neurons_quantitation
 355,38,Expression_GAD67 mRNA,4.0,,148.0,Lenz_1994_sections_PV_GAD67_neurons_quantitation
-356,38,Expression_GAD67 mRNA,4.0,,167.0,Loescher_2006_sections_GAD67light_mRNA_neurons_quantitation
-357,38,Expression_GAD67 mRNA,4.0,,168.0,Loescher_2006_sections_GAD67heavy_mRNA_neurons_quantitation
-358,38,Expression_GAD67 mRNA,4.0,,309.0,Loescher_2006_sections_GAD67_heavily_neurons_distribution
-359,38,Expression_GAD67 mRNA,4.0,,310.0,Loescher_2006_sections_GAD67_lightly_neurons_distribution
-360,38,Expression_GAD67 mRNA,4.0,,536.0,Loescher_2006_sham_sections_GAD67heavy_neurons_quantitation
-361,38,Expression_GAD67 mRNA,4.0,,537.0,Loescher_2006_sham_sections_GAD67light_neuron_quantitation
+356,38,Expression_GAD67 mRNA,4.0,,167.0,Loscher_2006_sections_GAD67light_mRNA_neurons_quantitation
+357,38,Expression_GAD67 mRNA,4.0,,168.0,Loscher_2006_sections_GAD67heavy_mRNA_neurons_quantitation
+358,38,Expression_GAD67 mRNA,4.0,,309.0,Loscher_2006_sections_GAD67_heavily_neurons_distribution
+359,38,Expression_GAD67 mRNA,4.0,,310.0,Loscher_2006_sections_GAD67_lightly_neurons_distribution
+360,38,Expression_GAD67 mRNA,4.0,,536.0,Loscher_2006_sham_sections_GAD67heavy_neurons_quantitation
+361,38,Expression_GAD67 mRNA,4.0,,537.0,Loscher_2006_sham_sections_GAD67light_neuron_quantitation
 362,39,Expression_parvalbumin mRNA,4.0,,148.0,Lenz_1994_sections_PV_GAD67_neurons_quantitation
 363,39,Expression_parvalbumin mRNA,4.0,,311.0,Allen_PV_ISH_75457579_sections_PV_neurons_quantitation
 364,40,Morphology_large size,2.0,NLX:10930,152.0,Lolova_1995_3m_sections_nissl_large_neurons_quantitation
@@ -378,15 +378,15 @@
 376,41,Expression_basic fibroblast growth factor,4.0,,164.0,Lolova_1995_12m_sections_bFGF_neuron_quantitation
 377,41,Expression_basic fibroblast growth factor,4.0,,334.0,Gomide_2005_sections_bgfg_cells_quantitation
 378,41,Expression_basic fibroblast growth factor,4.0,,367.0,Liu_2004_sections_FGF2_cells_quantitation
-379,42,Expression_GABA,4.0,SAO:229636300,165.0,Loescher_2006_sections_GABA_neurons_quantitation
-380,42,Expression_GABA,4.0,SAO:229636300,306.0,Loescher_2006_sections_GABA_neurons_distribution
-381,42,Expression_GABA,4.0,SAO:229636300,533.0,Loescher_2006_sham_sections_GABA_neurons_quantitation
-382,43,Expression_GAD65 mRNA,4.0,,166.0,Loescher_2006_sections_GAD65light_mRNA_neurons_quantitation
-383,43,Expression_GAD65 mRNA,4.0,,169.0,Loescher_2006_sections_GAD65heavy_mRNA_neurons_quantitation
-384,43,Expression_GAD65 mRNA,4.0,,307.0,Loescher_2006_sections_GAD65_heavy_neurons_distribution
-385,43,Expression_GAD65 mRNA,4.0,,308.0,Loescher_2006_sections_GAD65_lightly_neurons_distribution
-386,43,Expression_GAD65 mRNA,4.0,,534.0,Loescher_2006_sham_sections_GAD65heavy_neurons_quantitation
-387,43,Expression_GAD65 mRNA,4.0,,535.0,Loescher_2006_sham_sections_GAD65light_neurons_quantitation
+379,42,Expression_GABA,4.0,SAO:229636300,165.0,Loscher_2006_sections_GABA_neurons_quantitation
+380,42,Expression_GABA,4.0,SAO:229636300,306.0,Loscher_2006_sections_GABA_neurons_distribution
+381,42,Expression_GABA,4.0,SAO:229636300,533.0,Loscher_2006_sham_sections_GABA_neurons_quantitation
+382,43,Expression_GAD65 mRNA,4.0,,166.0,Loscher_2006_sections_GAD65light_mRNA_neurons_quantitation
+383,43,Expression_GAD65 mRNA,4.0,,169.0,Loscher_2006_sections_GAD65heavy_mRNA_neurons_quantitation
+384,43,Expression_GAD65 mRNA,4.0,,307.0,Loscher_2006_sections_GAD65_heavy_neurons_distribution
+385,43,Expression_GAD65 mRNA,4.0,,308.0,Loscher_2006_sections_GAD65_lightly_neurons_distribution
+386,43,Expression_GAD65 mRNA,4.0,,534.0,Loscher_2006_sham_sections_GAD65heavy_neurons_quantitation
+387,43,Expression_GAD65 mRNA,4.0,,535.0,Loscher_2006_sham_sections_GAD65light_neurons_quantitation
 388,43,Expression_GAD65 mRNA,4.0,,630.0,Laprade_1997_sections_ish_GAD65_neurons_quantitation
 389,44,Expression_glutamine synthetase,4.0,,171.0,McArthur_2016_female_sections_GS_cells_quantitation
 390,44,Expression_glutamine synthetase,4.0,,172.0,McArthur_2016_male_sections_GS_cells_quantitation

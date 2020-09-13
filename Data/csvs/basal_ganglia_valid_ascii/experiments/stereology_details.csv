@@ -1,213 +1,213 @@
-,ID,Stereology_details_name,Probe,Identification_feature,Disector_height,Area_subfraction,Height_subfraction,Investigated_sections,Investigated_fields,Counted_objects,Coefficient_of_error,Estimated_volume,Volume_unit,any_except_probe,SSMA_TimeStamp
-0,4,Gritti_2006_sections_cells_quantitation_stereology,Optical disector,Top of cell,8,0.2,0.8,6,356,545,0.04,4.91,mm3,1,0x0000000000002243
-1,5,Gritti_2006_sections_PAG_neurons_quantitation_stereology,Optical disector,Top of cell,8,0.2,0.8,6,356,495,0.02,4.91,mm3,1,0x0000000000002244
-2,6,Gritti_2006_sections_GAD_neurons_quantitation_stereology,Optical disector,Top of cell,8,0.2,0.8,6,359,353,0.04,4.93,mm3,1,0x0000000000002245
-3,7,Gritti_2006_sections_ChAT_neurons_quantitation,Optical disector,Top of cell,8,0.2,0.8,6,359,34,0.08,4.94,mm3,1,0x0000000000002246
-4,8,Hain_2016_sections_cells_quantitation_stereology,,Widest extent of cell,,0.072,,2,,,,,,1,0x0000000000002247
-5,9,Hardman_2002_STN_stereology,Optical disector,,,,,4,,,0.069,0.8,mm3,1,0x0000000000002248
-6,10,Hardman_2002_GP_stereology,Optical disector,,,,,6,,,0.069,10.4,mm3,1,0x0000000000002249
-7,11,Hardman_2002_EP_stereology,Optical disector,,,,,5,,,0.069,2.2,mm3,1,0x000000000000224A
-8,12,Hardman_2002_SNc_stereology,Optical disector,,,,,5,,,0.069,,,1,0x000000000000224B
-9,13,Hardman_2002_SNr_stereology,Optical disector,,,,,5,,,0.069,,,1,0x000000000000224C
-10,14,Lawrence_2012_sections_glia_quantitation_nacc_stereology,Optical disector,,,,,,,,0.07,,,1,0x000000000000224D
-11,15,Lawrence_2012_sections_neurons_quantitation_nacc_stereology,Optical disector,,,,,,,,0.05,,,1,0x000000000000224E
-12,16,Loescher_2006_stereology,Optical disector,,,,,2,,,,,,1,0x000000000000224F
-13,18,Mori_2017_sections_TH_cells_quantitation_snc_stereology,Optical disector,,,0.25,,,,,,,,1,0x0000000000002250
-14,19,Nair-Roberts_2008_stereology,Optical disector,Top of nucleus,20,0.05,0.55,,,,,,,1,0x0000000000002251
-15,20,Parish_2001_sections_snc_TH_stereology,Optical disector,Top of cell,,0.0804,1.0,10,,,0.1,,,1,0x0000000000002252
-16,21,Parish_2001_sections_snc_NR_stereology,Optical disector,Top of nucleus,,0.0804,1.0,10,,,0.1,,,1,0x0000000000002253
-17,22,Parish_2001_sections_str_stereology,Optical disector,,,0.0007,,8,,,0.1,,,1,0x0000000000002254
-18,23,Pickel_1999_sections_NPY_axonterminals_quantitation_stereology,Physical disector,,,,,18,,,,,,1,0x0000000000002255
-19,25,Richards_2007_stereology_SNr,Physical disector,,,,,,,,,1.43,mm3,1,0x0000000000002256
-20,26,Richards_2007_stereology_SNc,Physical disector,,,,,,,,,,,0,0x0000000000002257
-21,27,Sizemore_2016_stereology,Physical disector,,,,,7,,,,,,1,0x0000000000002258
-22,28,Uryu_1999_stereology,Physical disector,,,,,2,,,,,,1,0x0000000000002259
-23,29,Vadasz_2007_stereology,Optical disector,,,,0.55,,,209,0.08,,,1,0x000000000000225A
-24,30,Vidyadhara_2016_stereology,Optical disector,Top of nucleus,17,0.16,0.68,,,,,,,1,0x000000000000225B
-25,31,West_1996_stereology,Optical disector,Top of nucleus,,0.1036,0.75,12,,150,0.096,,,1,0x000000000000225C
-26,32,Wissman_2012_stereology_females_spines,Physical disector,,,,,15,,,0.084,3.86,mm3,1,0x000000000000225D
-27,33,Wissman_2012_stereology_males_spines,Physical disector,,,,,15,,,0.084,3.77,mm3,1,0x000000000000225E
-28,34,Wissman_2012_stereology_males_shaft,Physical disector,,,,,15,,,0.45,3.77,mm3,1,0x000000000000225F
-29,35,Wissman_2012_stereology_females_shaft,Physical disector,,,,,15,,,0.45,3.86,mm3,1,0x0000000000002260
-30,36,Baquet_2009_stereology,Optical disector,Top of nucleus,20,0.09,0.91,,,,0.1,,,1,0x0000000000002261
-31,37,Finkelstein_2000_stereology,Optical disector,Top of nucleus,,0.034,,,,,0.04,,,1,0x0000000000002262
-32,38,Smeyne_2005_stereology,Optical disector,Top of nucleus,,,,,,,,,,1,0x0000000000002263
-33,39,Zaborszky_2001_stereology,Optical disector,,,0.25,0.7,,,264,,,,1,0x0000000000002264
-34,40,NMO_Henny_2013_ultrathin_VGluT2_terminals_quantitation_stereology,Optical disector,Top of synapse,0,0.00543,,,,79,,,,1,0x0000000000002265
-35,41,NMO_Henny_2013_ultrathin_VGAT_terminals_quantitation_stereology,Optical disector,Top of synapse,0,0.00543,,,,79,,,,1,0x0000000000002266
-36,42,NMO_Henny_2013_ultrathin_synapses_quantitation_stereology,Optical disector,Top of synapse,0,,0.01087,,,79,,,,1,0x0000000000002267
-37,43,Aguirre_2001_stereology,Optical disector,,,,,,,,0.07,,,1,0x0000000000002268
-38,44,Chan_1997_stereology,Optical disector,Top of nucleolus,8,,0.5,,,,0.1,,,1,0x0000000000002269
-39,45,Frau_2011_stereology,Optical disector,,12,,,3,,,,,,1,0x000000000000226A
-40,46,Gomide_2005_stereology,Optical disector,,12,,,,,,0.1,0.21,mm3,1,0x000000000000226B
-41,47,Gonzales-Aparicio_2011_stereology,Optical disector,,,0.15,,,,,0.04,,,1,0x000000000000226C
-42,48,Grieb_2013_stereology,Optical disector,,20,0.11,,10,,200,0.12,,,1,0x000000000000226D
-43,49,Gross_2003_stereology,Optical disector,Top of nucleus,0,0.14,,,,,,,,1,0x000000000000226E
-44,50,Hermann_2013_stereology,Optical disector,Top of nucleus,29,0.25,0.936,10,,,0.05,,,1,0x000000000000226F
-45,51,Horvath_2011_stereology,Optical disector,,20,,,,,120,0.104,,,1,0x0000000000002270
-46,52,Ip_2017_ImageJ_stereology,Optical disector,,13,0.15,,13,,,0.08,,,1,0x0000000000002271
-47,53,Ip_2017_stereology,Optical disector,,13,0.15,,13,,,0.08,,,1,0x0000000000002272
-48,54,Janis_2008_stereology,Optical disector,,14,,0.78,6,,,0.08,,,1,0x0000000000002273
-49,55,Johnson_2010_stereology_rat,Optical disector,,8,0.11,0.67,7,,,0.1,,,1,0x0000000000002274
-50,56,Johnson_2010_stereology_mouse,Optical disector,,8,0.11,0.67,6,,,0.1,,,1,0x0000000000002275
-51,57,Johnson_2010b_stereology_rat,Optical disector,,8,0.11,0.67,7,,,0.1,,,1,0x0000000000002276
-52,58,Johnson_2010b_stereology_mouse,Optical disector,,8,0.11,0.67,6,,,0.1,,,1,0x0000000000002277
-53,59,Kang_2010_stereology,Optical disector,Top of cell,20,0.32,,12,,,,,,1,0x0000000000002278
-54,60,Kincaid_2001_stereology,Optical disector,,10,0.07,0.5,11,331,,0.085,,,1,0x0000000000002279
-55,61,Komnig_2016_stereology,Optical disector,,,,,6,,,,,,1,0x000000000000227A
-56,62,Komnig_2016b_stereology,Optical disector,,,,,,,,,,,0,0x000000000000227B
-57,63,Liu_2004_stereology,Optical disector,,,,,,,,0.8,,,1,0x000000000000227C
-58,64,Ma_2009_stereology,Optical disector,Top of nucleus,,,,,,,,0.14,mm3,1,0x000000000000227D
-59,65,McCormack_2002_stereology,Optical disector,,,,,,,,,,,0,0x000000000000227E
-60,66,Olson_2015_stereology,Optical disector,,,,,,,,,,,0,0x000000000000227F
-61,67,Oorschot_1996_stereology_snc,Optical disector,Top of nucleolus,15,,0.429,12,92,184,0.074,0.145,mm3,1,0x0000000000002280
-62,68,Oorschot_1996_stereology_snr,Optical disector,Top of nucleus,15,,0.429,14,314,321,0.036,1.028,mm3,1,0x0000000000002281
-63,69,Pang_2016,Optical disector,,16,0.6,,10,,500,0.096,,,1,0x0000000000002282
-64,70,Panneton_2010_stereology_snc,Optical disector,Top of cell,10,0.03,0.83,9,114,,,0.269,mm3,1,0x0000000000002283
-65,71,Panneton_2010_stereology_snr,Optical disector,Top of cell,10,0.03,0.83,9,286,,,0.778,mm3,1,0x0000000000002284
-66,72,Passos_2012_stereology_snc,Optical disector,,,1.0,0.64,6,28,1023,0.068,0.276,mm3,1,0x0000000000002285
-67,73,Passos_2012_stereology_snr,Optical disector,,,1.0,0.69,6,78,519,0.081,1.28,mm3,1,0x0000000000002286
-68,74,Passos_2012_stereology_sn,Optical disector,,,1.0,0.67,6,106,1542,,1.556,mm3,1,0x0000000000002287
-69,75,Price_2009_stereology,Optical disector,,,0.51,,,,,,,,1,0x0000000000002288
-70,76,Richter_2017_stereology,Optical disector,,,,,,,,,,,0,0x0000000000002289
-71,77,Sanchez_2008_stereology,Optical disector,Top of cell,,,,,,,,,,1,0x000000000000228A
-72,78,Simkins_2012_stereology,,,,,,,,,,,,0,0x000000000000228B
-73,79,Smeyne_2016_sections_designbased_TH_neurons_quantitation_stereology,Optical disector,,,,,,,,,,,0,0x000000000000228C
-74,80,Song_2012_stereology,Optical disector,,15,0.17,,,,,0.1,,,1,0x000000000000228D
-75,81,Stayte_2015_stereology_TH,Optical disector,,10,0.56,,10,,,0.1,,,1,0x000000000000228E
-76,82,Stayte_2015_stereology_neun,Optical disector,,10,0.22,,10,,,0.1,,,1,0x000000000000228F
-77,83,Sun_2012_stereology,Optical disector,,20,0.625,,,,,,,,1,0x0000000000002290
-78,84,Taylor_2014_stereology,Optical disector,Top of cell,22,0.13,0.85,22,,175,0.1,,,1,0x0000000000002291
-79,85,vanBregt_2012_stereology_neurons,Optical disector,Top of nucleolus,27,0.04,1.0,14,,266,0.07,,,1,0x0000000000002292
-80,86,vanBregt_2012_stereology_TH,Optical disector,,10,1.0,,6,,,,,,1,0x0000000000002293
-81,87,Vidyadhara_2017_stereology,Optical disector,,17,0.16,0.68,,,,,,,1,0x0000000000002294
-82,88,Vu_2000_stereology,Optical disector,,27,0.1,0.9,4,,200,0.08,,,1,0x0000000000002295
-83,89,Winter_2007_stereology,Optical disector,,,,,,,,0.1,,,1,0x0000000000002296
-84,90,Aguirre_1999_stereology,Optical disector,,7,,0.64,,,,0.04,,,1,0x0000000000002297
-85,91,Andrews_2005_stereology,Optical disector,,,,,,,,,,,0,0x0000000000002298
-86,92,Back_2013_stereology,Optical disector,,,,,6,,,,,,1,0x0000000000002299
-87,93,Bostanci_2008_stereology_left,Optical disector,,10,0.048,0.44,11,,500,0.065,,,1,0x000000000000229A
-88,94,Bostanci_2008_stereology_right,Optical disector,,10,0.048,0.44,11,,500,0.067,,,1,0x000000000000229B
-89,95,Bostanci_2013_stereology_left,Optical disector,Top of nucleus,,,,,,,0.073,,,1,0x000000000000229C
-90,96,Bostanci_2013_stereology_right,Optical disector,Top of nucleus,,,,,,,0.091,,,1,0x000000000000229D
-91,97,Bostanci_2010_stereology_left,Optical disector,Top of nucleus,,,,,,,0.07,,,1,0x000000000000229E
-92,98,Bostanci_2010_stereology_right,Optical disector,Top of nucleus,,,,,,,0.075,,,1,0x000000000000229F
-93,99,Bowenkamp_2000_stereology,Optical disector,,,,,,,,,,,0,0x00000000000022A0
-94,100,Breckenridge_2013_stereology_IHC_study4,Optical disector,Top of nucleus,4,0.25,0.296,,,,0.1,,,1,0x00000000000022A1
-95,101,Bukhatwa_2009_stereology,Optical disector,,,,,,,,0.11,,,1,0x00000000000022A2
-96,102,Carta_2011_stereology,Optical disector,,12,,,,,,,,,1,0x00000000000022A3
-97,103,Chadi_1993_stereology_TH,Optical disector,,,,,,,,0.09,,,1,0x00000000000022A4
-98,104,Chadi_1993_stereology_GFAP,Optical disector,,,,,,,,0.08,,,1,0x00000000000022A5
-99,105,Chalimoniuk_2006_stereology,Optical disector,,,,,8,,,,,,1,0x00000000000022A6
-100,106,Depboylu_2013_stereology,Optical disector,,,,,,,,,,,0,0x00000000000022A7
-101,107,Gomide_2005b_stereology_TH_ipsi,Optical disector,,12,,,,,,0.08,0.21,mm3,1,0x00000000000022A8
-102,108,Gomide_2005b_stereology_GFAP_ipsi,Optical disector,,12,,,,,,0.14,0.21,mm3,1,0x00000000000022A9
-103,109,Gomide_2005b_stereology_OX-42_ipsi,Optical disector,,12,,,,,,0.1,0.21,mm3,1,0x00000000000022AA
-104,110,Gomide_2005b_stereology_OX-42_contra,Optical disector,,12,,,,,,0.09,0.21,mm3,1,0x00000000000022AB
-105,111,Gomide_2005b_stereology_GFAP_contra,Optical disector,,12,,,,,,0.15,0.21,mm3,1,0x00000000000022AC
-106,112,Gomide_2005b_stereology_TH_contra,Optical disector,,12,,,,,,0.1,0.21,mm3,1,0x00000000000022AD
-107,114,Korkmaz_2012_stereology,Optical disector,Top of cell,25,0.395,,6,,,0.1,,,1,0x00000000000022AE
-108,115,Lorenc-Koci_2011_stereology,Optical disector,,15,0.05,,9,,,,,,1,0x00000000000022AF
-109,116,Omelchenko_2016_stereology,Optical disector,,16,,,,150,350,0.1,,,1,0x00000000000022B0
-110,118,Purisai_2007_stereology,Optical disector,,,,,,,,,,,0,0x00000000000022B1
-111,119,Ratzka_2012_stereology_P0,Optical disector,,12,0.3,0.5,12,220,200,,,,1,0x00000000000022B2
-112,120,Ratzka_2012_stereology_P28,Optical disector,,17,0.35,0.65,12,220,200,,,,1,0x00000000000022B3
-113,121,Rodrigues_2001_stereology,Optical disector,,,,,1,,,,,,1,0x00000000000022B4
-114,122,Saal_2015_stereology,Optical disector,,,,,,,,,,,0,0x00000000000022B5
-115,123,Shaw_2010_stereology,Optical disector,Top of nucleus,,,,,,,,,,1,0x00000000000022B6
-116,124,Stanic_2004_stereology,Optical disector,,,0.043,,12,,,0.079,,,1,0x00000000000022B7
-117,125,Tasselli_2013_stereology,,,,,,,,,,,,0,0x00000000000022B8
-118,126,Tatenhorst_2014_stereology,Optical disector,,,0.25,,,,,,,,1,0x00000000000022B9
-119,127,Walker_2012b_stereology,Optical disector,Top of cell,8,0.16,0.57,,,,0.1,,,1,0x00000000000022BA
-120,128,Walters_2012_stereology,Optical disector,Top of nucleolus,6,,,,,170,0.1,,,1,0x00000000000022BB
-121,129,Westphal_2016_stereology,Optical disector,,14,,,4,70,350,0.1,,,1,0x00000000000022BC
-122,130,Wild_2013_stereology,Optical disector,,,,,,,,,,,0,0x00000000000022BD
-123,131,Champy_2003_stereology,,,,,,,,,,,,0,0x00000000000022BE
-124,132,Lieb_1996_stereology,,,,,,,,,,,,1,0x00000000000022BF
-125,133,O'Kusky_1999_stereology,,,,,,,28,1250,,,,1,0x00000000000022C0
-126,134,Rosen_2001_stereology,,Top of nucleolus,,,,,,,,,,1,0x00000000000022C1
-127,137,Breckenridge_2013_IHC_study5,Optical disector,Top of nucleus,4,0.25,0.225,,,,0.1,,,1,0x00000000000022C2
-128,138,Breckenridge_2013_fluorescence_stereology,Optical disector,Top of nucleus,4,0.25,0.182,,,,0.1,,,1,0x00000000000022C3
-129,139,Abdurakhmanova_2017_stereology,Optical disector,,10,0.16,,5,,,,,,1,0x00000000000022C4
-130,140,Andreassen_2000_stereology,Optical disector,,,,,,,,,,,0,0x00000000000022C5
-131,141,Andreassen_1999,Optical disector,,10,0.002,0.52,,,,0.1,,,1,0x00000000000022C6
-132,142,Ashwell_1996_stereology,Optical disector,,,,,,,,0.03,11.4,mm3,1,0x00000000000022C7
-133,143,Busceti_2008_PN1_stereology,Optical disector,,,,,5,,,,,,1,0x00000000000022C8
-134,144,Busceti_2008_PN8_stereology,Optical disector,,,,,6,,,,,,1,0x00000000000022C9
-135,145,Busceti_2008_PN16_stereology,Optical disector,,,,,8,,,,,,1,0x00000000000022CA
-136,146,Butler_1999_stereology,Physical disector,Top of synapse,,,,10,,,,,,1,0x00000000000022CB
-137,147,Canudas_2000_stereology,Optical disector,,,,,12,,,0.05,23.2,mm3,1,0x00000000000022CC
-138,148,Covey_2007_stereology,Optical disector,,15,,0.49,10,,322,0.046,11.63,mm3,1,0x00000000000022CD
-139,149,Cullity_2018_DRD1P17F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.02,mm3,1,0x00000000000022CE
-140,150,Cullity_2018_DRD1P17M_stereology,Optical disector,,,0.4,,10,,500,0.045,4.66,mm3,1,0x00000000000022CF
-141,151,Cullity_2018_DRD1P25F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.58,mm3,1,0x00000000000022D0
-142,152,Cullity_2018_DRD1P25M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.31,mm3,1,0x00000000000022D1
-143,153,Cullity_2018_DRD1P35F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.54,mm3,1,0x00000000000022D2
-144,154,Cullity_2018_DRD1P35M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.79,mm3,1,0x00000000000022D3
-145,155,Cullity_2018_DRD1P49F_stereology,Optical disector,,,0.4,,10,,500,0.045,6.03,mm3,1,0x00000000000022D4
-146,156,Cullity_2018_DRD1P49M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.6,mm3,1,0x00000000000022D5
-147,157,Cullity_2018_DRD1P70F_stereology,Optical disector,,,0.4,,10,,500,0.045,6.06,mm3,1,0x00000000000022D6
-148,158,Cullity_2018_DRD1P70M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.99,mm3,1,0x00000000000022D7
-149,159,Cullity_2018_DRD2P17F_stereology,Optical disector,,,0.4,,10,,500,0.045,4.87,mm3,1,0x00000000000022D8
-150,160,Cullity_2018_DRD2P17M_stereology,Optical disector,,,0.4,,10,,500,0.045,4.76,mm3,1,0x00000000000022D9
-151,161,Cullity_2018_DRD2P25F_stereology,Optical disector,,,0.4,,10,,500,0.045,4.75,mm3,1,0x00000000000022DA
-152,162,Cullity_2018_DRD2P25M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.02,mm3,1,0x00000000000022DB
-153,163,Cullity_2018_DRD2P35F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.09,mm3,1,0x00000000000022DC
-154,164,Cullity_2018_DRD2P35M_stereology,Optical disector,,,0.4,,10,,500,0.045,4.84,mm3,1,0x00000000000022DD
-155,165,Cullity_2018_DRD2P49F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.16,mm3,1,0x00000000000022DE
-156,166,Cullity_2018_DRD2P49M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.4,mm3,1,0x00000000000022DF
-157,167,Cullity_2018_DRD2P70F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.61,mm3,1,0x00000000000022E0
-158,168,Cullity_2018_DRD2P70M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.63,mm3,1,0x00000000000022E1
-159,169,Filice_2016_stereology,Optical disector,,20,0.11,0.87,7,,,0.09,,,1,0x00000000000022E2
-160,170,Day-Wilson_2006_stereology,Optical disector,,8,0.0048,0.753,9,153,804,0.05,25.08,mm3,1,0x00000000000022E3
-161,171,Dodds_2014,Optical disector,,,0.0064,,,,359,,,,1,0x00000000000022E4
-162,172,Gomide_2005b_str_gfap,Optical disector,,,,,,,,0.09,21.47,mm3,1,0x00000000000022E5
-163,173,Gomide_2005b_str_ox-42,Optical disector,,,,,,,,0.07,,,1,0x00000000000022E6
-164,174,Gomide_2005_stereology_str_s100,Optical disector,,,,,,,,0.1,20.48,mm3,1,0x00000000000022E7
-165,175,Gomide_2005_stereology_str_bfgf,Optical disector,,,,,,,,0.08,22.04,mm3,1,0x00000000000022E8
-166,176,Hawlitschka_2017_stereology,Optical disector,,,,,,,,,,,0,0x00000000000022E9
-167,177,Ibanez-Sandoval_2017_stereology,Optical disector,,27,0.089,,,,,0.12,,,1,0x00000000000022EA
-168,178,Larsson_2001_stereology_DARPP,Optical disector,Top of cell,8,,,8,,150,0.092,,,1,0x00000000000022EB
-169,179,Larsson_2001_stereology_ChAT,Optical disector,Top of cell,8,,,8,,150,0.104,,,1,0x00000000000022EC
-170,180,Larsson_2001_stereology_TrkA,Optical disector,Top of cell,8,,,8,,150,0.106,,,1,0x00000000000022ED
-171,181,Larsson_2001_stereology_p75,Optical disector,Top of cell,8,,,8,,150,,,,1,0x00000000000022EE
-172,182,Larsson_2001_stereology_NPY,Optical disector,Top of cell,8,,,8,,150,0.094,,,1,0x00000000000022EF
-173,183,Larsson_2001_stereology_PV,Optical disector,Top of cell,8,,,8,,150,0.086,,,1,0x00000000000022F0
-174,184,Lauber_2018_stereology,Optical disector,,20,0.081,0.925,6,,,0.1,,,1,0x00000000000022F1
-175,185,Lauber_2016_stereology,Optical disector,,20,0.08,0.95,6,,,0.09,,,1,0x00000000000022F2
-176,186,Lawhorn_2009_stereology,Optical disector,,,0.012,,,,,,14.085,mm3,1,0x00000000000022F3
-177,187,Lawhorn_2008_stereology_DLstrio,Optical disector,Top of cell,12,,,10,100,,,0.64,mm3,1,0x00000000000022F4
-178,188,Lawhorn_2008_stereology_DMstrio,Optical disector,Top of cell,12,,,10,100,,,0.63,mm3,1,0x00000000000022F5
-179,189,Lawhorn_2008_stereology_VLstrio,Optical disector,Top of cell,12,,,10,100,,,0.62,mm3,1,0x00000000000022F6
-180,190,Lawhorn_2008_stereology_VMstrio,Optical disector,Top of cell,12,,,10,100,,,0.66,mm3,1,0x00000000000022F7
-181,191,Lawhorn_2008_stereology_Dlmatrix,Optical disector,Top of cell,12,,,10,100,,,2.64,mm3,1,0x00000000000022F8
-182,192,Lawhorn_2008_stereology_DMmatrix,Optical disector,Top of cell,12,,,10,100,,,2.7,mm3,1,0x00000000000022F9
-183,193,Lawhorn_2008_stereology_VLmatrix,Optical disector,Top of cell,12,,,10,100,,,2.58,mm3,1,0x00000000000022FA
-184,194,Lawhorn_2008_stereology_VMmatrix,Optical disector,Top of cell,12,,,10,100,,,2.65,mm3,1,0x00000000000022FB
-185,195,Leventhal_2002_stereology,Optical disector,,,0.05,,4,,,,,,1,0x00000000000022FC
-186,196,Lohr_2000_stereology,Physical disector,,,,,4,,,,,,1,0x00000000000022FD
-187,197,Luk_2001_stereology_PV,Optical disector,Top of cell,10,0.0064,,,,,,22.6,mm3,1,0x00000000000022FE
-188,198,Luk_2001_stereology_nissl,Optical disector,Top of nucleus,8,0.0144,,,,,,22.6,mm3,1,0x00000000000022FF
-189,199,Smith_2008_stereology,Optical disector,,5,0.0625,,,,,,,,1,0x0000000000002301
-190,200,Peterson_1999_stereology_neurons,Optical disector,Top of nucleolus,22,,,,,,,10.7,mm3,1,0x0000000000002302
-191,201,Peterson_1999_stereology_immuno,Optical disector,Top of cell,22,,,,,,,10.7,mm3,1,0x0000000000002303
-192,202,Oorschot_1996_stereology_cpu,Optical disector,,15,,0.429,12,343,387,0.035,19.9,mm3,1,0x0000000000002304
-193,203,Petersen_2000_stereology,Optical disector,,,,,,,,0.08,,,1,0x0000000000002305
-194,204,Ramaswamy_2009_stereology,Optical disector,,6,,0.5,6,,,,,,1,0x0000000000002306
-195,205,Richner_2009_6m_stereology,Optical disector,,5,0.002,0.588,12,150,,,2.68,mm3,1,0x0000000000002307
-196,206,Richner_2009_12m_stereology,Optical disector,,5,0.002,0.588,12,150,,,2.99,mm3,1,0x0000000000002308
-197,207,Roberts_2001_stereology,Physical disector,Top of synapse,,,,6,,96,,37.5,mm3,1,0x0000000000002309
-198,208,Rodriguez_1999_stereology,Physical disector,Top of synapse,,,,,,,,,,1,0x000000000000230A
-199,209,Rymar_2004_stereology,Optical disector,,10,0.07,0.588,13,,,,20.77,mm3,1,0x000000000000230B
-200,210,Samadi_2013_11w_stereology,Optical disector,,10,0.0144,,,,,0.02,,,1,0x000000000000230C
-201,211,Samadi_2013_13w_stereology,Optical disector,,10,0.0144,,,,,0.03,,,1,0x000000000000230D
-202,212,Saraceno_2012_stereology,Optical disector,,,,,,,,,,,0,0x000000000000230E
-203,213,Song_2013_chatpv_stereology,Optical disector,,12,0.16,,,,,0.1,9.17,mm3,1,0x000000000000230F
-204,214,Song_2013_thio_stereology,Optical disector,,12,0.0011,,,,,0.1,9.17,mm3,1,0x0000000000002310
-205,215,Song_2013_nnos_stereology,Optical disector,,12,0.132,,,,,0.1,9.17,mm3,1,0x0000000000002311
-206,216,Uryu_2001_stereology,Physical disector,Top of synapse,,,,20,,,,,,1,0x0000000000002312
-207,217,Van de Berg_2002_stereology,Optical disector,,10,,0.322,9,,600,,,,1,0x0000000000002313
-208,218,Yalcin-Cakmakli_2018_chat_stereology,Optical disector,,14,0.36,,,,,0.17,,,1,0x0000000000002314
-209,219,Yalcin-Cakmakli_2018_pv_stereology,Optical disector,,14,0.15,,,,,0.17,,,1,0x0000000000002315
-210,220,Zhang_2016_stereology_neurons,Physical disector,Top of nucleus,,,,,,175,,,,1,0x0000000000002316
-211,221,Zhang_2016_stereology_synapses,Physical disector,Top of synapse,,,,,,,,,,1,0x0000000000002317
+,ID,Stereology_details_name,Probe,Identification_feature,Disector_height,Area_subfraction,Height_subfraction,Investigated_sections,Investigated_fields,Counted_objects,Coefficient_of_error,Estimated_volume,Volume_unit,any_except_probe
+0,4,Gritti_2006_sections_cells_quantitation_stereology,Optical disector,Top of cell,8,0.2,0.8,6,356,545,0.04,4.91,mm3,1
+1,5,Gritti_2006_sections_PAG_neurons_quantitation_stereology,Optical disector,Top of cell,8,0.2,0.8,6,356,495,0.02,4.91,mm3,1
+2,6,Gritti_2006_sections_GAD_neurons_quantitation_stereology,Optical disector,Top of cell,8,0.2,0.8,6,359,353,0.04,4.93,mm3,1
+3,7,Gritti_2006_sections_ChAT_neurons_quantitation,Optical disector,Top of cell,8,0.2,0.8,6,359,34,0.08,4.94,mm3,1
+4,8,Hain_2016_sections_cells_quantitation_stereology,,Widest extent of cell,,0.072,,2,,,,,,1
+5,9,Hardman_2002_STN_stereology,Optical disector,,,,,4,,,0.069,0.8,mm3,1
+6,10,Hardman_2002_GP_stereology,Optical disector,,,,,6,,,0.069,10.4,mm3,1
+7,11,Hardman_2002_EP_stereology,Optical disector,,,,,5,,,0.069,2.2,mm3,1
+8,12,Hardman_2002_SNc_stereology,Optical disector,,,,,5,,,0.069,,,1
+9,13,Hardman_2002_SNr_stereology,Optical disector,,,,,5,,,0.069,,,1
+10,14,Lawrence_2012_sections_glia_quantitation_nacc_stereology,Optical disector,,,,,,,,0.07,,,1
+11,15,Lawrence_2012_sections_neurons_quantitation_nacc_stereology,Optical disector,,,,,,,,0.05,,,1
+12,16,Loscher_2006_stereology,Optical disector,,,,,2,,,,,,1
+13,18,Mori_2017_sections_TH_cells_quantitation_snc_stereology,Optical disector,,,0.25,,,,,,,,1
+14,19,Nair-Roberts_2008_stereology,Optical disector,Top of nucleus,20,0.05,0.55,,,,,,,1
+15,20,Parish_2001_sections_snc_TH_stereology,Optical disector,Top of cell,,0.0804,1.0,10,,,0.1,,,1
+16,21,Parish_2001_sections_snc_NR_stereology,Optical disector,Top of nucleus,,0.0804,1.0,10,,,0.1,,,1
+17,22,Parish_2001_sections_str_stereology,Optical disector,,,0.0007,,8,,,0.1,,,1
+18,23,Pickel_1999_sections_NPY_axonterminals_quantitation_stereology,Physical disector,,,,,18,,,,,,1
+19,25,Richards_2007_stereology_SNr,Physical disector,,,,,,,,,1.43,mm3,1
+20,26,Richards_2007_stereology_SNc,Physical disector,,,,,,,,,,,0
+21,27,Sizemore_2016_stereology,Physical disector,,,,,7,,,,,,1
+22,28,Uryu_1999_stereology,Physical disector,,,,,2,,,,,,1
+23,29,Vadasz_2007_stereology,Optical disector,,,,0.55,,,209,0.08,,,1
+24,30,Vidyadhara_2016_stereology,Optical disector,Top of nucleus,17,0.16,0.68,,,,,,,1
+25,31,West_1996_stereology,Optical disector,Top of nucleus,,0.1036,0.75,12,,150,0.096,,,1
+26,32,Wissman_2012_stereology_females_spines,Physical disector,,,,,15,,,0.084,3.86,mm3,1
+27,33,Wissman_2012_stereology_males_spines,Physical disector,,,,,15,,,0.084,3.77,mm3,1
+28,34,Wissman_2012_stereology_males_shaft,Physical disector,,,,,15,,,0.45,3.77,mm3,1
+29,35,Wissman_2012_stereology_females_shaft,Physical disector,,,,,15,,,0.45,3.86,mm3,1
+30,36,Baquet_2009_stereology,Optical disector,Top of nucleus,20,0.09,0.91,,,,0.1,,,1
+31,37,Finkelstein_2000_stereology,Optical disector,Top of nucleus,,0.034,,,,,0.04,,,1
+32,38,Smeyne_2005_stereology,Optical disector,Top of nucleus,,,,,,,,,,1
+33,39,Zaborszky_2001_stereology,Optical disector,,,0.25,0.7,,,264,,,,1
+34,40,NMO_Henny_2013_ultrathin_VGluT2_terminals_quantitation_stereology,Optical disector,Top of synapse,0,0.00543,,,,79,,,,1
+35,41,NMO_Henny_2013_ultrathin_VGAT_terminals_quantitation_stereology,Optical disector,Top of synapse,0,0.00543,,,,79,,,,1
+36,42,NMO_Henny_2013_ultrathin_synapses_quantitation_stereology,Optical disector,Top of synapse,0,,0.01087,,,79,,,,1
+37,43,Aguirre_2001_stereology,Optical disector,,,,,,,,0.07,,,1
+38,44,Chan_1997_stereology,Optical disector,Top of nucleolus,8,,0.5,,,,0.1,,,1
+39,45,Frau_2011_stereology,Optical disector,,12,,,3,,,,,,1
+40,46,Gomide_2005_stereology,Optical disector,,12,,,,,,0.1,0.21,mm3,1
+41,47,Gonzales-Aparicio_2011_stereology,Optical disector,,,0.15,,,,,0.04,,,1
+42,48,Grieb_2013_stereology,Optical disector,,20,0.11,,10,,200,0.12,,,1
+43,49,Gross_2003_stereology,Optical disector,Top of nucleus,0,0.14,,,,,,,,1
+44,50,Hermann_2013_stereology,Optical disector,Top of nucleus,29,0.25,0.936,10,,,0.05,,,1
+45,51,Horvath_2011_stereology,Optical disector,,20,,,,,120,0.104,,,1
+46,52,Ip_2017_ImageJ_stereology,Optical disector,,13,0.15,,13,,,0.08,,,1
+47,53,Ip_2017_stereology,Optical disector,,13,0.15,,13,,,0.08,,,1
+48,54,Janis_2008_stereology,Optical disector,,14,,0.78,6,,,0.08,,,1
+49,55,Johnson_2010_stereology_rat,Optical disector,,8,0.11,0.67,7,,,0.1,,,1
+50,56,Johnson_2010_stereology_mouse,Optical disector,,8,0.11,0.67,6,,,0.1,,,1
+51,57,Johnson_2010b_stereology_rat,Optical disector,,8,0.11,0.67,7,,,0.1,,,1
+52,58,Johnson_2010b_stereology_mouse,Optical disector,,8,0.11,0.67,6,,,0.1,,,1
+53,59,Kang_2010_stereology,Optical disector,Top of cell,20,0.32,,12,,,,,,1
+54,60,Kincaid_2001_stereology,Optical disector,,10,0.07,0.5,11,331,,0.085,,,1
+55,61,Komnig_2016_stereology,Optical disector,,,,,6,,,,,,1
+56,62,Komnig_2016b_stereology,Optical disector,,,,,,,,,,,0
+57,63,Liu_2004_stereology,Optical disector,,,,,,,,0.8,,,1
+58,64,Ma_2009_stereology,Optical disector,Top of nucleus,,,,,,,,0.14,mm3,1
+59,65,McCormack_2002_stereology,Optical disector,,,,,,,,,,,0
+60,66,Olson_2015_stereology,Optical disector,,,,,,,,,,,0
+61,67,Oorschot_1996_stereology_snc,Optical disector,Top of nucleolus,15,,0.429,12,92,184,0.074,0.145,mm3,1
+62,68,Oorschot_1996_stereology_snr,Optical disector,Top of nucleus,15,,0.429,14,314,321,0.036,1.028,mm3,1
+63,69,Pang_2016,Optical disector,,16,0.6,,10,,500,0.096,,,1
+64,70,Panneton_2010_stereology_snc,Optical disector,Top of cell,10,0.03,0.83,9,114,,,0.269,mm3,1
+65,71,Panneton_2010_stereology_snr,Optical disector,Top of cell,10,0.03,0.83,9,286,,,0.778,mm3,1
+66,72,Passos_2012_stereology_snc,Optical disector,,,1.0,0.64,6,28,1023,0.068,0.276,mm3,1
+67,73,Passos_2012_stereology_snr,Optical disector,,,1.0,0.69,6,78,519,0.081,1.28,mm3,1
+68,74,Passos_2012_stereology_sn,Optical disector,,,1.0,0.67,6,106,1542,,1.556,mm3,1
+69,75,Price_2009_stereology,Optical disector,,,0.51,,,,,,,,1
+70,76,Richter_2017_stereology,Optical disector,,,,,,,,,,,0
+71,77,Sanchez_2008_stereology,Optical disector,Top of cell,,,,,,,,,,1
+72,78,Simkins_2012_stereology,,,,,,,,,,,,0
+73,79,Smeyne_2016_sections_designbased_TH_neurons_quantitation_stereology,Optical disector,,,,,,,,,,,0
+74,80,Song_2012_stereology,Optical disector,,15,0.17,,,,,0.1,,,1
+75,81,Stayte_2015_stereology_TH,Optical disector,,10,0.56,,10,,,0.1,,,1
+76,82,Stayte_2015_stereology_neun,Optical disector,,10,0.22,,10,,,0.1,,,1
+77,83,Sun_2012_stereology,Optical disector,,20,0.625,,,,,,,,1
+78,84,Taylor_2014_stereology,Optical disector,Top of cell,22,0.13,0.85,22,,175,0.1,,,1
+79,85,vanBregt_2012_stereology_neurons,Optical disector,Top of nucleolus,27,0.04,1.0,14,,266,0.07,,,1
+80,86,vanBregt_2012_stereology_TH,Optical disector,,10,1.0,,6,,,,,,1
+81,87,Vidyadhara_2017_stereology,Optical disector,,17,0.16,0.68,,,,,,,1
+82,88,Vu_2000_stereology,Optical disector,,27,0.1,0.9,4,,200,0.08,,,1
+83,89,Winter_2007_stereology,Optical disector,,,,,,,,0.1,,,1
+84,90,Aguirre_1999_stereology,Optical disector,,7,,0.64,,,,0.04,,,1
+85,91,Andrews_2005_stereology,Optical disector,,,,,,,,,,,0
+86,92,Back_2013_stereology,Optical disector,,,,,6,,,,,,1
+87,93,Bostanci_2008_stereology_left,Optical disector,,10,0.048,0.44,11,,500,0.065,,,1
+88,94,Bostanci_2008_stereology_right,Optical disector,,10,0.048,0.44,11,,500,0.067,,,1
+89,95,Bostanci_2013_stereology_left,Optical disector,Top of nucleus,,,,,,,0.073,,,1
+90,96,Bostanci_2013_stereology_right,Optical disector,Top of nucleus,,,,,,,0.091,,,1
+91,97,Bostanci_2010_stereology_left,Optical disector,Top of nucleus,,,,,,,0.07,,,1
+92,98,Bostanci_2010_stereology_right,Optical disector,Top of nucleus,,,,,,,0.075,,,1
+93,99,Bowenkamp_2000_stereology,Optical disector,,,,,,,,,,,0
+94,100,Breckenridge_2013_stereology_IHC_study4,Optical disector,Top of nucleus,4,0.25,0.296,,,,0.1,,,1
+95,101,Bukhatwa_2009_stereology,Optical disector,,,,,,,,0.11,,,1
+96,102,Carta_2011_stereology,Optical disector,,12,,,,,,,,,1
+97,103,Chadi_1993_stereology_TH,Optical disector,,,,,,,,0.09,,,1
+98,104,Chadi_1993_stereology_GFAP,Optical disector,,,,,,,,0.08,,,1
+99,105,Chalimoniuk_2006_stereology,Optical disector,,,,,8,,,,,,1
+100,106,Depboylu_2013_stereology,Optical disector,,,,,,,,,,,0
+101,107,Gomide_2005b_stereology_TH_ipsi,Optical disector,,12,,,,,,0.08,0.21,mm3,1
+102,108,Gomide_2005b_stereology_GFAP_ipsi,Optical disector,,12,,,,,,0.14,0.21,mm3,1
+103,109,Gomide_2005b_stereology_OX-42_ipsi,Optical disector,,12,,,,,,0.1,0.21,mm3,1
+104,110,Gomide_2005b_stereology_OX-42_contra,Optical disector,,12,,,,,,0.09,0.21,mm3,1
+105,111,Gomide_2005b_stereology_GFAP_contra,Optical disector,,12,,,,,,0.15,0.21,mm3,1
+106,112,Gomide_2005b_stereology_TH_contra,Optical disector,,12,,,,,,0.1,0.21,mm3,1
+107,114,Korkmaz_2012_stereology,Optical disector,Top of cell,25,0.395,,6,,,0.1,,,1
+108,115,Lorenc-Koci_2011_stereology,Optical disector,,15,0.05,,9,,,,,,1
+109,116,Omelchenko_2016_stereology,Optical disector,,16,,,,150,350,0.1,,,1
+110,118,Purisai_2007_stereology,Optical disector,,,,,,,,,,,0
+111,119,Ratzka_2012_stereology_P0,Optical disector,,12,0.3,0.5,12,220,200,,,,1
+112,120,Ratzka_2012_stereology_P28,Optical disector,,17,0.35,0.65,12,220,200,,,,1
+113,121,Rodrigues_2001_stereology,Optical disector,,,,,1,,,,,,1
+114,122,Saal_2015_stereology,Optical disector,,,,,,,,,,,0
+115,123,Shaw_2010_stereology,Optical disector,Top of nucleus,,,,,,,,,,1
+116,124,Stanic_2004_stereology,Optical disector,,,0.043,,12,,,0.079,,,1
+117,125,Tasselli_2013_stereology,,,,,,,,,,,,0
+118,126,Tatenhorst_2014_stereology,Optical disector,,,0.25,,,,,,,,1
+119,127,Walker_2012b_stereology,Optical disector,Top of cell,8,0.16,0.57,,,,0.1,,,1
+120,128,Walters_2012_stereology,Optical disector,Top of nucleolus,6,,,,,170,0.1,,,1
+121,129,Westphal_2016_stereology,Optical disector,,14,,,4,70,350,0.1,,,1
+122,130,Wild_2013_stereology,Optical disector,,,,,,,,,,,0
+123,131,Champy_2003_stereology,,,,,,,,,,,,0
+124,132,Lieb_1996_stereology,,,,,,,,,,,,1
+125,133,O'Kusky_1999_stereology,,,,,,,28,1250,,,,1
+126,134,Rosen_2001_stereology,,Top of nucleolus,,,,,,,,,,1
+127,137,Breckenridge_2013_IHC_study5,Optical disector,Top of nucleus,4,0.25,0.225,,,,0.1,,,1
+128,138,Breckenridge_2013_fluorescence_stereology,Optical disector,Top of nucleus,4,0.25,0.182,,,,0.1,,,1
+129,139,Abdurakhmanova_2017_stereology,Optical disector,,10,0.16,,5,,,,,,1
+130,140,Andreassen_2000_stereology,Optical disector,,,,,,,,,,,0
+131,141,Andreassen_1999,Optical disector,,10,0.002,0.52,,,,0.1,,,1
+132,142,Ashwell_1996_stereology,Optical disector,,,,,,,,0.03,11.4,mm3,1
+133,143,Busceti_2008_PN1_stereology,Optical disector,,,,,5,,,,,,1
+134,144,Busceti_2008_PN8_stereology,Optical disector,,,,,6,,,,,,1
+135,145,Busceti_2008_PN16_stereology,Optical disector,,,,,8,,,,,,1
+136,146,Butler_1999_stereology,Physical disector,Top of synapse,,,,10,,,,,,1
+137,147,Canudas_2000_stereology,Optical disector,,,,,12,,,0.05,23.2,mm3,1
+138,148,Covey_2007_stereology,Optical disector,,15,,0.49,10,,322,0.046,11.63,mm3,1
+139,149,Cullity_2018_DRD1P17F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.02,mm3,1
+140,150,Cullity_2018_DRD1P17M_stereology,Optical disector,,,0.4,,10,,500,0.045,4.66,mm3,1
+141,151,Cullity_2018_DRD1P25F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.58,mm3,1
+142,152,Cullity_2018_DRD1P25M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.31,mm3,1
+143,153,Cullity_2018_DRD1P35F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.54,mm3,1
+144,154,Cullity_2018_DRD1P35M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.79,mm3,1
+145,155,Cullity_2018_DRD1P49F_stereology,Optical disector,,,0.4,,10,,500,0.045,6.03,mm3,1
+146,156,Cullity_2018_DRD1P49M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.6,mm3,1
+147,157,Cullity_2018_DRD1P70F_stereology,Optical disector,,,0.4,,10,,500,0.045,6.06,mm3,1
+148,158,Cullity_2018_DRD1P70M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.99,mm3,1
+149,159,Cullity_2018_DRD2P17F_stereology,Optical disector,,,0.4,,10,,500,0.045,4.87,mm3,1
+150,160,Cullity_2018_DRD2P17M_stereology,Optical disector,,,0.4,,10,,500,0.045,4.76,mm3,1
+151,161,Cullity_2018_DRD2P25F_stereology,Optical disector,,,0.4,,10,,500,0.045,4.75,mm3,1
+152,162,Cullity_2018_DRD2P25M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.02,mm3,1
+153,163,Cullity_2018_DRD2P35F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.09,mm3,1
+154,164,Cullity_2018_DRD2P35M_stereology,Optical disector,,,0.4,,10,,500,0.045,4.84,mm3,1
+155,165,Cullity_2018_DRD2P49F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.16,mm3,1
+156,166,Cullity_2018_DRD2P49M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.4,mm3,1
+157,167,Cullity_2018_DRD2P70F_stereology,Optical disector,,,0.4,,10,,500,0.045,5.61,mm3,1
+158,168,Cullity_2018_DRD2P70M_stereology,Optical disector,,,0.4,,10,,500,0.045,5.63,mm3,1
+159,169,Filice_2016_stereology,Optical disector,,20,0.11,0.87,7,,,0.09,,,1
+160,170,Day-Wilson_2006_stereology,Optical disector,,8,0.0048,0.753,9,153,804,0.05,25.08,mm3,1
+161,171,Dodds_2014,Optical disector,,,0.0064,,,,359,,,,1
+162,172,Gomide_2005b_str_gfap,Optical disector,,,,,,,,0.09,21.47,mm3,1
+163,173,Gomide_2005b_str_ox-42,Optical disector,,,,,,,,0.07,,,1
+164,174,Gomide_2005_stereology_str_s100,Optical disector,,,,,,,,0.1,20.48,mm3,1
+165,175,Gomide_2005_stereology_str_bfgf,Optical disector,,,,,,,,0.08,22.04,mm3,1
+166,176,Hawlitschka_2017_stereology,Optical disector,,,,,,,,,,,0
+167,177,Ibanez-Sandoval_2017_stereology,Optical disector,,27,0.089,,,,,0.12,,,1
+168,178,Larsson_2001_stereology_DARPP,Optical disector,Top of cell,8,,,8,,150,0.092,,,1
+169,179,Larsson_2001_stereology_ChAT,Optical disector,Top of cell,8,,,8,,150,0.104,,,1
+170,180,Larsson_2001_stereology_TrkA,Optical disector,Top of cell,8,,,8,,150,0.106,,,1
+171,181,Larsson_2001_stereology_p75,Optical disector,Top of cell,8,,,8,,150,,,,1
+172,182,Larsson_2001_stereology_NPY,Optical disector,Top of cell,8,,,8,,150,0.094,,,1
+173,183,Larsson_2001_stereology_PV,Optical disector,Top of cell,8,,,8,,150,0.086,,,1
+174,184,Lauber_2018_stereology,Optical disector,,20,0.081,0.925,6,,,0.1,,,1
+175,185,Lauber_2016_stereology,Optical disector,,20,0.08,0.95,6,,,0.09,,,1
+176,186,Lawhorn_2009_stereology,Optical disector,,,0.012,,,,,,14.085,mm3,1
+177,187,Lawhorn_2008_stereology_DLstrio,Optical disector,Top of cell,12,,,10,100,,,0.64,mm3,1
+178,188,Lawhorn_2008_stereology_DMstrio,Optical disector,Top of cell,12,,,10,100,,,0.63,mm3,1
+179,189,Lawhorn_2008_stereology_VLstrio,Optical disector,Top of cell,12,,,10,100,,,0.62,mm3,1
+180,190,Lawhorn_2008_stereology_VMstrio,Optical disector,Top of cell,12,,,10,100,,,0.66,mm3,1
+181,191,Lawhorn_2008_stereology_Dlmatrix,Optical disector,Top of cell,12,,,10,100,,,2.64,mm3,1
+182,192,Lawhorn_2008_stereology_DMmatrix,Optical disector,Top of cell,12,,,10,100,,,2.7,mm3,1
+183,193,Lawhorn_2008_stereology_VLmatrix,Optical disector,Top of cell,12,,,10,100,,,2.58,mm3,1
+184,194,Lawhorn_2008_stereology_VMmatrix,Optical disector,Top of cell,12,,,10,100,,,2.65,mm3,1
+185,195,Leventhal_2002_stereology,Optical disector,,,0.05,,4,,,,,,1
+186,196,Lohr_2000_stereology,Physical disector,,,,,4,,,,,,1
+187,197,Luk_2001_stereology_PV,Optical disector,Top of cell,10,0.0064,,,,,,22.6,mm3,1
+188,198,Luk_2001_stereology_nissl,Optical disector,Top of nucleus,8,0.0144,,,,,,22.6,mm3,1
+189,199,Smith_2008_stereology,Optical disector,,5,0.0625,,,,,,,,1
+190,200,Peterson_1999_stereology_neurons,Optical disector,Top of nucleolus,22,,,,,,,10.7,mm3,1
+191,201,Peterson_1999_stereology_immuno,Optical disector,Top of cell,22,,,,,,,10.7,mm3,1
+192,202,Oorschot_1996_stereology_cpu,Optical disector,,15,,0.429,12,343,387,0.035,19.9,mm3,1
+193,203,Petersen_2000_stereology,Optical disector,,,,,,,,0.08,,,1
+194,204,Ramaswamy_2009_stereology,Optical disector,,6,,0.5,6,,,,,,1
+195,205,Richner_2009_6m_stereology,Optical disector,,5,0.002,0.588,12,150,,,2.68,mm3,1
+196,206,Richner_2009_12m_stereology,Optical disector,,5,0.002,0.588,12,150,,,2.99,mm3,1
+197,207,Roberts_2001_stereology,Physical disector,Top of synapse,,,,6,,96,,37.5,mm3,1
+198,208,Rodriguez_1999_stereology,Physical disector,Top of synapse,,,,,,,,,,1
+199,209,Rymar_2004_stereology,Optical disector,,10,0.07,0.588,13,,,,20.77,mm3,1
+200,210,Samadi_2013_11w_stereology,Optical disector,,10,0.0144,,,,,0.02,,,1
+201,211,Samadi_2013_13w_stereology,Optical disector,,10,0.0144,,,,,0.03,,,1
+202,212,Saraceno_2012_stereology,Optical disector,,,,,,,,,,,0
+203,213,Song_2013_chatpv_stereology,Optical disector,,12,0.16,,,,,0.1,9.17,mm3,1
+204,214,Song_2013_thio_stereology,Optical disector,,12,0.0011,,,,,0.1,9.17,mm3,1
+205,215,Song_2013_nnos_stereology,Optical disector,,12,0.132,,,,,0.1,9.17,mm3,1
+206,216,Uryu_2001_stereology,Physical disector,Top of synapse,,,,20,,,,,,1
+207,217,Van de Berg_2002_stereology,Optical disector,,10,,0.322,9,,600,,,,1
+208,218,Yalcin-Cakmakli_2018_chat_stereology,Optical disector,,14,0.36,,,,,0.17,,,1
+209,219,Yalcin-Cakmakli_2018_pv_stereology,Optical disector,,14,0.15,,,,,0.17,,,1
+210,220,Zhang_2016_stereology_neurons,Physical disector,Top of nucleus,,,,,,175,,,,1
+211,221,Zhang_2016_stereology_synapses,Physical disector,Top of synapse,,,,,,,,,,1

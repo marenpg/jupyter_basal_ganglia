@@ -99,10 +99,10 @@
 97,181,Lolova_1995_3m_sections_nissl,60,"Thick section, free-floating",Tertiary
 98,182,Lolova_1995_12m_sections_bFGF,61,"Thick section, free-floating",Tertiary
 99,183,Lolova_1995_12m_sections_nissl,61,"Thick section, free-floating",Tertiary
-100,184,Loescher_2006_brains,62,Whole brain,Primary
-101,185,Loescher_2006_sections_GAD65,62,"Thick section, free-floating",Secondary
-102,186,Loescher_2006_sections_GAD67,62,"Thick section, free-floating",Secondary
-103,187,Loescher_2006_sections_GABA,62,"Thick section, free-floating",Secondary
+100,184,Loscher_2006_brains,62,Whole brain,Primary
+101,185,Loscher_2006_sections_GAD65,62,"Thick section, free-floating",Secondary
+102,186,Loscher_2006_sections_GAD67,62,"Thick section, free-floating",Secondary
+103,187,Loscher_2006_sections_GABA,62,"Thick section, free-floating",Secondary
 104,188,McArthur_2016_female_brains,64,Whole brain,Primary
 105,189,McArthur_2016_male_brains,63,Whole brain,Primary
 106,190,McArthur_2016_female_sections,64,"Thick section, free-floating",Secondary
@@ -624,8 +624,8 @@
 622,722,Stanic_2004_brains,256,Whole brain,Primary
 623,723,Stanic_2004_blocks,256,Macroscopic block,Tertiary
 624,724,Stanic_2004_sections,256,"Thick section, free-floating",Quarternary
-625,725,Sunstroem_1987_brains,257,Whole brain,Primary
-626,726,Sunstroem_1987_sections,257,"Thick section, free-floating",Secondary
+625,725,Sunstrom_1987_brains,257,Whole brain,Primary
+626,726,Sunstrom_1987_sections,257,"Thick section, free-floating",Secondary
 627,727,Tasselli_2013_brains,258,Whole brain,Primary
 628,728,Tasselli_2013_sections,258,"Thick section, free-floating",Secondary
 629,729,Tatenhorst_2014_brains,259,Whole brain,Primary
@@ -686,10 +686,10 @@
 684,794,Tatenhorst_2014_140_brains,283,Whole brain,Primary
 685,795,Tatenhorst_2014_140_sections,283,"Thick section, free-floating",Secondary
 686,796,Tatenhorst_2014_140_mountedsections,283,"Thick section, mounted",Tertiary
-687,797,Loescher_2006_sham_brains,284,Whole brain,Primary
-688,798,Loescher_2006_sham_sections_GABA,284,"Thick section, free-floating",Secondary
-689,799,Loescher_2006_sham_sections_GAD65,284,"Thick section, free-floating",Secondary
-690,800,Loescher_2006_sham_sections_GAD67,284,"Thick section, free-floating",Secondary
+687,797,Loscher_2006_sham_brains,284,Whole brain,Primary
+688,798,Loscher_2006_sham_sections_GABA,284,"Thick section, free-floating",Secondary
+689,799,Loscher_2006_sham_sections_GAD65,284,"Thick section, free-floating",Secondary
+690,800,Loscher_2006_sham_sections_GAD67,284,"Thick section, free-floating",Secondary
 691,801,Abdurakhmanova_2017_brains,285,Whole brain,Primary
 692,802,Abdurakhmanova_2017_sections_PV,285,"Thick section, free-floating",Secondary
 693,803,Abdurakhmanova_2017_sections_ChAT,285,"Thick section, free-floating",Secondary
