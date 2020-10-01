@@ -5,6 +5,7 @@ neo4j
 pandas
 xmltodict
 NumPy
+networkx
 
 # blue brain nexus
 nexus-sdk
