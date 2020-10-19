@@ -1,9 +1,0 @@
-,ID,Cell_class_name,Cell_group_membership,Ontological_identifier
-0,1,Principal neuron,1,ILX:0109349
-1,2,Interneuron,1,NLXCELL:1003113
-2,3,Microglia,2,SAO:789292116
-3,4,Astrocyte,2,SAO:1394521419
-4,5,Oligodendrocyte,2,SAO:844118448
-5,6,Mixed class neuron,1,
-6,8,Mixed class glia,2,
-7,9,Unclassified,3,
