@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 .env
+/Data/csvs/bams2_connectivity/*
+BAMS_Load_data_from_BAMS2_website.ipynb
