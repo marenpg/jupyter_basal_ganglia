@@ -8,8 +8,8 @@ The data set basis is a relational database published by Bjerke et al. (2019) of
 ## Getting started
 Run the following commands to install the required packages:
 ```bash
-pip3 install -r requirements.txt
-python3 setup.py build_ext --inplace
+$ pip3 install -r requirements.txt
+$ jupyter notebook
 ```
 All the notebooks use [dotenv](https://pypi.org/project/python-dotenv/) to store connection credentials. The driver connection requires the Neo4j username, password, and bolt URL to run the notebooks.
 
